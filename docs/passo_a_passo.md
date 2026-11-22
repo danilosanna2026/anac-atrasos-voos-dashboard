@@ -27,3 +27,10 @@ Os resultados batem com fatos públicos independentes dos dados: 10/12/2025 apar
 
 ## 6. Painel
 Fontes: `fato_dia_companhia`, `fato_aeroporto_mes`, `fato_rotas_mes`, `dim_aeroporto` (CSV em `data/painel/`). Campos calculados: ver `docs/dicionario_de_dados.md`.
+
+Como foi montado:
+1. Os CSV de `data/painel/` foram publicados neste repositório.
+2. Uma planilha do Google Planilhas lê cada CSV com `IMPORTDATA`, apontando para o arquivo bruto do repositório. O envio direto de CSV e o conector de Excel do Looker Studio não funcionaram no meu caso, por isso essa ponte.
+3. O Looker Studio se conecta à planilha. As taxas são campos calculados (soma dos voos atrasados dividida pela soma dos voos analisáveis), o que mantém o resultado correto em qualquer filtro.
+
+Página atual do painel: cartões com a taxa de atraso (16,02%), a taxa de cancelamento (2,83%) e o total de voos programados (977.584), série diária da taxa de atraso, comparação entre companhias e filtro doméstico/internacional. Esses números conferem com a tabela de resultados do README. As visões por aeroporto e por rota ainda não estão no painel: as tabelas estão em `data/painel/` e as consultas em `sql/02_indicadores.sql`.
