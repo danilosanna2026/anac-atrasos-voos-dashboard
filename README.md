@@ -40,7 +40,7 @@ Análise de **977.584 voos programados em 2025** (dados abertos da ANAC) com Pyt
 - **Sem causa de atraso**: a coluna `Código Justificativa` vem `N/A` em 100% das linhas de 2025.
 - **Fuso horário não informado** nos arquivos; por isso não fiz análise por hora do dia. Atrasos (diferença entre dois horários) não são afetados.
 - Segundo relatório da própria ANAC, voo não relatado pela companhia entra no VRA como pontual (horário real = previsto). Medi isso nos dados: só 0,3% dos voos têm partida e chegada exatamente iguais ao previsto, então o efeito parece pequeno, mas não dá para descartá-lo.
-- No painel, o atraso de chegada aparece junto ao **aeroporto de origem** do voo (os voos que saíram dali). Atraso na partida é o indicador mais direto por aeroporto.
+- Na tabela por aeroporto (`data/painel/fato_aeroporto_mes.csv`), o atraso de chegada aparece junto ao **aeroporto de origem** do voo (os voos que saíram dali). Atraso na partida é o indicador mais direto por aeroporto.
 - No painel, só Azul, LATAM Brasil e GOL aparecem separadas; as demais companhias (inclusive estrangeiras) ficam agrupadas em "Demais companhias".
 - Comparar companhias é descritivo: rotas, aeroportos e horários diferem entre elas e não foram controlados.
 
