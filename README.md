@@ -2,7 +2,7 @@
 
 Análise de **977.584 voos programados em 2025** (dados abertos da ANAC) com Python, SQL (SQLite) e um painel interativo no Looker Studio.
 
-**Painel interativo:** _link será adicionado aqui_
+**Painel interativo:** [abrir no Looker Studio](https://datastudio.google.com/reporting/108c9307-de33-46c1-af7c-1016138d5300) (cartões com a taxa de atraso, a taxa de cancelamento e o total de voos; série diária; comparação entre companhias; filtro doméstico/internacional).
 
 ## O que os dados mostram
 
