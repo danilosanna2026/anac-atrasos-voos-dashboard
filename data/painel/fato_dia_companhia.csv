@@ -1,0 +1,2921 @@
+data,companhia,escopo,voos_programados,voos_cancelados,voos_analisaveis,partidas_atrasadas_15,chegadas_atrasadas_15,chegadas_atrasadas_30,minutos_atraso_chegada_dos_atrasados
+2025-01-01,Azul,Doméstico,572,7,565,58,64,31,2702.0
+2025-01-01,Azul,Internacional,26,1,25,11,13,11,952.0
+2025-01-01,Demais companhias,Doméstico,70,23,47,7,9,6,652.0
+2025-01-01,Demais companhias,Internacional,325,45,279,89,74,46,4713.0
+2025-01-01,GOL,Doméstico,419,2,417,36,33,11,1169.0
+2025-01-01,GOL,Internacional,45,0,45,5,4,4,486.0
+2025-01-01,LATAM Brasil,Doméstico,655,6,649,49,41,21,1694.0
+2025-01-01,LATAM Brasil,Internacional,65,0,65,15,15,7,608.0
+2025-01-02,Azul,Doméstico,815,33,782,204,223,138,11885.0
+2025-01-02,Azul,Internacional,24,1,23,5,8,5,545.0
+2025-01-02,Demais companhias,Doméstico,132,37,94,31,33,22,1992.0
+2025-01-02,Demais companhias,Internacional,387,55,329,127,112,60,9799.0
+2025-01-02,GOL,Doméstico,617,7,609,57,70,21,2984.0
+2025-01-02,GOL,Internacional,48,0,48,4,3,1,91.0
+2025-01-02,LATAM Brasil,Doméstico,728,10,718,89,103,56,3777.0
+2025-01-02,LATAM Brasil,Internacional,71,0,71,13,12,5,733.0
+2025-01-03,Azul,Doméstico,820,16,804,132,164,77,6658.0
+2025-01-03,Azul,Internacional,27,0,27,11,14,9,997.0
+2025-01-03,Demais companhias,Doméstico,149,31,117,29,35,22,1640.0
+2025-01-03,Demais companhias,Internacional,385,57,328,118,86,51,5212.0
+2025-01-03,GOL,Doméstico,653,2,651,60,78,20,3598.0
+2025-01-03,GOL,Internacional,52,0,52,6,4,1,107.0
+2025-01-03,LATAM Brasil,Doméstico,731,18,713,94,106,31,3198.0
+2025-01-03,LATAM Brasil,Internacional,61,1,60,17,15,7,590.0
+2025-01-04,Azul,Doméstico,822,38,784,129,147,71,5557.0
+2025-01-04,Azul,Internacional,30,3,27,11,12,9,1098.0
+2025-01-04,Demais companhias,Doméstico,110,12,98,27,28,17,2609.0
+2025-01-04,Demais companhias,Internacional,400,59,341,133,107,74,7836.0
+2025-01-04,GOL,Doméstico,566,2,563,45,46,21,3973.0
+2025-01-04,GOL,Internacional,76,0,76,12,14,6,976.0
+2025-01-04,LATAM Brasil,Doméstico,655,5,650,71,67,33,3116.0
+2025-01-04,LATAM Brasil,Internacional,62,0,62,13,12,6,545.0
+2025-01-05,Azul,Doméstico,822,26,796,127,141,64,6984.0
+2025-01-05,Azul,Internacional,29,1,28,14,19,11,1407.0
+2025-01-05,Demais companhias,Doméstico,81,6,74,10,11,7,736.0
+2025-01-05,Demais companhias,Internacional,370,40,329,125,112,70,6019.0
+2025-01-05,GOL,Doméstico,606,1,605,60,68,29,3101.0
+2025-01-05,GOL,Internacional,56,0,56,5,7,3,430.0
+2025-01-05,LATAM Brasil,Doméstico,697,10,687,102,91,46,4430.0
+2025-01-05,LATAM Brasil,Internacional,64,0,64,15,9,3,274.0
+2025-01-06,Azul,Doméstico,910,27,883,147,163,82,7635.0
+2025-01-06,Azul,Internacional,21,1,20,11,10,8,995.0
+2025-01-06,Demais companhias,Doméstico,123,11,112,21,25,16,1379.0
+2025-01-06,Demais companhias,Internacional,361,29,331,133,101,74,8547.0
+2025-01-06,GOL,Doméstico,654,2,652,58,72,27,4784.0
+2025-01-06,GOL,Internacional,50,0,50,7,7,4,320.0
+2025-01-06,LATAM Brasil,Doméstico,730,15,715,117,111,45,4184.0
+2025-01-06,LATAM Brasil,Internacional,66,0,66,15,10,7,471.0
+2025-01-07,Azul,Doméstico,868,24,844,217,241,139,12851.0
+2025-01-07,Azul,Internacional,24,3,21,9,8,5,862.0
+2025-01-07,Demais companhias,Doméstico,139,17,122,24,30,19,3012.0
+2025-01-07,Demais companhias,Internacional,341,27,314,113,82,56,5121.0
+2025-01-07,GOL,Doméstico,644,9,634,109,126,60,5537.0
+2025-01-07,GOL,Internacional,55,1,54,7,5,3,269.0
+2025-01-07,LATAM Brasil,Doméstico,734,10,724,143,158,70,5157.0
+2025-01-07,LATAM Brasil,Internacional,66,0,66,15,14,1,300.0
+2025-01-08,Azul,Doméstico,862,35,827,176,195,91,8929.0
+2025-01-08,Azul,Internacional,26,1,25,11,12,9,1393.0
+2025-01-08,Demais companhias,Doméstico,146,17,129,15,27,7,974.0
+2025-01-08,Demais companhias,Internacional,356,24,332,114,90,56,6330.0
+2025-01-08,GOL,Doméstico,645,6,639,65,82,26,3885.0
+2025-01-08,GOL,Internacional,57,0,57,6,5,3,170.0
+2025-01-08,LATAM Brasil,Doméstico,733,8,725,104,116,41,3639.0
+2025-01-08,LATAM Brasil,Internacional,65,0,65,13,13,8,544.0
+2025-01-09,Azul,Doméstico,861,24,837,201,198,118,11141.0
+2025-01-09,Azul,Internacional,20,2,18,8,9,5,643.0
+2025-01-09,Demais companhias,Doméstico,147,28,119,18,23,15,1976.0
+2025-01-09,Demais companhias,Internacional,379,40,336,120,87,59,8604.0
+2025-01-09,GOL,Doméstico,654,9,645,40,38,21,2701.0
+2025-01-09,GOL,Internacional,51,1,50,3,3,1,98.0
+2025-01-09,LATAM Brasil,Doméstico,732,4,728,88,65,29,2190.0
+2025-01-09,LATAM Brasil,Internacional,70,0,70,10,7,4,226.0
+2025-01-10,Azul,Doméstico,870,16,854,136,143,77,6921.0
+2025-01-10,Azul,Internacional,23,0,23,10,10,7,544.0
+2025-01-10,Demais companhias,Doméstico,150,10,140,27,28,21,2183.0
+2025-01-10,Demais companhias,Internacional,372,36,335,106,79,56,6736.0
+2025-01-10,GOL,Doméstico,652,1,651,55,51,25,3810.0
+2025-01-10,GOL,Internacional,56,0,56,5,3,2,232.0
+2025-01-10,LATAM Brasil,Doméstico,731,6,725,76,60,21,2153.0
+2025-01-10,LATAM Brasil,Internacional,61,0,61,5,5,4,278.0
+2025-01-11,Azul,Doméstico,825,28,797,143,155,90,8575.0
+2025-01-11,Azul,Internacional,30,2,28,10,12,4,443.0
+2025-01-11,Demais companhias,Doméstico,107,7,100,13,14,6,876.0
+2025-01-11,Demais companhias,Internacional,385,37,343,96,65,47,6504.0
+2025-01-11,GOL,Doméstico,564,6,557,30,31,7,986.0
+2025-01-11,GOL,Internacional,81,0,81,4,4,2,156.0
+2025-01-11,LATAM Brasil,Doméstico,655,14,641,46,41,14,1371.0
+2025-01-11,LATAM Brasil,Internacional,62,0,62,11,12,8,504.0
+2025-01-12,Azul,Doméstico,820,43,777,147,135,87,7143.0
+2025-01-12,Azul,Internacional,26,0,26,6,7,6,468.0
+2025-01-12,Demais companhias,Doméstico,92,11,81,11,14,9,983.0
+2025-01-12,Demais companhias,Internacional,370,28,339,91,59,43,5218.0
+2025-01-12,GOL,Doméstico,594,1,593,32,31,11,1132.0
+2025-01-12,GOL,Internacional,57,0,57,2,1,0,26.0
+2025-01-12,LATAM Brasil,Doméstico,697,3,694,65,69,22,2324.0
+2025-01-12,LATAM Brasil,Internacional,64,0,64,12,8,4,488.0
+2025-01-13,Azul,Doméstico,913,38,875,125,116,69,5419.0
+2025-01-13,Azul,Internacional,20,0,20,2,3,1,84.0
+2025-01-13,Demais companhias,Doméstico,125,15,110,30,34,26,2728.0
+2025-01-13,Demais companhias,Internacional,381,39,340,114,89,59,8683.0
+2025-01-13,GOL,Doméstico,647,0,647,22,25,10,3115.0
+2025-01-13,GOL,Internacional,50,0,50,1,1,1,34.0
+2025-01-13,LATAM Brasil,Doméstico,730,6,724,51,40,16,1299.0
+2025-01-13,LATAM Brasil,Internacional,66,0,66,9,9,5,561.0
+2025-01-14,Azul,Doméstico,874,45,829,143,150,80,7409.0
+2025-01-14,Azul,Internacional,21,1,20,7,8,5,284.0
+2025-01-14,Demais companhias,Doméstico,134,11,123,20,29,16,1919.0
+2025-01-14,Demais companhias,Internacional,362,35,326,98,73,50,7696.0
+2025-01-14,GOL,Doméstico,646,4,642,29,28,10,2789.0
+2025-01-14,GOL,Internacional,55,1,54,6,4,2,110.0
+2025-01-14,LATAM Brasil,Doméstico,734,19,715,54,45,18,1451.0
+2025-01-14,LATAM Brasil,Internacional,66,0,66,6,3,2,135.0
+2025-01-15,Azul,Doméstico,854,29,825,147,150,82,6570.0
+2025-01-15,Azul,Internacional,26,1,25,5,6,4,399.0
+2025-01-15,Demais companhias,Doméstico,141,16,125,17,21,13,900.0
+2025-01-15,Demais companhias,Internacional,360,27,333,107,68,46,5798.0
+2025-01-15,GOL,Doméstico,646,3,643,61,63,29,4369.0
+2025-01-15,GOL,Internacional,58,1,57,7,6,2,150.0
+2025-01-15,LATAM Brasil,Doméstico,733,4,729,84,87,30,3294.0
+2025-01-15,LATAM Brasil,Internacional,65,0,65,13,10,7,522.0
+2025-01-16,Azul,Doméstico,846,35,811,143,156,93,7112.0
+2025-01-16,Azul,Internacional,19,1,18,3,7,4,362.0
+2025-01-16,Demais companhias,Doméstico,142,25,117,22,28,17,2051.0
+2025-01-16,Demais companhias,Internacional,382,32,347,115,89,57,7445.0
+2025-01-16,GOL,Doméstico,652,10,642,81,94,51,6077.0
+2025-01-16,GOL,Internacional,51,0,51,10,7,7,780.0
+2025-01-16,LATAM Brasil,Doméstico,732,40,692,120,139,66,5610.0
+2025-01-16,LATAM Brasil,Internacional,70,2,68,14,17,12,982.0
+2025-01-17,Azul,Doméstico,863,26,837,98,112,54,4739.0
+2025-01-17,Azul,Internacional,23,1,22,5,7,4,227.0
+2025-01-17,Demais companhias,Doméstico,148,21,127,37,38,22,1939.0
+2025-01-17,Demais companhias,Internacional,373,34,338,103,86,50,5670.0
+2025-01-17,GOL,Doméstico,654,11,643,73,69,33,5519.0
+2025-01-17,GOL,Internacional,56,2,54,7,7,7,1634.0
+2025-01-17,LATAM Brasil,Doméstico,731,29,702,115,117,39,4253.0
+2025-01-17,LATAM Brasil,Internacional,61,0,61,16,14,10,847.0
+2025-01-18,Azul,Doméstico,770,16,754,181,165,85,7133.0
+2025-01-18,Azul,Internacional,29,1,28,6,9,5,593.0
+2025-01-18,Demais companhias,Doméstico,102,20,81,8,14,7,1151.0
+2025-01-18,Demais companhias,Internacional,374,32,334,104,67,41,5498.0
+2025-01-18,GOL,Doméstico,562,4,557,34,30,14,1103.0
+2025-01-18,GOL,Internacional,80,0,80,2,4,0,93.0
+2025-01-18,LATAM Brasil,Doméstico,656,3,653,54,61,22,2088.0
+2025-01-18,LATAM Brasil,Internacional,62,0,62,6,9,3,462.0
+2025-01-19,Azul,Doméstico,803,16,787,84,79,40,5019.0
+2025-01-19,Azul,Internacional,26,0,26,6,8,3,549.0
+2025-01-19,Demais companhias,Doméstico,83,10,73,4,4,3,293.0
+2025-01-19,Demais companhias,Internacional,378,29,346,113,84,50,8619.0
+2025-01-19,GOL,Doméstico,598,2,596,33,26,12,1074.0
+2025-01-19,GOL,Internacional,59,0,59,3,1,0,16.0
+2025-01-19,LATAM Brasil,Doméstico,697,15,682,108,105,50,4000.0
+2025-01-19,LATAM Brasil,Internacional,64,1,63,11,11,7,823.0
+2025-01-20,Azul,Doméstico,875,22,853,85,91,51,4683.0
+2025-01-20,Azul,Internacional,19,0,19,2,3,3,842.0
+2025-01-20,Demais companhias,Doméstico,133,14,119,16,18,12,1214.0
+2025-01-20,Demais companhias,Internacional,376,38,337,142,118,81,9613.0
+2025-01-20,GOL,Doméstico,649,8,641,72,69,28,4890.0
+2025-01-20,GOL,Internacional,51,0,51,5,5,4,371.0
+2025-01-20,LATAM Brasil,Doméstico,730,10,720,89,86,29,3028.0
+2025-01-20,LATAM Brasil,Internacional,66,1,65,10,9,4,297.0
+2025-01-21,Azul,Doméstico,866,37,829,104,106,48,5559.0
+2025-01-21,Azul,Internacional,22,2,20,3,7,1,206.0
+2025-01-21,Demais companhias,Doméstico,142,17,125,23,29,13,1364.0
+2025-01-21,Demais companhias,Internacional,358,37,321,106,83,49,9256.0
+2025-01-21,GOL,Doméstico,635,2,633,37,41,11,2549.0
+2025-01-21,GOL,Internacional,55,0,55,4,2,2,110.0
+2025-01-21,LATAM Brasil,Doméstico,734,8,726,117,98,38,4141.0
+2025-01-21,LATAM Brasil,Internacional,67,0,67,15,9,2,329.0
+2025-01-22,Azul,Doméstico,852,43,809,159,168,103,9232.0
+2025-01-22,Azul,Internacional,26,0,26,0,5,2,164.0
+2025-01-22,Demais companhias,Doméstico,149,20,129,25,25,20,2192.0
+2025-01-22,Demais companhias,Internacional,361,26,335,102,81,50,7247.0
+2025-01-22,GOL,Doméstico,633,3,630,55,55,19,3885.0
+2025-01-22,GOL,Internacional,57,0,57,5,5,4,305.0
+2025-01-22,LATAM Brasil,Doméstico,733,0,733,92,85,31,2706.0
+2025-01-22,LATAM Brasil,Internacional,65,0,65,9,7,2,258.0
+2025-01-23,Azul,Doméstico,852,43,809,141,133,78,6932.0
+2025-01-23,Azul,Internacional,19,0,19,2,4,3,139.0
+2025-01-23,Demais companhias,Doméstico,147,15,132,24,25,14,1229.0
+2025-01-23,Demais companhias,Internacional,394,44,349,118,86,63,10107.0
+2025-01-23,GOL,Doméstico,649,8,640,38,32,11,1093.0
+2025-01-23,GOL,Internacional,51,1,50,2,1,0,16.0
+2025-01-23,LATAM Brasil,Doméstico,732,18,714,67,53,23,1903.0
+2025-01-23,LATAM Brasil,Internacional,70,0,70,13,8,3,379.0
+2025-01-24,Azul,Doméstico,863,51,812,141,146,89,7216.0
+2025-01-24,Azul,Internacional,23,1,22,4,5,3,542.0
+2025-01-24,Demais companhias,Doméstico,155,32,123,19,28,14,1244.0
+2025-01-24,Demais companhias,Internacional,375,37,338,159,129,93,18592.0
+2025-01-24,GOL,Doméstico,642,31,610,104,120,82,10452.0
+2025-01-24,GOL,Internacional,56,2,54,4,4,4,211.0
+2025-01-24,LATAM Brasil,Doméstico,731,53,678,160,178,123,8890.0
+2025-01-24,LATAM Brasil,Internacional,61,4,57,17,17,10,1136.0
+2025-01-25,Azul,Doméstico,772,29,743,105,110,57,5889.0
+2025-01-25,Azul,Internacional,29,2,27,3,7,1,178.0
+2025-01-25,Demais companhias,Doméstico,114,10,104,32,31,24,1930.0
+2025-01-25,Demais companhias,Internacional,383,38,345,106,94,57,8511.0
+2025-01-25,GOL,Doméstico,554,8,545,92,92,62,6631.0
+2025-01-25,GOL,Internacional,82,0,82,9,6,3,231.0
+2025-01-25,LATAM Brasil,Doméstico,655,19,636,102,97,32,3125.0
+2025-01-25,LATAM Brasil,Internacional,62,0,62,12,13,10,945.0
+2025-01-26,Azul,Doméstico,811,24,787,118,123,62,6133.0
+2025-01-26,Azul,Internacional,26,1,25,7,7,6,357.0
+2025-01-26,Demais companhias,Doméstico,86,10,76,11,14,9,943.0
+2025-01-26,Demais companhias,Internacional,377,27,350,128,103,72,6384.0
+2025-01-26,GOL,Doméstico,597,1,596,72,68,25,3157.0
+2025-01-26,GOL,Internacional,60,0,60,4,4,1,102.0
+2025-01-26,LATAM Brasil,Doméstico,697,10,687,151,168,77,6469.0
+2025-01-26,LATAM Brasil,Internacional,64,0,64,18,17,8,964.0
+2025-01-27,Azul,Doméstico,876,26,850,101,104,48,3696.0
+2025-01-27,Azul,Internacional,20,0,20,5,6,4,283.0
+2025-01-27,Demais companhias,Doméstico,124,21,103,13,16,10,1357.0
+2025-01-27,Demais companhias,Internacional,379,36,341,119,95,64,8458.0
+2025-01-27,GOL,Doméstico,645,2,643,49,48,17,2803.0
+2025-01-27,GOL,Internacional,50,0,50,6,4,0,86.0
+2025-01-27,LATAM Brasil,Doméstico,730,16,714,102,75,31,2970.0
+2025-01-27,LATAM Brasil,Internacional,66,0,66,12,10,6,454.0
+2025-01-28,Azul,Doméstico,851,12,839,107,121,58,5713.0
+2025-01-28,Azul,Internacional,19,0,19,0,3,1,96.0
+2025-01-28,Demais companhias,Doméstico,135,25,110,25,29,17,2147.0
+2025-01-28,Demais companhias,Internacional,353,32,320,108,84,52,5739.0
+2025-01-28,GOL,Doméstico,640,1,639,37,40,16,2654.0
+2025-01-28,GOL,Internacional,55,0,55,1,3,1,108.0
+2025-01-28,LATAM Brasil,Doméstico,734,16,718,93,93,29,2972.0
+2025-01-28,LATAM Brasil,Internacional,66,0,66,6,9,3,257.0
+2025-01-29,Azul,Doméstico,843,27,816,152,171,109,8937.0
+2025-01-29,Azul,Internacional,25,0,25,3,3,3,560.0
+2025-01-29,Demais companhias,Doméstico,140,29,111,44,46,37,4396.0
+2025-01-29,Demais companhias,Internacional,351,30,321,87,72,43,5902.0
+2025-01-29,GOL,Doméstico,640,9,631,102,121,62,6369.0
+2025-01-29,GOL,Internacional,57,1,56,5,4,2,117.0
+2025-01-29,LATAM Brasil,Doméstico,733,15,718,135,140,58,5180.0
+2025-01-29,LATAM Brasil,Internacional,65,0,65,10,10,6,422.0
+2025-01-30,Azul,Doméstico,853,29,824,167,198,117,8652.0
+2025-01-30,Azul,Internacional,20,0,20,8,11,9,609.0
+2025-01-30,Demais companhias,Doméstico,143,25,118,38,40,26,3044.0
+2025-01-30,Demais companhias,Internacional,375,32,339,112,93,57,6065.0
+2025-01-30,GOL,Doméstico,649,3,646,66,61,24,3620.0
+2025-01-30,GOL,Internacional,51,0,51,1,2,0,45.0
+2025-01-30,LATAM Brasil,Doméstico,732,2,730,136,147,73,5411.0
+2025-01-30,LATAM Brasil,Internacional,70,0,70,17,20,6,669.0
+2025-01-31,Azul,Doméstico,869,48,821,147,168,84,6530.0
+2025-01-31,Azul,Internacional,23,1,22,4,8,6,326.0
+2025-01-31,Demais companhias,Doméstico,148,27,121,39,40,34,4915.0
+2025-01-31,Demais companhias,Internacional,376,46,330,116,86,60,8510.0
+2025-01-31,GOL,Doméstico,635,6,629,118,129,64,7529.0
+2025-01-31,GOL,Internacional,56,0,56,7,5,4,424.0
+2025-01-31,LATAM Brasil,Doméstico,731,17,714,159,169,76,6372.0
+2025-01-31,LATAM Brasil,Internacional,61,0,61,9,4,1,110.0
+2025-02-01,Azul,Doméstico,757,27,730,126,137,70,5865.0
+2025-02-01,Azul,Internacional,29,0,29,10,10,6,708.0
+2025-02-01,Demais companhias,Doméstico,109,7,102,21,27,11,1259.0
+2025-02-01,Demais companhias,Internacional,398,45,353,103,65,44,6127.0
+2025-02-01,GOL,Doméstico,540,2,538,64,58,14,2044.0
+2025-02-01,GOL,Internacional,80,0,80,9,3,0,63.0
+2025-02-01,LATAM Brasil,Doméstico,655,9,646,161,142,75,6219.0
+2025-02-01,LATAM Brasil,Internacional,62,0,62,13,7,6,542.0
+2025-02-02,Azul,Doméstico,792,25,767,130,141,83,7826.0
+2025-02-02,Azul,Internacional,27,0,27,4,6,4,286.0
+2025-02-02,Demais companhias,Doméstico,84,9,75,16,17,13,1026.0
+2025-02-02,Demais companhias,Internacional,376,32,341,102,68,48,6351.0
+2025-02-02,GOL,Doméstico,563,1,562,47,66,32,2366.0
+2025-02-02,GOL,Internacional,57,0,57,3,0,0,0.0
+2025-02-02,LATAM Brasil,Doméstico,693,17,676,103,116,61,4155.0
+2025-02-02,LATAM Brasil,Internacional,64,1,63,16,13,9,895.0
+2025-02-03,Azul,Doméstico,854,56,798,223,251,150,14726.0
+2025-02-03,Azul,Internacional,20,0,20,2,4,1,110.0
+2025-02-03,Demais companhias,Doméstico,120,17,103,41,43,30,2993.0
+2025-02-03,Demais companhias,Internacional,349,35,314,89,60,36,4596.0
+2025-02-03,GOL,Doméstico,608,6,602,92,90,51,4179.0
+2025-02-03,GOL,Internacional,48,0,48,8,4,3,186.0
+2025-02-03,LATAM Brasil,Doméstico,705,25,680,141,132,44,4530.0
+2025-02-03,LATAM Brasil,Internacional,66,1,65,15,9,2,544.0
+2025-02-04,Azul,Doméstico,846,27,819,163,163,111,11957.0
+2025-02-04,Azul,Internacional,21,0,21,4,3,2,95.0
+2025-02-04,Demais companhias,Doméstico,138,14,124,20,30,11,1277.0
+2025-02-04,Demais companhias,Internacional,359,36,323,92,74,52,7221.0
+2025-02-04,GOL,Doméstico,597,11,586,73,67,33,3992.0
+2025-02-04,GOL,Internacional,50,2,48,6,4,3,134.0
+2025-02-04,LATAM Brasil,Doméstico,703,20,683,109,116,68,4536.0
+2025-02-04,LATAM Brasil,Internacional,68,0,68,18,20,11,830.0
+2025-02-05,Azul,Doméstico,839,34,805,201,211,146,15274.0
+2025-02-05,Azul,Internacional,24,0,24,3,5,2,308.0
+2025-02-05,Demais companhias,Doméstico,136,20,116,22,28,19,2940.0
+2025-02-05,Demais companhias,Internacional,345,25,320,89,54,30,3510.0
+2025-02-05,GOL,Doméstico,629,13,616,77,62,22,2119.0
+2025-02-05,GOL,Internacional,48,0,48,9,4,3,394.0
+2025-02-05,LATAM Brasil,Doméstico,703,19,684,116,102,39,3703.0
+2025-02-05,LATAM Brasil,Internacional,65,0,65,19,14,8,472.0
+2025-02-06,Azul,Doméstico,833,18,815,155,176,90,9446.0
+2025-02-06,Azul,Internacional,20,0,20,5,5,3,164.0
+2025-02-06,Demais companhias,Doméstico,148,21,127,36,38,24,2837.0
+2025-02-06,Demais companhias,Internacional,378,35,341,93,76,50,6761.0
+2025-02-06,GOL,Doméstico,630,5,625,123,133,59,5337.0
+2025-02-06,GOL,Internacional,47,0,47,13,9,7,344.0
+2025-02-06,LATAM Brasil,Doméstico,701,19,682,119,156,84,6160.0
+2025-02-06,LATAM Brasil,Internacional,70,1,69,10,11,5,418.0
+2025-02-07,Azul,Doméstico,855,27,828,161,165,97,8350.0
+2025-02-07,Azul,Internacional,20,0,20,4,5,4,247.0
+2025-02-07,Demais companhias,Doméstico,149,24,125,27,30,20,1899.0
+2025-02-07,Demais companhias,Internacional,383,44,337,115,84,56,9129.0
+2025-02-07,GOL,Doméstico,635,3,632,118,113,50,4479.0
+2025-02-07,GOL,Internacional,49,0,49,7,7,1,168.0
+2025-02-07,LATAM Brasil,Doméstico,697,11,686,117,120,45,4102.0
+2025-02-07,LATAM Brasil,Internacional,63,0,63,14,11,6,416.0
+2025-02-08,Azul,Doméstico,737,15,722,78,77,44,4128.0
+2025-02-08,Azul,Internacional,25,0,25,5,5,5,441.0
+2025-02-08,Demais companhias,Doméstico,112,15,97,31,33,25,3421.0
+2025-02-08,Demais companhias,Internacional,382,34,348,107,75,44,7396.0
+2025-02-08,GOL,Doméstico,450,3,447,24,12,4,745.0
+2025-02-08,GOL,Internacional,72,0,72,9,7,5,260.0
+2025-02-08,LATAM Brasil,Doméstico,619,5,614,44,31,9,855.0
+2025-02-08,LATAM Brasil,Internacional,62,0,62,11,5,2,442.0
+2025-02-09,Azul,Doméstico,780,28,752,120,109,78,6753.0
+2025-02-09,Azul,Internacional,23,0,23,5,8,2,307.0
+2025-02-09,Demais companhias,Doméstico,88,14,74,19,19,16,2141.0
+2025-02-09,Demais companhias,Internacional,372,27,344,109,77,44,6798.0
+2025-02-09,GOL,Doméstico,563,1,562,26,20,6,1585.0
+2025-02-09,GOL,Internacional,51,0,51,4,1,0,26.0
+2025-02-09,LATAM Brasil,Doméstico,660,5,655,33,24,5,852.0
+2025-02-09,LATAM Brasil,Internacional,64,0,64,14,6,4,183.0
+2025-02-10,Azul,Doméstico,854,35,819,127,136,78,6072.0
+2025-02-10,Azul,Internacional,18,0,18,3,4,3,350.0
+2025-02-10,Demais companhias,Doméstico,127,15,112,39,41,35,5541.0
+2025-02-10,Demais companhias,Internacional,366,39,322,111,84,56,6336.0
+2025-02-10,GOL,Doméstico,625,14,611,100,114,63,4804.0
+2025-02-10,GOL,Internacional,47,0,47,7,10,7,594.0
+2025-02-10,LATAM Brasil,Doméstico,700,31,669,117,138,98,6362.0
+2025-02-10,LATAM Brasil,Internacional,65,0,65,13,15,11,553.0
+2025-02-11,Azul,Doméstico,841,20,821,95,105,50,4799.0
+2025-02-11,Azul,Internacional,21,0,21,1,5,1,132.0
+2025-02-11,Demais companhias,Doméstico,134,18,116,35,39,26,3490.0
+2025-02-11,Demais companhias,Internacional,351,38,313,91,72,39,3350.0
+2025-02-11,GOL,Doméstico,596,6,590,63,59,16,2181.0
+2025-02-11,GOL,Internacional,50,0,50,4,2,1,65.0
+2025-02-11,LATAM Brasil,Doméstico,702,11,691,106,98,41,4381.0
+2025-02-11,LATAM Brasil,Internacional,67,0,67,12,11,4,377.0
+2025-02-12,Azul,Doméstico,830,28,802,143,153,85,9264.0
+2025-02-12,Azul,Internacional,23,1,22,3,4,2,170.0
+2025-02-12,Demais companhias,Doméstico,145,15,130,45,42,29,2567.0
+2025-02-12,Demais companhias,Internacional,358,25,331,97,71,44,3618.0
+2025-02-12,GOL,Doméstico,631,2,629,56,50,29,2514.0
+2025-02-12,GOL,Internacional,47,0,47,0,0,0,0.0
+2025-02-12,LATAM Brasil,Doméstico,707,25,682,110,114,62,4366.0
+2025-02-12,LATAM Brasil,Internacional,65,0,65,10,12,5,527.0
+2025-02-13,Azul,Doméstico,835,41,794,194,196,126,10582.0
+2025-02-13,Azul,Internacional,20,0,20,4,6,3,291.0
+2025-02-13,Demais companhias,Doméstico,148,27,121,24,30,22,2682.0
+2025-02-13,Demais companhias,Internacional,384,37,345,127,116,74,7986.0
+2025-02-13,GOL,Doméstico,631,4,627,98,101,53,4312.0
+2025-02-13,GOL,Internacional,46,0,46,9,4,3,172.0
+2025-02-13,LATAM Brasil,Doméstico,701,18,683,183,199,112,8230.0
+2025-02-13,LATAM Brasil,Internacional,70,1,69,27,19,10,1005.0
+2025-02-14,Azul,Doméstico,860,52,808,308,312,223,20826.0
+2025-02-14,Azul,Internacional,20,0,20,10,11,9,645.0
+2025-02-14,Demais companhias,Doméstico,140,22,115,37,38,29,2712.0
+2025-02-14,Demais companhias,Internacional,373,34,336,118,102,69,7391.0
+2025-02-14,GOL,Doméstico,633,14,619,133,131,88,5995.0
+2025-02-14,GOL,Internacional,47,1,46,11,10,6,445.0
+2025-02-14,LATAM Brasil,Doméstico,697,14,683,168,170,77,6294.0
+2025-02-14,LATAM Brasil,Internacional,63,1,62,13,13,8,643.0
+2025-02-15,Azul,Doméstico,748,15,733,139,142,89,9004.0
+2025-02-15,Azul,Internacional,26,0,26,6,8,4,329.0
+2025-02-15,Demais companhias,Doméstico,112,22,90,32,36,28,3406.0
+2025-02-15,Demais companhias,Internacional,380,29,346,117,97,57,6855.0
+2025-02-15,GOL,Doméstico,447,7,440,29,28,12,1473.0
+2025-02-15,GOL,Internacional,72,0,72,13,5,1,118.0
+2025-02-15,LATAM Brasil,Doméstico,619,5,614,44,30,7,1117.0
+2025-02-15,LATAM Brasil,Internacional,61,0,61,9,8,4,366.0
+2025-02-16,Azul,Doméstico,791,12,779,92,107,57,6316.0
+2025-02-16,Azul,Internacional,24,0,24,2,5,1,154.0
+2025-02-16,Demais companhias,Doméstico,84,10,73,8,11,8,899.0
+2025-02-16,Demais companhias,Internacional,373,26,342,118,86,55,7504.0
+2025-02-16,GOL,Doméstico,562,2,560,33,24,11,1043.0
+2025-02-16,GOL,Internacional,50,0,50,3,3,1,83.0
+2025-02-16,LATAM Brasil,Doméstico,660,0,660,47,35,12,1310.0
+2025-02-16,LATAM Brasil,Internacional,63,0,63,14,8,2,291.0
+2025-02-17,Azul,Doméstico,851,4,847,117,117,60,4974.0
+2025-02-17,Azul,Internacional,18,0,18,5,7,3,675.0
+2025-02-17,Demais companhias,Doméstico,121,23,97,29,34,24,5425.0
+2025-02-17,Demais companhias,Internacional,376,47,323,122,101,55,7318.0
+2025-02-17,GOL,Doméstico,619,2,617,48,41,10,1512.0
+2025-02-17,GOL,Internacional,49,0,49,7,6,4,329.0
+2025-02-17,LATAM Brasil,Doméstico,700,10,690,87,84,32,2758.0
+2025-02-17,LATAM Brasil,Internacional,65,0,65,19,17,11,721.0
+2025-02-18,Azul,Doméstico,856,22,834,131,153,93,9205.0
+2025-02-18,Azul,Internacional,20,0,20,4,8,4,969.0
+2025-02-18,Demais companhias,Doméstico,134,20,114,36,38,27,2281.0
+2025-02-18,Demais companhias,Internacional,350,36,313,103,100,76,10052.0
+2025-02-18,GOL,Doméstico,594,26,568,99,116,85,8768.0
+2025-02-18,GOL,Internacional,49,0,49,3,7,2,216.0
+2025-02-18,LATAM Brasil,Doméstico,702,73,629,140,159,105,8767.0
+2025-02-18,LATAM Brasil,Internacional,68,8,60,22,24,16,1440.0
+2025-02-19,Azul,Doméstico,847,17,830,169,170,106,11022.0
+2025-02-19,Azul,Internacional,24,0,24,2,2,2,67.0
+2025-02-19,Demais companhias,Doméstico,138,25,113,40,42,31,4687.0
+2025-02-19,Demais companhias,Internacional,359,25,334,120,83,52,5842.0
+2025-02-19,GOL,Doméstico,627,15,612,56,54,28,3218.0
+2025-02-19,GOL,Internacional,48,0,48,7,11,7,463.0
+2025-02-19,LATAM Brasil,Doméstico,702,39,663,139,139,74,5537.0
+2025-02-19,LATAM Brasil,Internacional,66,1,65,23,16,11,1142.0
+2025-02-20,Azul,Doméstico,859,18,841,202,198,126,11618.0
+2025-02-20,Azul,Internacional,19,0,19,5,7,5,374.0
+2025-02-20,Demais companhias,Doméstico,147,22,125,32,31,22,1979.0
+2025-02-20,Demais companhias,Internacional,379,29,350,129,96,65,9479.0
+2025-02-20,GOL,Doméstico,629,9,620,101,93,47,3662.0
+2025-02-20,GOL,Internacional,48,1,47,8,5,4,407.0
+2025-02-20,LATAM Brasil,Doméstico,701,25,676,153,146,78,5583.0
+2025-02-20,LATAM Brasil,Internacional,71,1,70,22,16,9,1142.0
+2025-02-21,Azul,Doméstico,873,17,856,274,256,156,13673.0
+2025-02-21,Azul,Internacional,21,1,20,9,11,8,544.0
+2025-02-21,Demais companhias,Doméstico,138,16,121,33,33,21,3200.0
+2025-02-21,Demais companhias,Internacional,379,42,335,114,81,46,6860.0
+2025-02-21,GOL,Doméstico,638,0,638,49,36,10,1025.0
+2025-02-21,GOL,Internacional,48,1,47,6,3,2,220.0
+2025-02-21,LATAM Brasil,Doméstico,697,29,668,145,122,62,5111.0
+2025-02-21,LATAM Brasil,Internacional,63,0,63,15,10,7,402.0
+2025-02-22,Azul,Doméstico,756,24,732,129,122,81,6910.0
+2025-02-22,Azul,Internacional,25,0,24,3,4,2,175.0
+2025-02-22,Demais companhias,Doméstico,106,11,95,20,20,14,1236.0
+2025-02-22,Demais companhias,Internacional,379,31,346,92,55,35,5860.0
+2025-02-22,GOL,Doméstico,447,0,447,31,24,15,1925.0
+2025-02-22,GOL,Internacional,74,0,74,7,3,1,112.0
+2025-02-22,LATAM Brasil,Doméstico,619,8,611,37,29,11,984.0
+2025-02-22,LATAM Brasil,Internacional,61,1,60,11,5,3,332.0
+2025-02-23,Azul,Doméstico,795,29,766,125,115,72,7241.0
+2025-02-23,Azul,Internacional,24,0,24,4,4,2,213.0
+2025-02-23,Demais companhias,Doméstico,81,7,74,14,14,9,977.0
+2025-02-23,Demais companhias,Internacional,367,20,345,90,55,36,3813.0
+2025-02-23,GOL,Doméstico,567,0,567,27,22,10,912.0
+2025-02-23,GOL,Internacional,50,0,50,2,1,1,76.0
+2025-02-23,LATAM Brasil,Doméstico,660,7,653,46,33,18,1673.0
+2025-02-23,LATAM Brasil,Internacional,63,1,62,12,3,2,93.0
+2025-02-24,Azul,Doméstico,862,33,829,127,128,76,6813.0
+2025-02-24,Azul,Internacional,20,0,20,3,5,2,187.0
+2025-02-24,Demais companhias,Doméstico,119,7,111,34,33,26,4253.0
+2025-02-24,Demais companhias,Internacional,365,33,328,101,72,44,4618.0
+2025-02-24,GOL,Doméstico,629,4,625,46,30,15,1343.0
+2025-02-24,GOL,Internacional,47,1,46,6,4,3,198.0
+2025-02-24,LATAM Brasil,Doméstico,700,1,699,41,33,14,1132.0
+2025-02-24,LATAM Brasil,Internacional,65,4,61,7,0,0,0.0
+2025-02-25,Azul,Doméstico,862,12,850,122,126,59,5646.0
+2025-02-25,Azul,Internacional,20,0,20,1,3,1,98.0
+2025-02-25,Demais companhias,Doméstico,131,7,123,37,40,24,1948.0
+2025-02-25,Demais companhias,Internacional,343,28,311,100,68,41,7435.0
+2025-02-25,GOL,Doméstico,605,20,585,52,45,25,2500.0
+2025-02-25,GOL,Internacional,51,0,51,4,3,3,174.0
+2025-02-25,LATAM Brasil,Doméstico,700,24,676,186,165,129,9337.0
+2025-02-25,LATAM Brasil,Internacional,68,1,67,29,24,19,1166.0
+2025-02-26,Azul,Doméstico,848,13,835,138,145,74,6060.0
+2025-02-26,Azul,Internacional,25,0,25,1,2,0,41.0
+2025-02-26,Demais companhias,Doméstico,140,14,126,28,29,20,3187.0
+2025-02-26,Demais companhias,Internacional,368,24,342,115,89,50,7553.0
+2025-02-26,GOL,Doméstico,637,6,631,94,81,30,3182.0
+2025-02-26,GOL,Internacional,48,0,48,8,7,5,970.0
+2025-02-26,LATAM Brasil,Doméstico,703,7,696,83,78,32,2682.0
+2025-02-26,LATAM Brasil,Internacional,65,0,65,25,17,8,910.0
+2025-02-27,Azul,Doméstico,861,33,828,159,184,85,7004.0
+2025-02-27,Azul,Internacional,19,0,19,0,4,2,134.0
+2025-02-27,Demais companhias,Doméstico,143,9,134,40,49,33,4530.0
+2025-02-27,Demais companhias,Internacional,391,37,353,137,111,67,8496.0
+2025-02-27,GOL,Doméstico,644,9,635,144,141,74,5613.0
+2025-02-27,GOL,Internacional,47,1,46,13,10,5,344.0
+2025-02-27,LATAM Brasil,Doméstico,687,5,682,134,140,72,5091.0
+2025-02-27,LATAM Brasil,Internacional,70,0,70,24,18,9,799.0
+2025-02-28,Azul,Doméstico,868,9,859,129,136,77,6364.0
+2025-02-28,Azul,Internacional,19,2,17,2,3,3,308.0
+2025-02-28,Demais companhias,Doméstico,142,14,128,27,31,20,2129.0
+2025-02-28,Demais companhias,Internacional,381,41,337,137,95,67,9005.0
+2025-02-28,GOL,Doméstico,658,2,656,123,100,43,4847.0
+2025-02-28,GOL,Internacional,47,0,47,11,13,8,637.0
+2025-02-28,LATAM Brasil,Doméstico,687,0,687,116,97,38,3955.0
+2025-02-28,LATAM Brasil,Internacional,63,1,62,21,21,15,1357.0
+2025-03-01,Azul,Doméstico,769,7,762,88,87,49,4962.0
+2025-03-01,Azul,Internacional,26,2,24,5,7,5,390.0
+2025-03-01,Demais companhias,Doméstico,93,12,81,9,9,4,417.0
+2025-03-01,Demais companhias,Internacional,383,41,340,141,104,82,11509.0
+2025-03-01,GOL,Doméstico,509,5,504,64,43,21,3246.0
+2025-03-01,GOL,Internacional,78,0,78,13,15,5,402.0
+2025-03-01,LATAM Brasil,Doméstico,566,0,566,47,39,17,1404.0
+2025-03-01,LATAM Brasil,Internacional,59,0,59,18,11,6,400.0
+2025-03-02,Azul,Doméstico,606,5,601,50,49,29,2194.0
+2025-03-02,Azul,Internacional,24,1,23,0,0,0,0.0
+2025-03-02,Demais companhias,Doméstico,43,2,41,7,6,5,497.0
+2025-03-02,Demais companhias,Internacional,347,27,320,90,72,46,4632.0
+2025-03-02,GOL,Doméstico,391,0,391,11,5,1,165.0
+2025-03-02,GOL,Internacional,40,1,39,2,1,0,28.0
+2025-03-02,LATAM Brasil,Doméstico,534,3,531,22,19,7,704.0
+2025-03-02,LATAM Brasil,Internacional,61,2,59,17,8,2,212.0
+2025-03-03,Azul,Doméstico,581,2,579,20,21,16,1540.0
+2025-03-03,Azul,Internacional,22,0,22,2,6,1,133.0
+2025-03-03,Demais companhias,Doméstico,71,10,61,4,7,2,228.0
+2025-03-03,Demais companhias,Internacional,358,22,335,122,101,66,9017.0
+2025-03-03,GOL,Doméstico,375,0,375,5,2,0,35.0
+2025-03-03,GOL,Internacional,36,0,36,5,4,2,718.0
+2025-03-03,LATAM Brasil,Doméstico,500,1,499,24,18,9,774.0
+2025-03-03,LATAM Brasil,Internacional,63,0,63,14,15,8,771.0
+2025-03-04,Azul,Doméstico,754,7,747,57,60,28,3236.0
+2025-03-04,Azul,Internacional,23,1,22,4,6,2,212.0
+2025-03-04,Demais companhias,Doméstico,106,21,85,7,6,3,274.0
+2025-03-04,Demais companhias,Internacional,343,35,306,104,73,46,5058.0
+2025-03-04,GOL,Doméstico,549,10,539,27,21,9,1226.0
+2025-03-04,GOL,Internacional,50,0,50,3,0,0,0.0
+2025-03-04,LATAM Brasil,Doméstico,533,2,531,14,10,3,445.0
+2025-03-04,LATAM Brasil,Internacional,59,0,59,6,6,3,250.0
+2025-03-05,Azul,Doméstico,770,11,759,44,43,17,1494.0
+2025-03-05,Azul,Internacional,28,0,28,3,3,2,113.0
+2025-03-05,Demais companhias,Doméstico,123,18,105,29,31,24,3261.0
+2025-03-05,Demais companhias,Internacional,345,25,319,91,67,49,9434.0
+2025-03-05,GOL,Doméstico,589,6,583,23,16,9,1398.0
+2025-03-05,GOL,Internacional,47,1,46,6,5,4,488.0
+2025-03-05,LATAM Brasil,Doméstico,670,10,660,53,37,18,1499.0
+2025-03-05,LATAM Brasil,Internacional,58,1,57,11,11,5,464.0
+2025-03-06,Azul,Doméstico,772,10,762,58,59,38,4055.0
+2025-03-06,Azul,Internacional,19,0,19,3,4,4,178.0
+2025-03-06,Demais companhias,Doméstico,130,16,114,29,35,24,3487.0
+2025-03-06,Demais companhias,Internacional,367,30,335,128,102,59,7269.0
+2025-03-06,GOL,Doméstico,569,2,566,37,36,8,1590.0
+2025-03-06,GOL,Internacional,44,0,44,3,2,0,35.0
+2025-03-06,LATAM Brasil,Doméstico,693,5,688,62,32,9,1233.0
+2025-03-06,LATAM Brasil,Internacional,66,1,65,10,8,3,369.0
+2025-03-07,Azul,Doméstico,779,11,768,84,82,59,6657.0
+2025-03-07,Azul,Internacional,20,0,20,2,2,1,78.0
+2025-03-07,Demais companhias,Doméstico,134,11,123,31,35,20,4087.0
+2025-03-07,Demais companhias,Internacional,362,30,331,124,97,59,10176.0
+2025-03-07,GOL,Doméstico,571,4,566,32,28,9,796.0
+2025-03-07,GOL,Internacional,47,3,44,4,4,2,954.0
+2025-03-07,LATAM Brasil,Doméstico,684,4,680,45,38,14,1556.0
+2025-03-07,LATAM Brasil,Internacional,59,0,59,9,4,1,102.0
+2025-03-08,Azul,Doméstico,697,6,691,64,62,43,3935.0
+2025-03-08,Azul,Internacional,27,0,27,4,5,2,140.0
+2025-03-08,Demais companhias,Doméstico,98,5,93,24,27,21,1858.0
+2025-03-08,Demais companhias,Internacional,361,30,328,114,93,56,8110.0
+2025-03-08,GOL,Doméstico,464,3,461,18,13,7,840.0
+2025-03-08,GOL,Internacional,74,1,73,12,9,5,2573.0
+2025-03-08,LATAM Brasil,Doméstico,616,4,612,32,26,9,750.0
+2025-03-08,LATAM Brasil,Internacional,59,0,59,7,5,3,185.0
+2025-03-09,Azul,Doméstico,738,11,727,64,66,43,3640.0
+2025-03-09,Azul,Internacional,24,0,23,1,4,2,188.0
+2025-03-09,Demais companhias,Doméstico,77,13,64,18,21,11,681.0
+2025-03-09,Demais companhias,Internacional,350,24,320,102,87,60,11483.0
+2025-03-09,GOL,Doméstico,569,4,565,73,57,28,2747.0
+2025-03-09,GOL,Internacional,46,0,46,2,2,0,41.0
+2025-03-09,LATAM Brasil,Doméstico,648,5,643,55,51,18,2198.0
+2025-03-09,LATAM Brasil,Internacional,64,1,62,12,14,5,1829.0
+2025-03-10,Azul,Doméstico,837,9,828,120,121,64,5716.0
+2025-03-10,Azul,Internacional,20,0,20,8,8,4,414.0
+2025-03-10,Demais companhias,Doméstico,116,11,105,16,22,9,1168.0
+2025-03-10,Demais companhias,Internacional,353,38,312,100,77,48,7983.0
+2025-03-10,GOL,Doméstico,633,0,633,53,38,13,1821.0
+2025-03-10,GOL,Internacional,35,0,35,4,1,0,21.0
+2025-03-10,LATAM Brasil,Doméstico,702,7,695,59,45,13,1344.0
+2025-03-10,LATAM Brasil,Internacional,64,1,63,13,10,6,448.0
+2025-03-11,Azul,Doméstico,840,7,833,152,167,100,9567.0
+2025-03-11,Azul,Internacional,21,0,21,4,3,1,76.0
+2025-03-11,Demais companhias,Doméstico,133,50,83,9,14,10,732.0
+2025-03-11,Demais companhias,Internacional,327,29,297,87,62,39,6767.0
+2025-03-11,GOL,Doméstico,611,4,607,38,29,12,1597.0
+2025-03-11,GOL,Internacional,40,0,40,2,0,0,0.0
+2025-03-11,LATAM Brasil,Doméstico,702,2,700,70,72,20,3159.0
+2025-03-11,LATAM Brasil,Internacional,59,0,59,4,6,1,139.0
+2025-03-12,Azul,Doméstico,838,8,830,97,114,60,6451.0
+2025-03-12,Azul,Internacional,24,0,24,2,2,0,54.0
+2025-03-12,Demais companhias,Doméstico,141,48,92,17,17,13,1361.0
+2025-03-12,Demais companhias,Internacional,333,24,307,87,77,47,8475.0
+2025-03-12,GOL,Doméstico,631,1,630,66,73,31,2673.0
+2025-03-12,GOL,Internacional,37,0,37,2,0,0,0.0
+2025-03-12,LATAM Brasil,Doméstico,705,10,695,109,116,46,4525.0
+2025-03-12,LATAM Brasil,Internacional,59,0,59,8,7,3,295.0
+2025-03-13,Azul,Doméstico,840,12,828,106,110,59,5879.0
+2025-03-13,Azul,Internacional,18,0,18,3,4,3,211.0
+2025-03-13,Demais companhias,Doméstico,99,15,83,16,14,11,1511.0
+2025-03-13,Demais companhias,Internacional,352,30,322,117,99,65,13694.0
+2025-03-13,GOL,Doméstico,635,3,632,77,69,30,3739.0
+2025-03-13,GOL,Internacional,35,0,35,7,8,4,991.0
+2025-03-13,LATAM Brasil,Doméstico,703,5,698,108,99,39,3550.0
+2025-03-13,LATAM Brasil,Internacional,63,0,63,14,7,6,841.0
+2025-03-14,Azul,Doméstico,856,7,849,126,115,61,6013.0
+2025-03-14,Azul,Internacional,15,0,15,1,2,0,39.0
+2025-03-14,Demais companhias,Doméstico,103,8,95,29,29,20,2430.0
+2025-03-14,Demais companhias,Internacional,356,33,323,100,72,52,8811.0
+2025-03-14,GOL,Doméstico,642,3,639,58,48,23,1667.0
+2025-03-14,GOL,Internacional,34,1,33,2,3,2,199.0
+2025-03-14,LATAM Brasil,Doméstico,699,6,693,84,88,39,3238.0
+2025-03-14,LATAM Brasil,Internacional,59,0,59,9,10,4,270.0
+2025-03-15,Azul,Doméstico,738,9,729,88,87,49,3977.0
+2025-03-15,Azul,Internacional,24,0,24,4,6,4,230.0
+2025-03-15,Demais companhias,Doméstico,65,1,64,17,14,12,1756.0
+2025-03-15,Demais companhias,Internacional,350,32,316,73,61,49,7622.0
+2025-03-15,GOL,Doméstico,470,4,466,39,36,17,1705.0
+2025-03-15,GOL,Internacional,61,0,61,9,10,8,1235.0
+2025-03-15,LATAM Brasil,Doméstico,618,6,612,55,58,19,1734.0
+2025-03-15,LATAM Brasil,Internacional,59,0,59,9,8,4,257.0
+2025-03-16,Azul,Doméstico,780,7,773,62,59,30,2882.0
+2025-03-16,Azul,Internacional,22,0,22,3,4,4,214.0
+2025-03-16,Demais companhias,Doméstico,47,4,43,6,6,5,524.0
+2025-03-16,Demais companhias,Internacional,336,17,315,67,47,35,7266.0
+2025-03-16,GOL,Doméstico,572,4,568,47,40,24,1953.0
+2025-03-16,GOL,Internacional,39,0,39,8,7,4,233.0
+2025-03-16,LATAM Brasil,Doméstico,661,9,652,74,59,30,2343.0
+2025-03-16,LATAM Brasil,Internacional,61,0,61,6,9,4,246.0
+2025-03-17,Azul,Doméstico,843,12,831,100,96,68,5344.0
+2025-03-17,Azul,Internacional,21,0,21,1,2,2,138.0
+2025-03-17,Demais companhias,Doméstico,80,7,73,12,12,7,1223.0
+2025-03-17,Demais companhias,Internacional,348,30,314,88,80,48,7006.0
+2025-03-17,GOL,Doméstico,634,5,629,63,45,10,3104.0
+2025-03-17,GOL,Internacional,32,0,32,1,2,1,61.0
+2025-03-17,LATAM Brasil,Doméstico,698,8,690,110,95,30,3103.0
+2025-03-17,LATAM Brasil,Internacional,65,0,65,19,19,9,845.0
+2025-03-18,Azul,Doméstico,842,21,821,127,147,85,6829.0
+2025-03-18,Azul,Internacional,19,0,19,3,3,2,314.0
+2025-03-18,Demais companhias,Doméstico,93,11,82,15,18,8,1046.0
+2025-03-18,Demais companhias,Internacional,326,33,291,76,77,48,5619.0
+2025-03-18,GOL,Doméstico,598,16,582,126,136,82,7599.0
+2025-03-18,GOL,Internacional,40,2,38,15,11,6,429.0
+2025-03-18,LATAM Brasil,Doméstico,702,8,694,194,222,117,9211.0
+2025-03-18,LATAM Brasil,Internacional,59,0,59,22,19,12,1008.0
+2025-03-19,Azul,Doméstico,842,17,825,131,141,78,7477.0
+2025-03-19,Azul,Internacional,23,1,22,2,4,2,125.0
+2025-03-19,Demais companhias,Doméstico,107,9,98,31,35,25,2271.0
+2025-03-19,Demais companhias,Internacional,325,33,290,83,66,43,8254.0
+2025-03-19,GOL,Doméstico,619,3,616,71,81,44,3198.0
+2025-03-19,GOL,Internacional,37,0,37,9,5,3,496.0
+2025-03-19,LATAM Brasil,Doméstico,706,7,699,117,130,64,5157.0
+2025-03-19,LATAM Brasil,Internacional,59,0,59,22,24,13,1604.0
+2025-03-20,Azul,Doméstico,831,5,826,133,141,79,7819.0
+2025-03-20,Azul,Internacional,19,2,17,1,1,1,65.0
+2025-03-20,Demais companhias,Doméstico,101,13,86,17,19,12,1209.0
+2025-03-20,Demais companhias,Internacional,351,35,316,109,74,55,9949.0
+2025-03-20,GOL,Doméstico,630,1,629,90,90,39,4041.0
+2025-03-20,GOL,Internacional,35,0,35,6,3,2,97.0
+2025-03-20,LATAM Brasil,Doméstico,705,8,697,116,116,43,3719.0
+2025-03-20,LATAM Brasil,Internacional,63,2,61,11,12,7,706.0
+2025-03-21,Azul,Doméstico,853,7,846,91,93,49,4248.0
+2025-03-21,Azul,Internacional,15,0,15,0,1,0,26.0
+2025-03-21,Demais companhias,Doméstico,104,14,90,17,20,11,1708.0
+2025-03-21,Demais companhias,Internacional,352,29,322,96,62,38,7131.0
+2025-03-21,GOL,Doméstico,642,9,633,75,63,36,3659.0
+2025-03-21,GOL,Internacional,34,0,34,7,4,1,106.0
+2025-03-21,LATAM Brasil,Doméstico,699,5,694,115,109,38,3524.0
+2025-03-21,LATAM Brasil,Internacional,60,1,59,8,7,5,424.0
+2025-03-22,Azul,Doméstico,732,5,727,77,83,46,4463.0
+2025-03-22,Azul,Internacional,23,0,23,4,4,3,145.0
+2025-03-22,Demais companhias,Doméstico,66,8,58,13,14,11,2404.0
+2025-03-22,Demais companhias,Internacional,348,29,316,81,57,46,10904.0
+2025-03-22,GOL,Doméstico,466,3,463,39,37,13,4172.0
+2025-03-22,GOL,Internacional,61,2,59,4,6,3,318.0
+2025-03-22,LATAM Brasil,Doméstico,621,1,620,47,40,20,1555.0
+2025-03-22,LATAM Brasil,Internacional,59,0,59,9,6,3,396.0
+2025-03-23,Azul,Doméstico,774,10,764,105,121,78,6838.0
+2025-03-23,Azul,Internacional,23,0,23,2,3,2,111.0
+2025-03-23,Demais companhias,Doméstico,45,2,43,11,12,8,891.0
+2025-03-23,Demais companhias,Internacional,337,13,318,79,60,42,7605.0
+2025-03-23,GOL,Doméstico,566,3,563,63,61,24,1952.0
+2025-03-23,GOL,Internacional,39,0,39,6,8,6,849.0
+2025-03-23,LATAM Brasil,Doméstico,663,14,649,101,119,53,4379.0
+2025-03-23,LATAM Brasil,Internacional,61,0,61,16,14,7,733.0
+2025-03-24,Azul,Doméstico,828,11,817,104,115,57,5665.0
+2025-03-24,Azul,Internacional,21,0,21,1,3,2,93.0
+2025-03-24,Demais companhias,Doméstico,80,7,72,19,24,16,2549.0
+2025-03-24,Demais companhias,Internacional,357,33,323,89,72,54,10714.0
+2025-03-24,GOL,Doméstico,627,1,626,61,53,23,2364.0
+2025-03-24,GOL,Internacional,32,0,32,3,4,1,93.0
+2025-03-24,LATAM Brasil,Doméstico,706,10,696,109,106,51,3923.0
+2025-03-24,LATAM Brasil,Internacional,63,0,63,17,17,8,687.0
+2025-03-25,Azul,Doméstico,832,6,826,88,99,50,4152.0
+2025-03-25,Azul,Internacional,18,0,18,2,2,1,58.0
+2025-03-25,Demais companhias,Doméstico,97,9,88,17,23,13,1049.0
+2025-03-25,Demais companhias,Internacional,329,33,295,69,57,39,6946.0
+2025-03-25,GOL,Doméstico,596,5,591,29,23,6,973.0
+2025-03-25,GOL,Internacional,40,1,39,3,4,1,105.0
+2025-03-25,LATAM Brasil,Doméstico,703,12,691,69,71,24,2322.0
+2025-03-25,LATAM Brasil,Internacional,59,0,59,6,10,5,440.0
+2025-03-26,Azul,Doméstico,824,16,808,97,106,71,6059.0
+2025-03-26,Azul,Internacional,22,0,22,0,3,0,54.0
+2025-03-26,Demais companhias,Doméstico,101,12,89,9,16,9,760.0
+2025-03-26,Demais companhias,Internacional,330,26,304,87,76,48,6152.0
+2025-03-26,GOL,Doméstico,613,4,609,45,44,15,2008.0
+2025-03-26,GOL,Internacional,37,1,36,0,2,0,40.0
+2025-03-26,LATAM Brasil,Doméstico,707,11,696,70,69,29,2598.0
+2025-03-26,LATAM Brasil,Internacional,59,0,59,10,13,4,407.0
+2025-03-27,Azul,Doméstico,830,4,826,40,50,20,2157.0
+2025-03-27,Azul,Internacional,16,0,16,2,3,1,87.0
+2025-03-27,Demais companhias,Doméstico,104,9,94,30,33,20,1783.0
+2025-03-27,Demais companhias,Internacional,350,37,313,74,59,35,4901.0
+2025-03-27,GOL,Doméstico,628,6,622,58,54,25,2319.0
+2025-03-27,GOL,Internacional,35,0,35,11,8,5,271.0
+2025-03-27,LATAM Brasil,Doméstico,705,16,689,98,96,42,3203.0
+2025-03-27,LATAM Brasil,Internacional,63,0,63,7,10,3,313.0
+2025-03-28,Azul,Doméstico,840,7,833,125,137,79,6988.0
+2025-03-28,Azul,Internacional,15,1,14,1,2,1,82.0
+2025-03-28,Demais companhias,Doméstico,102,14,88,11,15,9,1823.0
+2025-03-28,Demais companhias,Internacional,348,29,317,114,91,62,8055.0
+2025-03-28,GOL,Doméstico,644,9,635,127,122,43,5851.0
+2025-03-28,GOL,Internacional,34,1,33,4,8,7,597.0
+2025-03-28,LATAM Brasil,Doméstico,703,7,696,149,158,85,5981.0
+2025-03-28,LATAM Brasil,Internacional,58,1,57,14,13,5,430.0
+2025-03-29,Azul,Doméstico,732,1,731,37,36,16,1635.0
+2025-03-29,Azul,Internacional,25,0,25,4,6,3,216.0
+2025-03-29,Demais companhias,Doméstico,68,3,65,10,8,3,434.0
+2025-03-29,Demais companhias,Internacional,348,31,310,92,76,54,11351.0
+2025-03-29,GOL,Doméstico,457,1,456,41,43,17,1649.0
+2025-03-29,GOL,Internacional,61,1,60,7,3,1,105.0
+2025-03-29,LATAM Brasil,Doméstico,620,5,615,98,96,38,3264.0
+2025-03-29,LATAM Brasil,Internacional,58,1,57,14,9,4,940.0
+2025-03-30,Azul,Doméstico,767,11,756,43,45,25,2336.0
+2025-03-30,Azul,Internacional,23,0,23,3,8,6,507.0
+2025-03-30,Demais companhias,Doméstico,50,6,44,13,9,5,452.0
+2025-03-30,Demais companhias,Internacional,323,19,301,91,75,52,6293.0
+2025-03-30,GOL,Doméstico,565,2,563,23,14,6,1066.0
+2025-03-30,GOL,Internacional,49,0,49,1,2,0,34.0
+2025-03-30,LATAM Brasil,Doméstico,677,2,675,62,48,23,1983.0
+2025-03-30,LATAM Brasil,Internacional,59,2,57,10,7,3,511.0
+2025-03-31,Azul,Doméstico,832,26,806,111,136,75,6717.0
+2025-03-31,Azul,Internacional,18,0,17,4,9,4,526.0
+2025-03-31,Demais companhias,Doméstico,80,14,66,17,17,11,1750.0
+2025-03-31,Demais companhias,Internacional,318,24,289,99,90,52,5299.0
+2025-03-31,GOL,Doméstico,634,18,615,111,108,68,6471.0
+2025-03-31,GOL,Internacional,42,0,42,1,2,0,39.0
+2025-03-31,LATAM Brasil,Doméstico,721,33,688,166,177,83,7824.0
+2025-03-31,LATAM Brasil,Internacional,59,0,59,13,14,8,650.0
+2025-04-01,Azul,Doméstico,833,17,816,82,81,45,3631.0
+2025-04-01,Azul,Internacional,19,0,18,3,3,2,248.0
+2025-04-01,Demais companhias,Doméstico,95,14,81,10,15,6,826.0
+2025-04-01,Demais companhias,Internacional,294,27,263,71,71,41,3864.0
+2025-04-01,GOL,Doméstico,630,29,601,37,34,10,1099.0
+2025-04-01,GOL,Internacional,44,0,44,4,4,2,130.0
+2025-04-01,LATAM Brasil,Doméstico,712,19,693,48,43,15,1427.0
+2025-04-01,LATAM Brasil,Internacional,57,0,57,14,9,5,464.0
+2025-04-02,Azul,Doméstico,834,20,814,68,74,50,3940.0
+2025-04-02,Azul,Internacional,27,0,26,3,5,1,171.0
+2025-04-02,Demais companhias,Doméstico,104,16,88,28,30,15,1672.0
+2025-04-02,Demais companhias,Internacional,309,30,276,83,87,65,5772.0
+2025-04-02,GOL,Doméstico,623,12,611,98,105,67,8483.0
+2025-04-02,GOL,Internacional,47,3,44,5,7,1,204.0
+2025-04-02,LATAM Brasil,Doméstico,722,17,705,118,143,73,6372.0
+2025-04-02,LATAM Brasil,Internacional,57,2,55,19,28,15,1134.0
+2025-04-03,Azul,Doméstico,835,17,818,216,222,136,12442.0
+2025-04-03,Azul,Internacional,18,1,17,4,10,5,447.0
+2025-04-03,Demais companhias,Doméstico,105,20,85,14,19,10,766.0
+2025-04-03,Demais companhias,Internacional,317,24,293,93,100,73,7792.0
+2025-04-03,GOL,Doméstico,648,43,605,203,194,119,10912.0
+2025-04-03,GOL,Internacional,47,0,47,15,15,11,901.0
+2025-04-03,LATAM Brasil,Doméstico,717,29,688,193,214,123,8933.0
+2025-04-03,LATAM Brasil,Internacional,61,1,60,26,25,14,1201.0
+2025-04-04,Azul,Doméstico,850,12,838,108,121,68,6473.0
+2025-04-04,Azul,Internacional,16,0,16,5,6,3,325.0
+2025-04-04,Demais companhias,Doméstico,105,17,88,32,31,24,3587.0
+2025-04-04,Demais companhias,Internacional,303,23,278,96,91,64,6053.0
+2025-04-04,GOL,Doméstico,663,11,652,161,163,83,7173.0
+2025-04-04,GOL,Internacional,38,0,38,12,13,7,454.0
+2025-04-04,LATAM Brasil,Doméstico,729,14,715,149,147,67,4810.0
+2025-04-04,LATAM Brasil,Internacional,57,1,56,18,19,11,628.0
+2025-04-05,Azul,Doméstico,739,12,727,91,85,45,4634.0
+2025-04-05,Azul,Internacional,25,1,24,6,7,3,407.0
+2025-04-05,Demais companhias,Doméstico,68,22,46,6,6,4,334.0
+2025-04-05,Demais companhias,Internacional,301,26,273,71,67,47,6298.0
+2025-04-05,GOL,Doméstico,468,7,461,76,69,34,3288.0
+2025-04-05,GOL,Internacional,63,0,63,8,8,3,415.0
+2025-04-05,LATAM Brasil,Doméstico,628,4,624,70,69,31,2919.0
+2025-04-05,LATAM Brasil,Internacional,58,2,56,18,18,9,783.0
+2025-04-06,Azul,Doméstico,776,12,764,80,80,47,4782.0
+2025-04-06,Azul,Internacional,24,0,24,5,6,4,268.0
+2025-04-06,Demais companhias,Doméstico,49,11,38,11,11,8,874.0
+2025-04-06,Demais companhias,Internacional,300,23,273,76,56,42,8311.0
+2025-04-06,GOL,Doméstico,585,2,583,43,38,14,1959.0
+2025-04-06,GOL,Internacional,49,0,49,6,4,0,80.0
+2025-04-06,LATAM Brasil,Doméstico,685,2,683,65,56,21,1992.0
+2025-04-06,LATAM Brasil,Internacional,60,2,58,8,4,0,91.0
+2025-04-07,Azul,Doméstico,843,16,827,77,76,54,4441.0
+2025-04-07,Azul,Internacional,21,0,21,5,5,4,337.0
+2025-04-07,Demais companhias,Doméstico,83,11,72,26,26,17,4330.0
+2025-04-07,Demais companhias,Internacional,318,29,287,94,77,49,9369.0
+2025-04-07,GOL,Doméstico,631,13,618,77,57,28,2384.0
+2025-04-07,GOL,Internacional,40,0,40,2,2,0,41.0
+2025-04-07,LATAM Brasil,Doméstico,721,25,696,80,76,25,3185.0
+2025-04-07,LATAM Brasil,Internacional,57,2,55,8,4,2,136.0
+2025-04-08,Azul,Doméstico,849,19,830,139,137,83,7775.0
+2025-04-08,Azul,Internacional,19,0,19,0,2,1,51.0
+2025-04-08,Demais companhias,Doméstico,98,19,79,17,19,12,2672.0
+2025-04-08,Demais companhias,Internacional,296,25,270,71,51,38,7071.0
+2025-04-08,GOL,Doméstico,638,25,613,57,36,18,2597.0
+2025-04-08,GOL,Internacional,43,0,43,3,3,2,151.0
+2025-04-08,LATAM Brasil,Doméstico,708,21,687,82,79,36,3050.0
+2025-04-08,LATAM Brasil,Internacional,56,0,56,11,10,6,388.0
+2025-04-09,Azul,Doméstico,846,6,840,142,154,90,8385.0
+2025-04-09,Azul,Internacional,27,0,27,5,8,3,1583.0
+2025-04-09,Demais companhias,Doméstico,105,18,87,18,22,14,2556.0
+2025-04-09,Demais companhias,Internacional,311,26,283,71,65,41,11716.0
+2025-04-09,GOL,Doméstico,628,9,619,96,92,48,4589.0
+2025-04-09,GOL,Internacional,45,1,44,10,7,6,420.0
+2025-04-09,LATAM Brasil,Doméstico,720,18,702,120,124,58,4336.0
+2025-04-09,LATAM Brasil,Internacional,56,0,56,10,10,7,483.0
+2025-04-10,Azul,Doméstico,854,14,840,152,171,108,8281.0
+2025-04-10,Azul,Internacional,18,1,17,2,5,2,160.0
+2025-04-10,Demais companhias,Doméstico,103,21,82,15,14,10,764.0
+2025-04-10,Demais companhias,Internacional,299,31,263,80,72,45,7079.0
+2025-04-10,GOL,Doméstico,642,37,605,209,204,142,15582.0
+2025-04-10,GOL,Internacional,24,0,24,5,4,2,184.0
+2025-04-10,LATAM Brasil,Doméstico,715,30,685,216,244,149,10848.0
+2025-04-10,LATAM Brasil,Internacional,49,0,49,16,12,8,605.0
+2025-04-11,Azul,Doméstico,862,13,849,144,142,107,9367.0
+2025-04-11,Azul,Internacional,16,0,16,1,3,0,72.0
+2025-04-11,Demais companhias,Doméstico,105,19,86,15,20,15,995.0
+2025-04-11,Demais companhias,Internacional,314,25,286,104,89,61,8417.0
+2025-04-11,GOL,Doméstico,654,4,649,193,161,77,8182.0
+2025-04-11,GOL,Internacional,45,0,45,8,7,4,369.0
+2025-04-11,LATAM Brasil,Doméstico,730,31,699,232,212,112,8778.0
+2025-04-11,LATAM Brasil,Internacional,58,0,58,16,19,8,856.0
+2025-04-12,Azul,Doméstico,735,6,729,89,91,44,4981.0
+2025-04-12,Azul,Internacional,32,0,32,5,4,3,260.0
+2025-04-12,Demais companhias,Doméstico,72,5,67,6,6,5,390.0
+2025-04-12,Demais companhias,Internacional,321,24,293,100,91,60,8065.0
+2025-04-12,GOL,Doméstico,465,5,460,47,45,19,2898.0
+2025-04-12,GOL,Internacional,71,0,71,16,11,2,318.0
+2025-04-12,LATAM Brasil,Doméstico,616,6,610,105,85,36,3176.0
+2025-04-12,LATAM Brasil,Internacional,62,0,62,10,12,5,446.0
+2025-04-13,Azul,Doméstico,768,11,757,73,79,35,3954.0
+2025-04-13,Azul,Internacional,30,1,29,3,4,1,96.0
+2025-04-13,Demais companhias,Doméstico,50,2,48,9,9,5,1643.0
+2025-04-13,Demais companhias,Internacional,321,19,299,93,79,52,9079.0
+2025-04-13,GOL,Doméstico,579,1,578,45,39,7,935.0
+2025-04-13,GOL,Internacional,51,0,51,8,5,1,158.0
+2025-04-13,LATAM Brasil,Doméstico,683,15,668,99,79,36,2576.0
+2025-04-13,LATAM Brasil,Internacional,62,0,62,10,9,3,369.0
+2025-04-14,Azul,Doméstico,847,8,839,107,106,57,5029.0
+2025-04-14,Azul,Internacional,19,0,19,3,7,4,302.0
+2025-04-14,Demais companhias,Doméstico,78,5,73,24,27,19,2515.0
+2025-04-14,Demais companhias,Internacional,312,24,286,82,78,45,7581.0
+2025-04-14,GOL,Doméstico,634,7,627,81,80,32,3903.0
+2025-04-14,GOL,Internacional,41,0,41,6,6,3,386.0
+2025-04-14,LATAM Brasil,Doméstico,722,14,708,140,149,59,4949.0
+2025-04-14,LATAM Brasil,Internacional,59,1,58,9,12,5,379.0
+2025-04-15,Azul,Doméstico,856,3,853,114,119,65,6179.0
+2025-04-15,Azul,Internacional,18,0,18,2,2,2,111.0
+2025-04-15,Demais companhias,Doméstico,99,13,86,11,11,8,1002.0
+2025-04-15,Demais companhias,Internacional,302,24,276,60,53,29,5602.0
+2025-04-15,GOL,Doméstico,640,20,620,23,12,8,943.0
+2025-04-15,GOL,Internacional,45,0,45,2,1,0,17.0
+2025-04-15,LATAM Brasil,Doméstico,714,11,703,70,58,16,1905.0
+2025-04-15,LATAM Brasil,Internacional,56,1,55,11,7,3,320.0
+2025-04-16,Azul,Doméstico,846,9,837,132,140,79,8739.0
+2025-04-16,Azul,Internacional,27,0,26,7,10,5,344.0
+2025-04-16,Demais companhias,Doméstico,100,26,74,12,13,6,423.0
+2025-04-16,Demais companhias,Internacional,312,28,281,74,69,39,4638.0
+2025-04-16,GOL,Doméstico,642,3,639,81,55,14,1626.0
+2025-04-16,GOL,Internacional,47,0,47,3,4,1,103.0
+2025-04-16,LATAM Brasil,Doméstico,723,9,714,134,127,56,4228.0
+2025-04-16,LATAM Brasil,Internacional,57,0,57,15,10,5,413.0
+2025-04-17,Azul,Doméstico,861,4,857,91,87,34,4537.0
+2025-04-17,Azul,Internacional,18,1,17,4,5,4,414.0
+2025-04-17,Demais companhias,Doméstico,93,21,72,9,10,8,575.0
+2025-04-17,Demais companhias,Internacional,321,26,293,85,69,41,4543.0
+2025-04-17,GOL,Doméstico,654,8,646,109,85,34,4617.0
+2025-04-17,GOL,Internacional,47,1,46,6,5,4,170.0
+2025-04-17,LATAM Brasil,Doméstico,709,7,702,109,88,32,2848.0
+2025-04-17,LATAM Brasil,Internacional,61,0,61,8,12,3,452.0
+2025-04-18,Azul,Doméstico,755,6,749,62,64,32,2725.0
+2025-04-18,Azul,Internacional,16,0,16,2,4,1,303.0
+2025-04-18,Demais companhias,Doméstico,80,19,61,11,10,6,574.0
+2025-04-18,Demais companhias,Internacional,318,26,289,75,56,32,4286.0
+2025-04-18,GOL,Doméstico,616,1,615,73,62,30,2231.0
+2025-04-18,GOL,Internacional,41,0,41,5,6,2,157.0
+2025-04-18,LATAM Brasil,Doméstico,644,4,640,69,83,32,3156.0
+2025-04-18,LATAM Brasil,Internacional,57,0,57,10,13,3,343.0
+2025-04-19,Azul,Doméstico,545,7,538,42,51,29,3440.0
+2025-04-19,Azul,Internacional,30,0,30,4,7,3,278.0
+2025-04-19,Demais companhias,Doméstico,37,12,24,1,1,0,26.0
+2025-04-19,Demais companhias,Internacional,328,22,302,64,62,27,2938.0
+2025-04-19,GOL,Doméstico,346,1,345,31,32,18,2667.0
+2025-04-19,GOL,Internacional,65,0,65,5,9,4,335.0
+2025-04-19,LATAM Brasil,Doméstico,538,6,532,37,38,12,1118.0
+2025-04-19,LATAM Brasil,Internacional,60,0,60,9,10,3,328.0
+2025-04-20,Azul,Doméstico,536,7,529,33,37,23,2328.0
+2025-04-20,Azul,Internacional,31,0,31,2,5,4,183.0
+2025-04-20,Demais companhias,Doméstico,17,0,17,3,3,2,512.0
+2025-04-20,Demais companhias,Internacional,332,19,307,67,56,30,4395.0
+2025-04-20,GOL,Doméstico,385,1,384,12,10,5,545.0
+2025-04-20,GOL,Internacional,52,0,52,6,4,1,115.0
+2025-04-20,LATAM Brasil,Doméstico,636,4,632,34,26,9,748.0
+2025-04-20,LATAM Brasil,Internacional,62,0,62,5,7,0,187.0
+2025-04-21,Azul,Doméstico,730,0,730,52,55,26,2226.0
+2025-04-21,Azul,Internacional,22,0,22,4,6,3,1645.0
+2025-04-21,Demais companhias,Doméstico,53,12,41,10,9,7,622.0
+2025-04-21,Demais companhias,Internacional,329,23,305,71,58,34,3723.0
+2025-04-21,GOL,Doméstico,598,2,596,46,42,15,2221.0
+2025-04-21,GOL,Internacional,42,0,42,3,2,1,48.0
+2025-04-21,LATAM Brasil,Doméstico,722,6,716,51,46,12,1484.0
+2025-04-21,LATAM Brasil,Internacional,57,0,57,7,8,5,404.0
+2025-04-22,Azul,Doméstico,895,6,889,90,93,50,4317.0
+2025-04-22,Azul,Internacional,15,1,14,1,3,0,73.0
+2025-04-22,Demais companhias,Doméstico,81,16,65,11,12,5,376.0
+2025-04-22,Demais companhias,Internacional,294,20,271,82,58,39,4450.0
+2025-04-22,GOL,Doméstico,642,12,630,98,84,25,3669.0
+2025-04-22,GOL,Internacional,43,0,43,3,3,0,52.0
+2025-04-22,LATAM Brasil,Doméstico,708,1,707,77,62,22,2920.0
+2025-04-22,LATAM Brasil,Internacional,56,0,56,2,3,0,71.0
+2025-04-23,Azul,Doméstico,859,21,838,105,95,53,5292.0
+2025-04-23,Azul,Internacional,25,0,25,1,2,1,65.0
+2025-04-23,Demais companhias,Doméstico,99,11,88,24,27,15,2107.0
+2025-04-23,Demais companhias,Internacional,303,20,275,65,47,29,3255.0
+2025-04-23,GOL,Doméstico,640,14,626,111,93,54,5233.0
+2025-04-23,GOL,Internacional,48,0,48,7,8,3,258.0
+2025-04-23,LATAM Brasil,Doméstico,721,4,717,70,60,26,2402.0
+2025-04-23,LATAM Brasil,Internacional,55,0,55,17,12,7,412.0
+2025-04-24,Azul,Doméstico,853,14,839,132,143,76,5923.0
+2025-04-24,Azul,Internacional,18,1,17,2,2,1,50.0
+2025-04-24,Demais companhias,Doméstico,104,24,79,18,21,9,960.0
+2025-04-24,Demais companhias,Internacional,308,19,287,84,71,53,8431.0
+2025-04-24,GOL,Doméstico,641,3,638,90,77,33,3367.0
+2025-04-24,GOL,Internacional,47,0,47,2,2,0,43.0
+2025-04-24,LATAM Brasil,Doméstico,717,10,707,98,116,54,3978.0
+2025-04-24,LATAM Brasil,Internacional,61,0,61,15,13,6,493.0
+2025-04-25,Azul,Doméstico,866,20,846,164,172,76,6965.0
+2025-04-25,Azul,Internacional,17,0,17,0,1,0,21.0
+2025-04-25,Demais companhias,Doméstico,103,27,76,22,24,15,2099.0
+2025-04-25,Demais companhias,Internacional,310,25,281,84,76,50,8687.0
+2025-04-25,GOL,Doméstico,656,8,648,137,127,65,5994.0
+2025-04-25,GOL,Internacional,40,0,40,5,4,1,110.0
+2025-04-25,LATAM Brasil,Doméstico,731,20,711,195,179,84,7237.0
+2025-04-25,LATAM Brasil,Internacional,57,0,57,14,14,7,716.0
+2025-04-26,Azul,Doméstico,743,24,719,122,126,67,7024.0
+2025-04-26,Azul,Internacional,25,2,23,2,2,1,65.0
+2025-04-26,Demais companhias,Doméstico,75,15,60,9,8,6,1345.0
+2025-04-26,Demais companhias,Internacional,318,22,290,84,65,45,10721.0
+2025-04-26,GOL,Doméstico,460,5,455,56,55,27,4624.0
+2025-04-26,GOL,Internacional,62,0,62,6,4,2,124.0
+2025-04-26,LATAM Brasil,Doméstico,616,11,605,87,74,37,2554.0
+2025-04-26,LATAM Brasil,Internacional,58,0,58,11,10,6,561.0
+2025-04-27,Azul,Doméstico,789,25,764,99,110,53,5026.0
+2025-04-27,Azul,Internacional,23,0,23,2,3,2,115.0
+2025-04-27,Demais companhias,Doméstico,45,2,43,8,9,4,327.0
+2025-04-27,Demais companhias,Internacional,313,20,288,78,65,49,8291.0
+2025-04-27,GOL,Doméstico,578,2,575,66,65,31,3114.0
+2025-04-27,GOL,Internacional,50,1,49,6,5,3,329.0
+2025-04-27,LATAM Brasil,Doméstico,687,16,671,110,94,37,3856.0
+2025-04-27,LATAM Brasil,Internacional,60,0,60,10,5,4,478.0
+2025-04-28,Azul,Doméstico,848,10,838,116,131,67,6322.0
+2025-04-28,Azul,Internacional,19,0,19,3,7,3,727.0
+2025-04-28,Demais companhias,Doméstico,80,6,74,15,18,13,1736.0
+2025-04-28,Demais companhias,Internacional,314,22,290,114,103,70,13790.0
+2025-04-28,GOL,Doméstico,633,2,629,50,40,13,1105.0
+2025-04-28,GOL,Internacional,40,0,40,7,5,1,224.0
+2025-04-28,LATAM Brasil,Doméstico,724,5,719,89,75,32,2616.0
+2025-04-28,LATAM Brasil,Internacional,57,1,56,11,5,3,263.0
+2025-04-29,Azul,Doméstico,860,26,834,186,189,123,10551.0
+2025-04-29,Azul,Internacional,16,2,14,5,4,4,2178.0
+2025-04-29,Demais companhias,Doméstico,95,10,85,19,22,13,1880.0
+2025-04-29,Demais companhias,Internacional,412,158,252,79,67,48,7713.0
+2025-04-29,GOL,Doméstico,643,5,638,46,39,19,1660.0
+2025-04-29,GOL,Internacional,42,0,42,3,3,0,65.0
+2025-04-29,LATAM Brasil,Doméstico,710,14,696,80,81,31,2913.0
+2025-04-29,LATAM Brasil,Internacional,56,0,56,6,5,4,187.0
+2025-04-30,Azul,Doméstico,861,11,850,78,84,35,3681.0
+2025-04-30,Azul,Internacional,24,1,23,3,4,1,110.0
+2025-04-30,Demais companhias,Doméstico,100,17,83,16,21,13,3234.0
+2025-04-30,Demais companhias,Internacional,304,24,276,94,77,50,6472.0
+2025-04-30,GOL,Doméstico,653,12,641,93,75,27,3103.0
+2025-04-30,GOL,Internacional,44,0,44,5,4,3,145.0
+2025-04-30,LATAM Brasil,Doméstico,728,12,716,108,98,35,3085.0
+2025-04-30,LATAM Brasil,Internacional,55,0,55,12,9,3,460.0
+2025-05-01,Azul,Doméstico,746,13,733,67,58,25,2269.0
+2025-05-01,Azul,Internacional,21,0,21,7,6,1,164.0
+2025-05-01,Demais companhias,Doméstico,73,20,53,14,14,10,1225.0
+2025-05-01,Demais companhias,Internacional,314,21,292,94,80,43,7730.0
+2025-05-01,GOL,Doméstico,609,6,603,41,35,18,3009.0
+2025-05-01,GOL,Internacional,45,0,45,5,6,1,151.0
+2025-05-01,LATAM Brasil,Doméstico,722,14,708,102,67,18,1851.0
+2025-05-01,LATAM Brasil,Internacional,61,0,61,8,3,0,55.0
+2025-05-02,Azul,Doméstico,551,6,545,47,41,24,2979.0
+2025-05-02,Azul,Internacional,11,0,11,2,1,0,28.0
+2025-05-02,Demais companhias,Doméstico,45,21,24,2,2,0,39.0
+2025-05-02,Demais companhias,Internacional,303,22,278,78,66,40,5366.0
+2025-05-02,GOL,Doméstico,422,3,419,22,25,16,3142.0
+2025-05-02,GOL,Internacional,38,0,38,5,5,3,219.0
+2025-05-02,LATAM Brasil,Doméstico,662,12,650,63,52,20,2013.0
+2025-05-02,LATAM Brasil,Internacional,59,0,59,8,10,5,384.0
+2025-05-03,Azul,Doméstico,550,9,540,29,27,12,1236.0
+2025-05-03,Azul,Internacional,22,0,22,3,3,1,89.0
+2025-05-03,Demais companhias,Doméstico,35,11,24,2,2,0,46.0
+2025-05-03,Demais companhias,Internacional,312,28,283,87,77,46,8490.0
+2025-05-03,GOL,Doméstico,345,1,344,12,10,8,1185.0
+2025-05-03,GOL,Internacional,58,0,58,3,2,0,43.0
+2025-05-03,LATAM Brasil,Doméstico,602,1,601,48,28,15,1318.0
+2025-05-03,LATAM Brasil,Internacional,62,0,62,9,8,4,653.0
+2025-05-04,Azul,Doméstico,757,9,748,44,38,19,2564.0
+2025-05-04,Azul,Internacional,23,0,23,2,3,2,115.0
+2025-05-04,Demais companhias,Doméstico,45,3,42,12,12,12,811.0
+2025-05-04,Demais companhias,Internacional,324,27,293,77,75,47,5946.0
+2025-05-04,GOL,Doméstico,608,1,607,20,20,6,666.0
+2025-05-04,GOL,Internacional,51,0,51,5,0,0,0.0
+2025-05-04,LATAM Brasil,Doméstico,685,2,683,74,59,28,2155.0
+2025-05-04,LATAM Brasil,Internacional,60,2,58,9,8,3,230.0
+2025-05-05,Azul,Doméstico,896,8,888,83,83,53,5594.0
+2025-05-05,Azul,Internacional,18,0,18,3,3,3,229.0
+2025-05-05,Demais companhias,Doméstico,81,4,76,19,20,8,2170.0
+2025-05-05,Demais companhias,Internacional,316,30,283,93,88,50,6999.0
+2025-05-05,GOL,Doméstico,650,3,647,98,78,27,2405.0
+2025-05-05,GOL,Internacional,37,0,37,3,2,1,54.0
+2025-05-05,LATAM Brasil,Doméstico,727,10,717,77,58,23,2259.0
+2025-05-05,LATAM Brasil,Internacional,61,0,61,13,11,7,874.0
+2025-05-06,Azul,Doméstico,849,6,843,87,85,44,4064.0
+2025-05-06,Azul,Internacional,14,0,14,1,1,1,84.0
+2025-05-06,Demais companhias,Doméstico,93,10,83,16,19,10,1052.0
+2025-05-06,Demais companhias,Internacional,285,25,257,79,73,44,4479.0
+2025-05-06,GOL,Doméstico,644,3,641,36,34,12,1049.0
+2025-05-06,GOL,Internacional,44,0,44,6,4,2,147.0
+2025-05-06,LATAM Brasil,Doméstico,712,12,700,65,47,21,1788.0
+2025-05-06,LATAM Brasil,Internacional,58,0,58,10,10,5,384.0
+2025-05-07,Azul,Doméstico,848,10,837,128,133,67,6156.0
+2025-05-07,Azul,Internacional,24,0,24,4,7,5,319.0
+2025-05-07,Demais companhias,Doméstico,98,8,90,17,18,10,1090.0
+2025-05-07,Demais companhias,Internacional,299,25,269,76,73,47,7305.0
+2025-05-07,GOL,Doméstico,638,9,629,77,77,32,4384.0
+2025-05-07,GOL,Internacional,40,0,40,10,9,7,728.0
+2025-05-07,LATAM Brasil,Doméstico,720,10,710,87,72,33,3323.0
+2025-05-07,LATAM Brasil,Internacional,58,0,58,17,17,12,650.0
+2025-05-08,Azul,Doméstico,841,20,821,114,108,70,6396.0
+2025-05-08,Azul,Internacional,18,1,17,4,6,4,307.0
+2025-05-08,Demais companhias,Doméstico,102,20,82,15,18,10,989.0
+2025-05-08,Demais companhias,Internacional,322,24,293,101,105,70,9547.0
+2025-05-08,GOL,Doméstico,638,9,629,100,90,48,4945.0
+2025-05-08,GOL,Internacional,46,0,46,9,14,7,604.0
+2025-05-08,LATAM Brasil,Doméstico,719,12,707,146,141,63,5070.0
+2025-05-08,LATAM Brasil,Internacional,59,1,58,16,13,9,691.0
+2025-05-09,Azul,Doméstico,854,19,835,121,120,72,7375.0
+2025-05-09,Azul,Internacional,14,0,14,3,6,2,266.0
+2025-05-09,Demais companhias,Doméstico,104,29,75,13,13,7,799.0
+2025-05-09,Demais companhias,Internacional,302,29,270,88,98,49,5581.0
+2025-05-09,GOL,Doméstico,661,4,657,86,85,32,3043.0
+2025-05-09,GOL,Internacional,36,0,36,7,7,4,315.0
+2025-05-09,LATAM Brasil,Doméstico,735,8,727,138,133,46,4159.0
+2025-05-09,LATAM Brasil,Internacional,59,2,57,19,19,10,1054.0
+2025-05-10,Azul,Doméstico,734,9,725,75,77,34,3176.0
+2025-05-10,Azul,Internacional,24,0,24,5,7,4,692.0
+2025-05-10,Demais companhias,Doméstico,75,24,51,5,7,5,1302.0
+2025-05-10,Demais companhias,Internacional,320,27,291,82,73,48,5353.0
+2025-05-10,GOL,Doméstico,464,4,460,41,31,17,1366.0
+2025-05-10,GOL,Internacional,60,0,60,2,3,0,67.0
+2025-05-10,LATAM Brasil,Doméstico,622,5,617,76,70,30,2736.0
+2025-05-10,LATAM Brasil,Internacional,62,0,62,11,9,6,1075.0
+2025-05-11,Azul,Doméstico,783,6,777,68,65,33,2948.0
+2025-05-11,Azul,Internacional,25,0,25,4,4,2,236.0
+2025-05-11,Demais companhias,Doméstico,49,16,33,4,4,3,333.0
+2025-05-11,Demais companhias,Internacional,319,27,285,73,65,29,3545.0
+2025-05-11,GOL,Doméstico,581,4,577,28,15,12,962.0
+2025-05-11,GOL,Internacional,49,0,49,4,3,2,249.0
+2025-05-11,LATAM Brasil,Doméstico,685,6,679,71,53,24,1981.0
+2025-05-11,LATAM Brasil,Internacional,60,0,60,13,11,4,422.0
+2025-05-12,Azul,Doméstico,849,7,842,115,103,56,6469.0
+2025-05-12,Azul,Internacional,19,0,19,5,8,4,246.0
+2025-05-12,Demais companhias,Doméstico,78,10,68,9,9,8,1673.0
+2025-05-12,Demais companhias,Internacional,311,23,284,75,76,39,7538.0
+2025-05-12,GOL,Doméstico,637,0,637,46,41,20,1613.0
+2025-05-12,GOL,Internacional,39,0,39,4,2,1,49.0
+2025-05-12,LATAM Brasil,Doméstico,727,3,724,56,43,10,1311.0
+2025-05-12,LATAM Brasil,Internacional,61,0,61,7,8,1,276.0
+2025-05-13,Azul,Doméstico,852,1,851,96,92,55,4833.0
+2025-05-13,Azul,Internacional,14,0,14,3,1,1,32.0
+2025-05-13,Demais companhias,Doméstico,89,8,81,10,11,8,513.0
+2025-05-13,Demais companhias,Internacional,290,23,265,67,53,37,7241.0
+2025-05-13,GOL,Doméstico,640,12,628,43,40,23,2183.0
+2025-05-13,GOL,Internacional,43,0,43,3,1,0,19.0
+2025-05-13,LATAM Brasil,Doméstico,707,2,705,36,35,11,1232.0
+2025-05-13,LATAM Brasil,Internacional,56,0,56,7,7,4,338.0
+2025-05-14,Azul,Doméstico,837,13,824,95,89,44,4602.0
+2025-05-14,Azul,Internacional,23,0,23,2,3,1,96.0
+2025-05-14,Demais companhias,Doméstico,95,9,86,17,18,7,963.0
+2025-05-14,Demais companhias,Internacional,299,27,265,56,68,37,8700.0
+2025-05-14,GOL,Doméstico,638,2,636,23,26,7,767.0
+2025-05-14,GOL,Internacional,42,0,42,4,1,0,17.0
+2025-05-14,LATAM Brasil,Doméstico,721,13,708,66,51,21,1675.0
+2025-05-14,LATAM Brasil,Internacional,61,0,61,10,7,3,210.0
+2025-05-15,Azul,Doméstico,844,12,832,187,173,117,12847.0
+2025-05-15,Azul,Internacional,19,0,19,3,2,1,104.0
+2025-05-15,Demais companhias,Doméstico,95,7,88,24,20,12,1297.0
+2025-05-15,Demais companhias,Internacional,322,28,291,86,77,44,7589.0
+2025-05-15,GOL,Doméstico,643,1,642,63,42,19,4125.0
+2025-05-15,GOL,Internacional,45,0,45,1,2,1,91.0
+2025-05-15,LATAM Brasil,Doméstico,717,4,713,80,78,25,2474.0
+2025-05-15,LATAM Brasil,Internacional,61,0,61,8,3,0,70.0
+2025-05-16,Azul,Doméstico,856,12,844,187,175,110,11519.0
+2025-05-16,Azul,Internacional,14,0,14,5,5,4,388.0
+2025-05-16,Demais companhias,Doméstico,99,13,86,18,19,16,1544.0
+2025-05-16,Demais companhias,Internacional,296,19,277,94,79,54,7087.0
+2025-05-16,GOL,Doméstico,665,9,656,95,72,33,2599.0
+2025-05-16,GOL,Internacional,37,0,37,9,13,13,1069.0
+2025-05-16,LATAM Brasil,Doméstico,732,2,730,96,87,30,2794.0
+2025-05-16,LATAM Brasil,Internacional,59,0,59,9,12,8,463.0
+2025-05-17,Azul,Doméstico,736,14,722,80,77,45,3459.0
+2025-05-17,Azul,Internacional,26,0,26,5,6,6,419.0
+2025-05-17,Demais companhias,Doméstico,68,13,54,10,11,7,656.0
+2025-05-17,Demais companhias,Internacional,318,28,290,97,84,56,5721.0
+2025-05-17,GOL,Doméstico,462,2,460,34,42,19,1725.0
+2025-05-17,GOL,Internacional,60,1,59,10,18,11,695.0
+2025-05-17,LATAM Brasil,Doméstico,615,1,614,49,58,28,2361.0
+2025-05-17,LATAM Brasil,Internacional,60,0,60,8,6,2,170.0
+2025-05-18,Azul,Doméstico,782,14,766,91,108,49,5306.0
+2025-05-18,Azul,Internacional,25,0,25,4,3,3,96.0
+2025-05-18,Demais companhias,Doméstico,45,2,43,4,6,2,203.0
+2025-05-18,Demais companhias,Internacional,304,23,278,70,66,33,4522.0
+2025-05-18,GOL,Doméstico,581,6,575,78,69,22,2771.0
+2025-05-18,GOL,Internacional,50,0,50,8,10,4,1004.0
+2025-05-18,LATAM Brasil,Doméstico,685,4,681,79,75,22,2289.0
+2025-05-18,LATAM Brasil,Internacional,60,0,60,9,7,3,254.0
+2025-05-19,Azul,Doméstico,843,5,838,96,97,52,5811.0
+2025-05-19,Azul,Internacional,19,0,19,4,3,2,167.0
+2025-05-19,Demais companhias,Doméstico,78,8,70,15,16,10,1518.0
+2025-05-19,Demais companhias,Internacional,308,26,279,81,63,38,5879.0
+2025-05-19,GOL,Doméstico,637,3,634,55,47,17,1935.0
+2025-05-19,GOL,Internacional,38,1,37,3,1,0,20.0
+2025-05-19,LATAM Brasil,Doméstico,727,7,720,72,63,25,2353.0
+2025-05-19,LATAM Brasil,Internacional,61,2,59,9,6,5,436.0
+2025-05-20,Azul,Doméstico,838,11,827,93,95,49,4609.0
+2025-05-20,Azul,Internacional,17,0,17,2,2,0,52.0
+2025-05-20,Demais companhias,Doméstico,95,15,79,12,14,5,624.0
+2025-05-20,Demais companhias,Internacional,281,21,257,67,63,35,4349.0
+2025-05-20,GOL,Doméstico,642,17,625,67,61,31,3020.0
+2025-05-20,GOL,Internacional,41,0,41,7,7,3,696.0
+2025-05-20,LATAM Brasil,Doméstico,705,8,697,57,72,26,2556.0
+2025-05-20,LATAM Brasil,Internacional,55,1,54,10,10,7,1015.0
+2025-05-21,Azul,Doméstico,831,13,818,163,152,80,8739.0
+2025-05-21,Azul,Internacional,25,1,24,4,5,2,157.0
+2025-05-21,Demais companhias,Doméstico,105,4,101,25,25,16,1550.0
+2025-05-21,Demais companhias,Internacional,296,29,263,70,53,39,5891.0
+2025-05-21,GOL,Doméstico,627,6,621,68,65,28,2117.0
+2025-05-21,GOL,Internacional,42,0,42,6,5,1,157.0
+2025-05-21,LATAM Brasil,Doméstico,723,16,707,55,53,17,1832.0
+2025-05-21,LATAM Brasil,Internacional,61,1,60,8,11,6,608.0
+2025-05-22,Azul,Doméstico,842,22,820,149,151,81,7746.0
+2025-05-22,Azul,Internacional,20,0,20,2,6,1,144.0
+2025-05-22,Demais companhias,Doméstico,98,11,87,11,12,4,575.0
+2025-05-22,Demais companhias,Internacional,313,40,272,89,74,50,9726.0
+2025-05-22,GOL,Doméstico,647,11,636,101,98,51,4864.0
+2025-05-22,GOL,Internacional,44,0,44,4,4,2,187.0
+2025-05-22,LATAM Brasil,Doméstico,717,11,706,142,145,90,7515.0
+2025-05-22,LATAM Brasil,Internacional,60,1,59,19,16,11,1254.0
+2025-05-23,Azul,Doméstico,856,8,848,165,164,98,9692.0
+2025-05-23,Azul,Internacional,15,1,14,4,6,4,379.0
+2025-05-23,Demais companhias,Doméstico,96,7,89,15,16,7,2153.0
+2025-05-23,Demais companhias,Internacional,297,29,267,72,49,34,5033.0
+2025-05-23,GOL,Doméstico,661,1,660,81,64,24,2327.0
+2025-05-23,GOL,Internacional,39,0,39,5,5,3,164.0
+2025-05-23,LATAM Brasil,Doméstico,732,9,723,150,127,54,4260.0
+2025-05-23,LATAM Brasil,Internacional,59,0,59,15,9,9,987.0
+2025-05-24,Azul,Doméstico,728,2,726,43,47,26,2349.0
+2025-05-24,Azul,Internacional,25,0,25,2,4,1,1476.0
+2025-05-24,Demais companhias,Doméstico,70,5,65,18,17,9,893.0
+2025-05-24,Demais companhias,Internacional,314,28,285,75,66,43,7252.0
+2025-05-24,GOL,Doméstico,460,6,453,20,16,8,1846.0
+2025-05-24,GOL,Internacional,60,2,58,3,1,1,48.0
+2025-05-24,LATAM Brasil,Doméstico,615,4,611,23,22,9,972.0
+2025-05-24,LATAM Brasil,Internacional,62,0,62,6,3,2,161.0
+2025-05-25,Azul,Doméstico,781,16,764,107,99,76,7271.0
+2025-05-25,Azul,Internacional,25,0,24,2,5,3,364.0
+2025-05-25,Demais companhias,Doméstico,47,0,47,10,10,5,433.0
+2025-05-25,Demais companhias,Internacional,298,25,271,67,56,33,3136.0
+2025-05-25,GOL,Doméstico,586,6,580,51,45,17,1689.0
+2025-05-25,GOL,Internacional,48,0,48,5,6,3,870.0
+2025-05-25,LATAM Brasil,Doméstico,685,2,683,73,53,15,1591.0
+2025-05-25,LATAM Brasil,Internacional,60,0,60,8,8,5,316.0
+2025-05-26,Azul,Doméstico,833,10,823,123,126,79,7893.0
+2025-05-26,Azul,Internacional,19,0,19,4,7,1,259.0
+2025-05-26,Demais companhias,Doméstico,80,9,71,16,21,11,1407.0
+2025-05-26,Demais companhias,Internacional,306,24,280,82,76,49,5386.0
+2025-05-26,GOL,Doméstico,640,6,634,69,69,33,3153.0
+2025-05-26,GOL,Internacional,38,0,38,3,4,3,172.0
+2025-05-26,LATAM Brasil,Doméstico,727,11,716,91,98,29,2696.0
+2025-05-26,LATAM Brasil,Internacional,61,2,59,9,10,6,538.0
+2025-05-27,Azul,Doméstico,841,11,830,82,95,43,3753.0
+2025-05-27,Azul,Internacional,16,2,14,6,6,5,631.0
+2025-05-27,Demais companhias,Doméstico,92,8,84,5,8,2,429.0
+2025-05-27,Demais companhias,Internacional,286,34,251,70,62,43,4999.0
+2025-05-27,GOL,Doméstico,637,15,622,45,44,19,2291.0
+2025-05-27,GOL,Internacional,43,0,43,2,4,2,221.0
+2025-05-27,LATAM Brasil,Doméstico,707,7,700,65,81,22,2819.0
+2025-05-27,LATAM Brasil,Internacional,56,0,56,8,9,3,396.0
+2025-05-28,Azul,Doméstico,831,19,812,148,177,109,11240.0
+2025-05-28,Azul,Internacional,21,2,19,3,5,1,132.0
+2025-05-28,Demais companhias,Doméstico,98,10,88,30,33,22,2011.0
+2025-05-28,Demais companhias,Internacional,309,25,279,96,86,47,10587.0
+2025-05-28,GOL,Doméstico,632,9,623,73,113,38,3921.0
+2025-05-28,GOL,Internacional,42,0,42,3,4,2,121.0
+2025-05-28,LATAM Brasil,Doméstico,720,22,698,135,180,99,7615.0
+2025-05-28,LATAM Brasil,Internacional,58,1,57,9,12,4,374.0
+2025-05-29,Azul,Doméstico,833,12,821,158,177,97,9876.0
+2025-05-29,Azul,Internacional,16,0,16,2,4,1,97.0
+2025-05-29,Demais companhias,Doméstico,102,12,90,18,32,14,1130.0
+2025-05-29,Demais companhias,Internacional,315,19,295,87,72,43,5849.0
+2025-05-29,GOL,Doméstico,647,2,645,67,76,24,2707.0
+2025-05-29,GOL,Internacional,42,1,41,1,1,0,24.0
+2025-05-29,LATAM Brasil,Doméstico,716,12,704,122,144,54,5094.0
+2025-05-29,LATAM Brasil,Internacional,61,1,60,10,5,2,168.0
+2025-05-30,Azul,Doméstico,848,19,829,180,185,112,12836.0
+2025-05-30,Azul,Internacional,16,0,16,2,4,3,298.0
+2025-05-30,Demais companhias,Doméstico,97,13,84,17,19,12,1356.0
+2025-05-30,Demais companhias,Internacional,303,28,274,66,55,36,5193.0
+2025-05-30,GOL,Doméstico,667,13,654,87,73,40,4842.0
+2025-05-30,GOL,Internacional,37,0,37,3,5,2,235.0
+2025-05-30,LATAM Brasil,Doméstico,733,19,714,107,104,40,3702.0
+2025-05-30,LATAM Brasil,Internacional,59,0,59,11,10,6,619.0
+2025-05-31,Azul,Doméstico,720,3,716,69,63,36,2943.0
+2025-05-31,Azul,Internacional,22,0,22,3,5,4,321.0
+2025-05-31,Demais companhias,Doméstico,72,11,61,10,11,9,1561.0
+2025-05-31,Demais companhias,Internacional,315,28,287,83,69,44,5454.0
+2025-05-31,GOL,Doméstico,461,14,446,46,40,30,2803.0
+2025-05-31,GOL,Internacional,60,0,60,4,2,1,138.0
+2025-05-31,LATAM Brasil,Doméstico,627,3,624,59,52,19,2315.0
+2025-05-31,LATAM Brasil,Internacional,62,0,62,11,10,3,288.0
+2025-06-01,Azul,Doméstico,770,8,762,109,96,41,4400.0
+2025-06-01,Azul,Internacional,25,0,25,7,10,9,1990.0
+2025-06-01,Demais companhias,Doméstico,48,5,43,5,6,3,260.0
+2025-06-01,Demais companhias,Internacional,304,29,270,59,48,30,6175.0
+2025-06-01,GOL,Doméstico,585,8,577,31,29,17,1571.0
+2025-06-01,GOL,Internacional,51,0,51,2,3,1,81.0
+2025-06-01,LATAM Brasil,Doméstico,688,3,685,48,47,13,1477.0
+2025-06-01,LATAM Brasil,Internacional,56,0,56,10,4,3,146.0
+2025-06-02,Azul,Doméstico,832,1,831,69,68,34,3407.0
+2025-06-02,Azul,Internacional,19,0,19,6,11,6,412.0
+2025-06-02,Demais companhias,Doméstico,75,14,61,17,16,12,1973.0
+2025-06-02,Demais companhias,Internacional,324,25,296,86,79,54,8643.0
+2025-06-02,GOL,Doméstico,647,2,645,37,34,10,1015.0
+2025-06-02,GOL,Internacional,39,0,39,4,4,3,403.0
+2025-06-02,LATAM Brasil,Doméstico,731,2,729,48,51,6,1355.0
+2025-06-02,LATAM Brasil,Internacional,60,1,59,13,13,6,608.0
+2025-06-03,Azul,Doméstico,820,8,812,45,64,13,1945.0
+2025-06-03,Azul,Internacional,14,0,14,3,4,0,94.0
+2025-06-03,Demais companhias,Doméstico,89,16,72,13,17,9,2237.0
+2025-06-03,Demais companhias,Internacional,287,27,259,97,79,54,9800.0
+2025-06-03,GOL,Doméstico,658,20,638,38,37,10,1370.0
+2025-06-03,GOL,Internacional,42,0,42,1,0,0,0.0
+2025-06-03,LATAM Brasil,Doméstico,724,14,710,62,63,14,1810.0
+2025-06-03,LATAM Brasil,Internacional,58,0,58,6,5,1,137.0
+2025-06-04,Azul,Doméstico,823,26,797,109,104,65,5838.0
+2025-06-04,Azul,Internacional,23,0,23,5,5,2,178.0
+2025-06-04,Demais companhias,Doméstico,88,18,70,9,9,7,930.0
+2025-06-04,Demais companhias,Internacional,299,35,260,64,52,20,2747.0
+2025-06-04,GOL,Doméstico,638,13,625,49,47,18,1604.0
+2025-06-04,GOL,Internacional,43,0,43,3,5,2,286.0
+2025-06-04,LATAM Brasil,Doméstico,731,15,716,94,101,36,3100.0
+2025-06-04,LATAM Brasil,Internacional,58,0,58,10,11,1,231.0
+2025-06-05,Azul,Doméstico,825,26,799,114,120,63,7131.0
+2025-06-05,Azul,Internacional,20,0,20,4,7,3,553.0
+2025-06-05,Demais companhias,Doméstico,93,19,74,11,13,8,615.0
+2025-06-05,Demais companhias,Internacional,310,30,275,83,77,45,4892.0
+2025-06-05,GOL,Doméstico,648,8,640,80,96,42,3722.0
+2025-06-05,GOL,Internacional,42,0,42,1,2,0,43.0
+2025-06-05,LATAM Brasil,Doméstico,723,14,709,144,173,93,6914.0
+2025-06-05,LATAM Brasil,Internacional,63,0,63,20,15,7,465.0
+2025-06-06,Azul,Doméstico,839,11,828,95,98,42,4353.0
+2025-06-06,Azul,Internacional,15,0,15,1,5,3,258.0
+2025-06-06,Demais companhias,Doméstico,96,15,81,23,23,21,2687.0
+2025-06-06,Demais companhias,Internacional,312,25,286,91,76,48,6738.0
+2025-06-06,GOL,Doméstico,663,11,652,95,82,37,4310.0
+2025-06-06,GOL,Internacional,39,0,39,6,9,4,311.0
+2025-06-06,LATAM Brasil,Doméstico,736,14,722,166,156,52,5068.0
+2025-06-06,LATAM Brasil,Internacional,59,0,59,14,12,6,484.0
+2025-06-07,Azul,Doméstico,726,14,712,77,74,50,5973.0
+2025-06-07,Azul,Internacional,22,0,22,7,7,4,360.0
+2025-06-07,Demais companhias,Doméstico,60,8,52,15,15,11,1345.0
+2025-06-07,Demais companhias,Internacional,315,31,281,80,68,44,6591.0
+2025-06-07,GOL,Doméstico,461,1,460,31,29,17,1977.0
+2025-06-07,GOL,Internacional,59,0,59,4,5,3,206.0
+2025-06-07,LATAM Brasil,Doméstico,642,5,637,77,71,32,3381.0
+2025-06-07,LATAM Brasil,Internacional,65,0,65,7,7,4,363.0
+2025-06-08,Azul,Doméstico,769,17,752,95,99,46,4371.0
+2025-06-08,Azul,Internacional,25,0,25,5,4,2,257.0
+2025-06-08,Demais companhias,Doméstico,49,6,43,9,10,4,375.0
+2025-06-08,Demais companhias,Internacional,310,32,274,75,55,37,5905.0
+2025-06-08,GOL,Doméstico,584,7,577,77,77,29,3956.0
+2025-06-08,GOL,Internacional,52,1,51,4,10,4,437.0
+2025-06-08,LATAM Brasil,Doméstico,686,7,679,71,89,39,3308.0
+2025-06-08,LATAM Brasil,Internacional,61,0,61,7,8,2,227.0
+2025-06-09,Azul,Doméstico,829,4,825,85,93,36,4051.0
+2025-06-09,Azul,Internacional,20,1,19,3,3,2,237.0
+2025-06-09,Demais companhias,Doméstico,74,17,57,18,18,15,1742.0
+2025-06-09,Demais companhias,Internacional,322,33,287,81,81,49,8589.0
+2025-06-09,GOL,Doméstico,647,2,645,78,64,21,2163.0
+2025-06-09,GOL,Internacional,38,0,38,5,8,5,259.0
+2025-06-09,LATAM Brasil,Doméstico,729,16,713,97,93,33,3750.0
+2025-06-09,LATAM Brasil,Internacional,61,0,61,12,13,2,317.0
+2025-06-10,Azul,Doméstico,837,18,819,83,87,41,4903.0
+2025-06-10,Azul,Internacional,15,2,13,2,5,2,217.0
+2025-06-10,Demais companhias,Doméstico,86,27,59,13,12,9,1608.0
+2025-06-10,Demais companhias,Internacional,284,25,255,53,51,31,4119.0
+2025-06-10,GOL,Doméstico,654,15,639,57,45,19,2710.0
+2025-06-10,GOL,Internacional,43,0,43,5,4,2,118.0
+2025-06-10,LATAM Brasil,Doméstico,726,20,706,91,85,29,3316.0
+2025-06-10,LATAM Brasil,Internacional,59,0,59,9,6,4,199.0
+2025-06-11,Azul,Doméstico,840,20,820,81,78,34,3803.0
+2025-06-11,Azul,Internacional,27,1,26,9,11,9,661.0
+2025-06-11,Demais companhias,Doméstico,91,21,70,11,13,11,1549.0
+2025-06-11,Demais companhias,Internacional,297,30,264,79,71,45,4746.0
+2025-06-11,GOL,Doméstico,649,19,630,62,61,32,2726.0
+2025-06-11,GOL,Internacional,43,0,43,5,6,3,358.0
+2025-06-11,LATAM Brasil,Doméstico,734,28,706,86,99,33,3456.0
+2025-06-11,LATAM Brasil,Internacional,58,0,58,15,15,8,540.0
+2025-06-12,Azul,Doméstico,832,11,821,99,85,39,4828.0
+2025-06-12,Azul,Internacional,22,1,21,11,12,10,1073.0
+2025-06-12,Demais companhias,Doméstico,92,24,65,8,11,6,544.0
+2025-06-12,Demais companhias,Internacional,298,23,273,100,71,44,6510.0
+2025-06-12,GOL,Doméstico,657,14,643,135,111,41,4564.0
+2025-06-12,GOL,Internacional,46,0,46,8,4,4,320.0
+2025-06-12,LATAM Brasil,Doméstico,725,19,706,124,108,35,3589.0
+2025-06-12,LATAM Brasil,Internacional,63,0,63,12,7,3,285.0
+2025-06-13,Azul,Doméstico,845,8,836,104,109,47,4811.0
+2025-06-13,Azul,Internacional,17,1,16,10,11,10,1443.0
+2025-06-13,Demais companhias,Doméstico,92,21,71,23,24,16,1790.0
+2025-06-13,Demais companhias,Internacional,302,25,275,94,75,50,8607.0
+2025-06-13,GOL,Doméstico,667,10,657,98,72,26,4130.0
+2025-06-13,GOL,Internacional,42,0,42,7,10,5,354.0
+2025-06-13,LATAM Brasil,Doméstico,737,8,729,161,148,58,5109.0
+2025-06-13,LATAM Brasil,Internacional,59,0,59,20,20,11,991.0
+2025-06-14,Azul,Doméstico,731,13,718,50,50,20,2002.0
+2025-06-14,Azul,Internacional,22,0,22,7,8,6,663.0
+2025-06-14,Demais companhias,Doméstico,63,5,58,8,7,5,1776.0
+2025-06-14,Demais companhias,Internacional,325,26,296,82,70,43,6492.0
+2025-06-14,GOL,Doméstico,467,7,460,32,19,8,1712.0
+2025-06-14,GOL,Internacional,62,1,61,12,12,4,446.0
+2025-06-14,LATAM Brasil,Doméstico,646,8,638,48,41,10,1108.0
+2025-06-14,LATAM Brasil,Internacional,65,0,65,16,15,5,453.0
+2025-06-15,Azul,Doméstico,767,5,762,40,37,17,1776.0
+2025-06-15,Azul,Internacional,28,3,25,9,10,6,725.0
+2025-06-15,Demais companhias,Doméstico,47,4,43,4,5,2,272.0
+2025-06-15,Demais companhias,Internacional,312,15,293,88,71,45,7241.0
+2025-06-15,GOL,Doméstico,580,4,576,63,55,30,2774.0
+2025-06-15,GOL,Internacional,55,0,55,10,10,6,614.0
+2025-06-15,LATAM Brasil,Doméstico,687,7,680,53,52,15,1536.0
+2025-06-15,LATAM Brasil,Internacional,61,1,60,18,15,8,568.0
+2025-06-16,Azul,Doméstico,837,10,827,85,84,39,3554.0
+2025-06-16,Azul,Internacional,20,0,20,13,11,10,1048.0
+2025-06-16,Demais companhias,Doméstico,73,7,66,24,27,20,1968.0
+2025-06-16,Demais companhias,Internacional,330,19,309,108,87,52,8718.0
+2025-06-16,GOL,Doméstico,646,7,639,48,38,15,2252.0
+2025-06-16,GOL,Internacional,41,0,41,0,1,0,17.0
+2025-06-16,LATAM Brasil,Doméstico,731,14,717,83,69,30,2528.0
+2025-06-16,LATAM Brasil,Internacional,62,1,61,12,14,8,645.0
+2025-06-17,Azul,Doméstico,832,4,828,50,55,13,1518.0
+2025-06-17,Azul,Internacional,17,0,17,8,9,5,495.0
+2025-06-17,Demais companhias,Doméstico,90,11,78,14,13,7,1393.0
+2025-06-17,Demais companhias,Internacional,289,21,266,92,74,45,5528.0
+2025-06-17,GOL,Doméstico,652,11,641,46,37,10,2687.0
+2025-06-17,GOL,Internacional,44,0,44,2,4,2,114.0
+2025-06-17,LATAM Brasil,Doméstico,729,3,726,81,71,29,2522.0
+2025-06-17,LATAM Brasil,Internacional,61,0,61,9,9,6,402.0
+2025-06-18,Azul,Doméstico,828,8,820,85,90,41,3949.0
+2025-06-18,Azul,Internacional,24,0,24,5,7,3,351.0
+2025-06-18,Demais companhias,Doméstico,82,16,66,10,12,4,340.0
+2025-06-18,Demais companhias,Internacional,315,25,286,101,86,55,6881.0
+2025-06-18,GOL,Doméstico,657,7,650,105,90,26,2671.0
+2025-06-18,GOL,Internacional,45,0,45,7,7,4,232.0
+2025-06-18,LATAM Brasil,Doméstico,739,1,738,163,161,58,5145.0
+2025-06-18,LATAM Brasil,Internacional,58,1,57,10,9,0,210.0
+2025-06-19,Azul,Doméstico,712,6,706,71,72,38,4108.0
+2025-06-19,Azul,Internacional,22,1,21,3,4,3,278.0
+2025-06-19,Demais companhias,Doméstico,67,19,48,4,4,2,123.0
+2025-06-19,Demais companhias,Internacional,323,31,292,87,64,43,7244.0
+2025-06-19,GOL,Doméstico,604,2,602,59,44,14,1387.0
+2025-06-19,GOL,Internacional,46,1,45,2,1,0,19.0
+2025-06-19,LATAM Brasil,Doméstico,722,5,717,78,61,27,2547.0
+2025-06-19,LATAM Brasil,Internacional,63,4,59,15,9,8,1672.0
+2025-06-20,Azul,Doméstico,516,1,515,32,32,17,2755.0
+2025-06-20,Azul,Internacional,15,0,15,3,6,4,237.0
+2025-06-20,Demais companhias,Doméstico,42,15,25,4,4,2,187.0
+2025-06-20,Demais companhias,Internacional,318,21,295,87,61,39,7006.0
+2025-06-20,GOL,Doméstico,432,3,429,14,14,7,522.0
+2025-06-20,GOL,Internacional,39,1,38,3,3,3,114.0
+2025-06-20,LATAM Brasil,Doméstico,667,7,660,56,51,14,1684.0
+2025-06-20,LATAM Brasil,Internacional,59,0,59,8,6,3,811.0
+2025-06-21,Azul,Doméstico,510,1,509,44,42,21,1905.0
+2025-06-21,Azul,Internacional,21,0,21,8,7,4,339.0
+2025-06-21,Demais companhias,Doméstico,41,16,25,3,3,3,179.0
+2025-06-21,Demais companhias,Internacional,329,25,302,80,67,43,7269.0
+2025-06-21,GOL,Doméstico,392,6,386,23,20,7,1483.0
+2025-06-21,GOL,Internacional,63,1,62,6,7,5,290.0
+2025-06-21,LATAM Brasil,Doméstico,647,3,644,98,85,49,4185.0
+2025-06-21,LATAM Brasil,Internacional,65,0,65,18,16,12,758.0
+2025-06-22,Azul,Doméstico,726,1,725,112,112,58,6507.0
+2025-06-22,Azul,Internacional,27,0,27,4,7,4,404.0
+2025-06-22,Demais companhias,Doméstico,46,3,43,6,10,4,608.0
+2025-06-22,Demais companhias,Internacional,323,21,296,88,76,46,7450.0
+2025-06-22,GOL,Doméstico,603,0,603,51,46,21,1609.0
+2025-06-22,GOL,Internacional,56,0,56,4,7,4,218.0
+2025-06-22,LATAM Brasil,Doméstico,691,5,686,111,100,39,3860.0
+2025-06-22,LATAM Brasil,Internacional,61,3,58,11,10,7,571.0
+2025-06-23,Azul,Doméstico,859,11,848,199,235,96,8297.0
+2025-06-23,Azul,Internacional,20,0,20,4,8,4,383.0
+2025-06-23,Demais companhias,Doméstico,75,22,53,14,21,13,1210.0
+2025-06-23,Demais companhias,Internacional,347,24,322,109,108,57,7357.0
+2025-06-23,GOL,Doméstico,666,7,659,150,153,75,6392.0
+2025-06-23,GOL,Internacional,42,1,41,10,14,9,528.0
+2025-06-23,LATAM Brasil,Doméstico,758,44,714,255,266,170,13566.0
+2025-06-23,LATAM Brasil,Internacional,64,3,61,14,24,13,1194.0
+2025-06-24,Azul,Doméstico,820,7,813,237,245,133,11676.0
+2025-06-24,Azul,Internacional,16,0,16,3,5,3,224.0
+2025-06-24,Demais companhias,Doméstico,87,35,52,19,24,18,1947.0
+2025-06-24,Demais companhias,Internacional,301,20,281,102,84,53,9705.0
+2025-06-24,GOL,Doméstico,672,0,672,139,142,57,4586.0
+2025-06-24,GOL,Internacional,49,0,49,9,11,7,496.0
+2025-06-24,LATAM Brasil,Doméstico,774,16,758,237,258,118,9242.0
+2025-06-24,LATAM Brasil,Internacional,63,0,63,22,24,13,1327.0
+2025-06-25,Azul,Doméstico,814,4,810,201,179,118,12059.0
+2025-06-25,Azul,Internacional,25,0,25,7,6,4,212.0
+2025-06-25,Demais companhias,Doméstico,85,24,61,18,22,14,2420.0
+2025-06-25,Demais companhias,Internacional,318,29,286,106,87,58,6077.0
+2025-06-25,GOL,Doméstico,672,0,672,82,63,24,2159.0
+2025-06-25,GOL,Internacional,47,0,47,7,5,1,119.0
+2025-06-25,LATAM Brasil,Doméstico,770,15,755,186,167,73,6130.0
+2025-06-25,LATAM Brasil,Internacional,62,0,62,15,15,6,517.0
+2025-06-26,Azul,Doméstico,835,20,815,151,143,86,6959.0
+2025-06-26,Azul,Internacional,25,0,24,7,8,7,534.0
+2025-06-26,Demais companhias,Doméstico,92,14,78,26,32,22,2913.0
+2025-06-26,Demais companhias,Internacional,330,22,308,113,94,64,13247.0
+2025-06-26,GOL,Doméstico,671,17,654,101,92,41,2851.0
+2025-06-26,GOL,Internacional,51,0,51,8,11,5,383.0
+2025-06-26,LATAM Brasil,Doméstico,749,9,740,228,230,117,8587.0
+2025-06-26,LATAM Brasil,Internacional,66,0,66,16,16,1,421.0
+2025-06-27,Azul,Doméstico,860,12,848,97,102,62,5710.0
+2025-06-27,Azul,Internacional,21,0,21,1,4,1,151.0
+2025-06-27,Demais companhias,Doméstico,85,15,70,17,16,10,1567.0
+2025-06-27,Demais companhias,Internacional,316,25,290,99,62,38,6561.0
+2025-06-27,GOL,Doméstico,686,24,662,136,106,58,4734.0
+2025-06-27,GOL,Internacional,44,0,44,7,7,3,390.0
+2025-06-27,LATAM Brasil,Doméstico,773,16,757,237,217,112,8565.0
+2025-06-27,LATAM Brasil,Internacional,63,0,63,15,13,9,574.0
+2025-06-28,Azul,Doméstico,737,5,732,47,46,29,2391.0
+2025-06-28,Azul,Internacional,28,1,27,4,5,2,209.0
+2025-06-28,Demais companhias,Doméstico,60,4,56,13,14,10,835.0
+2025-06-28,Demais companhias,Internacional,331,31,298,97,69,39,5653.0
+2025-06-28,GOL,Doméstico,522,14,508,51,41,17,2353.0
+2025-06-28,GOL,Internacional,71,1,70,6,8,1,193.0
+2025-06-28,LATAM Brasil,Doméstico,699,13,686,126,101,40,4051.0
+2025-06-28,LATAM Brasil,Internacional,68,0,68,15,9,6,329.0
+2025-06-29,Azul,Doméstico,775,11,764,77,81,42,5418.0
+2025-06-29,Azul,Internacional,31,0,31,10,11,7,689.0
+2025-06-29,Demais companhias,Doméstico,50,12,38,3,5,2,214.0
+2025-06-29,Demais companhias,Internacional,322,17,302,92,72,45,8458.0
+2025-06-29,GOL,Doméstico,609,2,607,49,42,17,1569.0
+2025-06-29,GOL,Internacional,54,0,54,11,11,5,334.0
+2025-06-29,LATAM Brasil,Doméstico,734,21,713,151,146,77,5741.0
+2025-06-29,LATAM Brasil,Internacional,65,0,65,15,14,5,646.0
+2025-06-30,Azul,Doméstico,842,16,826,83,85,41,4834.0
+2025-06-30,Azul,Internacional,23,0,23,6,6,4,290.0
+2025-06-30,Demais companhias,Doméstico,73,16,56,26,27,15,1230.0
+2025-06-30,Demais companhias,Internacional,347,22,320,106,74,39,6166.0
+2025-06-30,GOL,Doméstico,665,3,662,51,40,18,1465.0
+2025-06-30,GOL,Internacional,43,0,43,7,8,3,283.0
+2025-06-30,LATAM Brasil,Doméstico,761,18,743,137,111,47,4046.0
+2025-06-30,LATAM Brasil,Internacional,64,0,64,13,11,4,693.0
+2025-07-01,Azul,Doméstico,807,7,800,97,81,48,3748.0
+2025-07-01,Azul,Internacional,25,0,25,2,2,1,68.0
+2025-07-01,Demais companhias,Doméstico,71,26,45,11,13,8,1032.0
+2025-07-01,Demais companhias,Internacional,340,32,306,98,72,53,9306.0
+2025-07-01,GOL,Doméstico,678,8,670,38,35,13,1429.0
+2025-07-01,GOL,Internacional,49,0,49,2,3,2,117.0
+2025-07-01,LATAM Brasil,Doméstico,767,15,752,101,96,31,2976.0
+2025-07-01,LATAM Brasil,Internacional,60,0,60,13,11,7,543.0
+2025-07-02,Azul,Doméstico,771,35,736,141,127,83,7193.0
+2025-07-02,Azul,Internacional,29,0,29,6,5,4,255.0
+2025-07-02,Demais companhias,Doméstico,74,27,47,11,16,9,638.0
+2025-07-02,Demais companhias,Internacional,348,35,312,100,81,59,11600.0
+2025-07-02,GOL,Doméstico,683,9,674,47,45,26,2554.0
+2025-07-02,GOL,Internacional,53,0,53,3,5,2,191.0
+2025-07-02,LATAM Brasil,Doméstico,763,12,751,130,119,55,5104.0
+2025-07-02,LATAM Brasil,Internacional,66,2,64,25,18,12,1036.0
+2025-07-03,Azul,Doméstico,771,1,770,63,63,35,3278.0
+2025-07-03,Azul,Internacional,30,0,30,4,8,4,340.0
+2025-07-03,Demais companhias,Doméstico,83,30,53,23,23,20,3310.0
+2025-07-03,Demais companhias,Internacional,364,22,342,120,111,77,16794.0
+2025-07-03,GOL,Doméstico,685,5,680,73,63,33,4104.0
+2025-07-03,GOL,Internacional,49,0,49,3,5,0,106.0
+2025-07-03,LATAM Brasil,Doméstico,752,5,747,128,111,52,3912.0
+2025-07-03,LATAM Brasil,Internacional,66,2,64,22,26,12,1501.0
+2025-07-04,Azul,Doméstico,794,9,785,79,70,37,3135.0
+2025-07-04,Azul,Internacional,27,0,27,5,7,2,230.0
+2025-07-04,Demais companhias,Doméstico,81,21,60,12,11,3,562.0
+2025-07-04,Demais companhias,Internacional,363,20,340,106,85,58,6518.0
+2025-07-04,GOL,Doméstico,690,5,685,47,39,16,1467.0
+2025-07-04,GOL,Internacional,47,1,46,2,5,3,215.0
+2025-07-04,LATAM Brasil,Doméstico,766,7,759,184,163,84,6640.0
+2025-07-04,LATAM Brasil,Internacional,64,1,63,21,16,11,807.0
+2025-07-05,Azul,Doméstico,722,3,719,42,42,17,2165.0
+2025-07-05,Azul,Internacional,29,0,29,8,7,5,417.0
+2025-07-05,Demais companhias,Doméstico,53,9,44,5,5,4,1186.0
+2025-07-05,Demais companhias,Internacional,382,30,349,100,91,52,7597.0
+2025-07-05,GOL,Doméstico,565,1,564,32,33,12,1860.0
+2025-07-05,GOL,Internacional,69,0,69,11,7,4,304.0
+2025-07-05,LATAM Brasil,Doméstico,689,5,684,94,79,38,2999.0
+2025-07-05,LATAM Brasil,Internacional,69,0,69,14,15,9,605.0
+2025-07-06,Azul,Doméstico,722,26,696,89,84,58,5530.0
+2025-07-06,Azul,Internacional,32,0,32,3,5,2,205.0
+2025-07-06,Demais companhias,Doméstico,49,6,42,6,6,4,208.0
+2025-07-06,Demais companhias,Internacional,364,24,337,86,68,49,8884.0
+2025-07-06,GOL,Doméstico,612,3,609,56,45,26,3546.0
+2025-07-06,GOL,Internacional,53,2,51,8,6,3,329.0
+2025-07-06,LATAM Brasil,Doméstico,721,1,720,109,90,33,2878.0
+2025-07-06,LATAM Brasil,Internacional,66,0,66,13,11,5,491.0
+2025-07-07,Azul,Doméstico,814,23,791,107,102,72,5868.0
+2025-07-07,Azul,Internacional,24,2,22,3,5,3,168.0
+2025-07-07,Demais companhias,Doméstico,74,12,62,17,18,14,2460.0
+2025-07-07,Demais companhias,Internacional,366,27,338,92,81,48,7609.0
+2025-07-07,GOL,Doméstico,671,17,654,100,85,56,5885.0
+2025-07-07,GOL,Internacional,45,0,45,7,5,4,259.0
+2025-07-07,LATAM Brasil,Doméstico,740,15,725,135,111,40,3862.0
+2025-07-07,LATAM Brasil,Internacional,66,2,64,17,9,3,360.0
+2025-07-08,Azul,Doméstico,787,39,748,209,201,146,15933.0
+2025-07-08,Azul,Internacional,27,0,27,11,11,7,813.0
+2025-07-08,Demais companhias,Doméstico,75,5,70,23,27,22,2032.0
+2025-07-08,Demais companhias,Internacional,344,47,294,102,96,73,11297.0
+2025-07-08,GOL,Doméstico,677,11,666,76,57,30,4375.0
+2025-07-08,GOL,Internacional,49,5,44,15,18,13,3055.0
+2025-07-08,LATAM Brasil,Doméstico,762,25,737,117,106,46,4308.0
+2025-07-08,LATAM Brasil,Internacional,59,9,50,19,16,15,1941.0
+2025-07-09,Azul,Doméstico,780,6,774,59,54,29,2540.0
+2025-07-09,Azul,Internacional,27,0,27,7,7,6,627.0
+2025-07-09,Demais companhias,Doméstico,77,13,64,14,12,9,666.0
+2025-07-09,Demais companhias,Internacional,361,33,326,88,92,59,10980.0
+2025-07-09,GOL,Doméstico,673,2,671,33,28,7,698.0
+2025-07-09,GOL,Internacional,52,2,50,10,9,5,278.0
+2025-07-09,LATAM Brasil,Doméstico,762,14,748,108,94,40,3540.0
+2025-07-09,LATAM Brasil,Internacional,66,2,64,23,18,13,2038.0
+2025-07-10,Azul,Doméstico,776,5,771,29,29,17,1203.0
+2025-07-10,Azul,Internacional,30,1,29,2,4,3,488.0
+2025-07-10,Demais companhias,Doméstico,84,12,72,20,21,15,1536.0
+2025-07-10,Demais companhias,Internacional,363,25,334,107,86,62,8411.0
+2025-07-10,GOL,Doméstico,681,20,660,42,30,12,913.0
+2025-07-10,GOL,Internacional,50,1,49,6,5,4,389.0
+2025-07-10,LATAM Brasil,Doméstico,753,12,741,79,61,23,2239.0
+2025-07-10,LATAM Brasil,Internacional,66,0,66,17,14,5,806.0
+2025-07-11,Azul,Doméstico,793,5,788,66,61,33,3053.0
+2025-07-11,Azul,Internacional,27,0,27,6,7,5,726.0
+2025-07-11,Demais companhias,Doméstico,89,22,67,14,13,8,941.0
+2025-07-11,Demais companhias,Internacional,362,26,333,98,80,47,6206.0
+2025-07-11,GOL,Doméstico,693,6,687,63,47,21,2293.0
+2025-07-11,GOL,Internacional,47,0,47,3,4,2,256.0
+2025-07-11,LATAM Brasil,Doméstico,767,8,759,136,116,32,3701.0
+2025-07-11,LATAM Brasil,Internacional,64,1,63,10,6,2,233.0
+2025-07-12,Azul,Doméstico,717,3,714,44,38,23,1852.0
+2025-07-12,Azul,Internacional,29,1,28,7,8,4,562.0
+2025-07-12,Demais companhias,Doméstico,60,9,51,17,16,11,1498.0
+2025-07-12,Demais companhias,Internacional,380,32,343,102,93,53,10097.0
+2025-07-12,GOL,Doméstico,562,4,558,11,9,3,499.0
+2025-07-12,GOL,Internacional,71,3,68,8,10,5,476.0
+2025-07-12,LATAM Brasil,Doméstico,690,8,682,42,29,10,840.0
+2025-07-12,LATAM Brasil,Internacional,69,2,67,11,8,4,888.0
+2025-07-13,Azul,Doméstico,724,8,716,63,52,24,2407.0
+2025-07-13,Azul,Internacional,32,0,32,7,9,4,321.0
+2025-07-13,Demais companhias,Doméstico,48,10,38,7,5,3,759.0
+2025-07-13,Demais companhias,Internacional,369,26,336,111,96,62,9373.0
+2025-07-13,GOL,Doméstico,621,2,619,50,42,15,1729.0
+2025-07-13,GOL,Internacional,53,2,51,5,9,4,364.0
+2025-07-13,LATAM Brasil,Doméstico,728,11,717,114,85,33,3079.0
+2025-07-13,LATAM Brasil,Internacional,66,2,64,10,12,5,605.0
+2025-07-14,Azul,Doméstico,819,10,809,86,79,45,5277.0
+2025-07-14,Azul,Internacional,24,0,24,5,8,4,351.0
+2025-07-14,Demais companhias,Doméstico,74,10,64,24,23,20,1547.0
+2025-07-14,Demais companhias,Internacional,375,27,345,113,98,71,9479.0
+2025-07-14,GOL,Doméstico,671,6,665,61,42,21,1762.0
+2025-07-14,GOL,Internacional,44,1,43,6,5,3,214.0
+2025-07-14,LATAM Brasil,Doméstico,755,6,749,98,92,32,2933.0
+2025-07-14,LATAM Brasil,Internacional,66,2,64,13,11,4,405.0
+2025-07-15,Azul,Doméstico,792,11,781,125,118,67,5553.0
+2025-07-15,Azul,Internacional,27,2,25,5,6,4,284.0
+2025-07-15,Demais companhias,Doméstico,81,7,74,14,16,10,900.0
+2025-07-15,Demais companhias,Internacional,353,30,319,108,93,69,9473.0
+2025-07-15,GOL,Doméstico,671,19,652,132,118,86,6619.0
+2025-07-15,GOL,Internacional,50,0,50,14,14,11,656.0
+2025-07-15,LATAM Brasil,Doméstico,765,30,735,234,208,128,9994.0
+2025-07-15,LATAM Brasil,Internacional,62,1,61,16,14,11,689.0
+2025-07-16,Azul,Doméstico,788,7,781,71,64,31,3264.0
+2025-07-16,Azul,Internacional,27,1,26,7,8,4,405.0
+2025-07-16,Demais companhias,Doméstico,85,6,79,18,19,11,3362.0
+2025-07-16,Demais companhias,Internacional,359,26,330,123,111,77,13180.0
+2025-07-16,GOL,Doméstico,676,8,668,30,26,13,2605.0
+2025-07-16,GOL,Internacional,52,0,52,3,3,0,64.0
+2025-07-16,LATAM Brasil,Doméstico,764,7,757,125,96,38,3739.0
+2025-07-16,LATAM Brasil,Internacional,65,1,64,21,19,13,1561.0
+2025-07-17,Azul,Doméstico,776,10,766,92,88,34,4296.0
+2025-07-17,Azul,Internacional,30,1,29,1,3,3,128.0
+2025-07-17,Demais companhias,Doméstico,81,7,74,15,16,10,738.0
+2025-07-17,Demais companhias,Internacional,362,23,338,103,80,49,9254.0
+2025-07-17,GOL,Doméstico,676,4,672,58,47,9,1392.0
+2025-07-17,GOL,Internacional,50,0,50,6,5,3,161.0
+2025-07-17,LATAM Brasil,Doméstico,752,5,747,113,115,32,3450.0
+2025-07-17,LATAM Brasil,Internacional,66,0,66,16,17,7,1012.0
+2025-07-18,Azul,Doméstico,792,7,785,103,100,47,4538.0
+2025-07-18,Azul,Internacional,27,0,27,7,6,5,361.0
+2025-07-18,Demais companhias,Doméstico,87,5,82,12,10,5,397.0
+2025-07-18,Demais companhias,Internacional,360,23,336,99,91,48,11533.0
+2025-07-18,GOL,Doméstico,690,7,683,93,84,36,3012.0
+2025-07-18,GOL,Internacional,48,0,48,7,11,4,944.0
+2025-07-18,LATAM Brasil,Doméstico,767,6,761,169,165,60,5532.0
+2025-07-18,LATAM Brasil,Internacional,64,1,63,20,18,14,1505.0
+2025-07-19,Azul,Doméstico,724,7,717,64,67,52,7181.0
+2025-07-19,Azul,Internacional,31,0,31,5,5,3,322.0
+2025-07-19,Demais companhias,Doméstico,59,4,55,17,16,7,901.0
+2025-07-19,Demais companhias,Internacional,376,27,348,78,59,38,8192.0
+2025-07-19,GOL,Doméstico,563,0,563,49,34,21,1938.0
+2025-07-19,GOL,Internacional,71,0,71,4,5,2,255.0
+2025-07-19,LATAM Brasil,Doméstico,691,8,683,72,50,21,1766.0
+2025-07-19,LATAM Brasil,Internacional,68,0,68,9,6,2,177.0
+2025-07-20,Azul,Doméstico,724,20,704,106,101,59,5534.0
+2025-07-20,Azul,Internacional,31,0,31,5,7,2,263.0
+2025-07-20,Demais companhias,Doméstico,51,3,48,7,7,3,1840.0
+2025-07-20,Demais companhias,Internacional,371,17,350,104,86,57,12078.0
+2025-07-20,GOL,Doméstico,618,3,615,103,89,47,4649.0
+2025-07-20,GOL,Internacional,54,0,54,10,9,6,819.0
+2025-07-20,LATAM Brasil,Doméstico,728,10,718,92,71,35,2972.0
+2025-07-20,LATAM Brasil,Internacional,66,0,66,19,16,10,698.0
+2025-07-21,Azul,Doméstico,819,6,813,107,97,62,6694.0
+2025-07-21,Azul,Internacional,24,0,24,2,7,3,221.0
+2025-07-21,Demais companhias,Doméstico,70,9,61,9,9,7,397.0
+2025-07-21,Demais companhias,Internacional,373,28,342,119,118,80,19526.0
+2025-07-21,GOL,Doméstico,673,12,661,117,94,58,6901.0
+2025-07-21,GOL,Internacional,45,1,44,4,5,3,214.0
+2025-07-21,LATAM Brasil,Doméstico,755,20,735,124,104,56,4793.0
+2025-07-21,LATAM Brasil,Internacional,67,1,66,12,18,10,1338.0
+2025-07-22,Azul,Doméstico,794,2,792,76,61,37,3397.0
+2025-07-22,Azul,Internacional,27,0,27,2,6,3,183.0
+2025-07-22,Demais companhias,Doméstico,86,8,78,9,11,4,613.0
+2025-07-22,Demais companhias,Internacional,353,34,314,103,98,68,10229.0
+2025-07-22,GOL,Doméstico,673,37,636,132,113,72,10288.0
+2025-07-22,GOL,Internacional,50,0,50,18,18,14,2173.0
+2025-07-22,LATAM Brasil,Doméstico,765,13,752,214,200,110,7666.0
+2025-07-22,LATAM Brasil,Internacional,60,2,58,23,24,14,2056.0
+2025-07-23,Azul,Doméstico,795,4,791,66,61,28,2653.0
+2025-07-23,Azul,Internacional,27,1,26,7,10,7,513.0
+2025-07-23,Demais companhias,Doméstico,84,5,79,5,9,3,352.0
+2025-07-23,Demais companhias,Internacional,364,32,332,121,121,82,9875.0
+2025-07-23,GOL,Doméstico,674,11,663,80,70,21,2819.0
+2025-07-23,GOL,Internacional,53,0,53,12,16,6,576.0
+2025-07-23,LATAM Brasil,Doméstico,764,7,757,149,118,60,5381.0
+2025-07-23,LATAM Brasil,Internacional,66,0,66,25,21,12,895.0
+2025-07-24,Azul,Doméstico,783,5,778,43,49,20,2030.0
+2025-07-24,Azul,Internacional,29,0,29,7,9,7,1308.0
+2025-07-24,Demais companhias,Doméstico,89,14,75,13,15,10,1340.0
+2025-07-24,Demais companhias,Internacional,373,31,342,121,92,66,7972.0
+2025-07-24,GOL,Doméstico,671,14,657,60,54,27,2974.0
+2025-07-24,GOL,Internacional,50,1,49,1,1,0,16.0
+2025-07-24,LATAM Brasil,Doméstico,752,1,751,104,91,31,3240.0
+2025-07-24,LATAM Brasil,Internacional,66,1,65,17,18,7,812.0
+2025-07-25,Azul,Doméstico,797,6,791,91,112,46,5558.0
+2025-07-25,Azul,Internacional,27,1,26,10,9,5,344.0
+2025-07-25,Demais companhias,Doméstico,90,22,68,13,17,12,779.0
+2025-07-25,Demais companhias,Internacional,372,30,339,110,109,74,9243.0
+2025-07-25,GOL,Doméstico,689,24,665,160,166,82,6994.0
+2025-07-25,GOL,Internacional,47,3,44,7,10,3,311.0
+2025-07-25,LATAM Brasil,Doméstico,767,9,758,201,204,87,7109.0
+2025-07-25,LATAM Brasil,Internacional,64,0,64,18,18,11,920.0
+2025-07-26,Azul,Doméstico,723,5,718,78,71,43,3908.0
+2025-07-26,Azul,Internacional,31,0,31,7,8,4,548.0
+2025-07-26,Demais companhias,Doméstico,62,7,54,11,9,7,515.0
+2025-07-26,Demais companhias,Internacional,375,32,338,89,80,54,6120.0
+2025-07-26,GOL,Doméstico,555,8,546,80,74,34,3762.0
+2025-07-26,GOL,Internacional,71,0,71,16,16,6,859.0
+2025-07-26,LATAM Brasil,Doméstico,691,6,685,99,82,34,3197.0
+2025-07-26,LATAM Brasil,Internacional,67,0,67,12,16,7,516.0
+2025-07-27,Azul,Doméstico,725,11,713,81,94,37,4492.0
+2025-07-27,Azul,Internacional,34,0,34,13,16,13,1232.0
+2025-07-27,Demais companhias,Doméstico,47,3,44,3,3,2,347.0
+2025-07-27,Demais companhias,Internacional,366,27,333,103,110,70,13296.0
+2025-07-27,GOL,Doméstico,616,12,604,96,81,38,3568.0
+2025-07-27,GOL,Internacional,54,0,54,18,15,5,518.0
+2025-07-27,LATAM Brasil,Doméstico,728,15,713,184,169,55,5662.0
+2025-07-27,LATAM Brasil,Internacional,66,0,66,15,19,7,637.0
+2025-07-28,Azul,Doméstico,817,17,800,190,209,111,11407.0
+2025-07-28,Azul,Internacional,24,1,23,5,5,3,282.0
+2025-07-28,Demais companhias,Doméstico,70,10,60,17,20,14,949.0
+2025-07-28,Demais companhias,Internacional,375,28,343,102,94,60,11182.0
+2025-07-28,GOL,Doméstico,667,30,637,183,205,102,8061.0
+2025-07-28,GOL,Internacional,45,0,45,6,6,3,298.0
+2025-07-28,LATAM Brasil,Doméstico,755,27,728,278,312,163,12716.0
+2025-07-28,LATAM Brasil,Internacional,67,1,66,18,24,9,778.0
+2025-07-29,Azul,Doméstico,792,3,789,71,79,28,3240.0
+2025-07-29,Azul,Internacional,27,1,26,6,9,7,476.0
+2025-07-29,Demais companhias,Doméstico,83,14,69,25,27,23,3022.0
+2025-07-29,Demais companhias,Internacional,356,28,327,108,100,70,12404.0
+2025-07-29,GOL,Doméstico,661,14,647,67,65,32,2562.0
+2025-07-29,GOL,Internacional,49,0,49,4,4,3,589.0
+2025-07-29,LATAM Brasil,Doméstico,765,10,755,130,136,51,4866.0
+2025-07-29,LATAM Brasil,Internacional,60,2,58,15,14,9,780.0
+2025-07-30,Azul,Doméstico,782,2,780,70,71,36,3906.0
+2025-07-30,Azul,Internacional,29,0,29,6,8,3,395.0
+2025-07-30,Demais companhias,Doméstico,78,9,69,10,7,2,364.0
+2025-07-30,Demais companhias,Internacional,357,23,332,105,93,67,11397.0
+2025-07-30,GOL,Doméstico,670,12,658,63,60,23,2043.0
+2025-07-30,GOL,Internacional,52,0,52,8,8,6,371.0
+2025-07-30,LATAM Brasil,Doméstico,764,7,757,102,86,26,3187.0
+2025-07-30,LATAM Brasil,Internacional,67,0,67,19,10,3,287.0
+2025-07-31,Azul,Doméstico,770,9,761,51,44,19,1672.0
+2025-07-31,Azul,Internacional,30,0,30,9,10,9,891.0
+2025-07-31,Demais companhias,Doméstico,75,7,68,6,7,4,336.0
+2025-07-31,Demais companhias,Internacional,357,29,327,116,109,62,12529.0
+2025-07-31,GOL,Doméstico,670,10,660,31,23,9,1262.0
+2025-07-31,GOL,Internacional,50,0,50,5,4,2,205.0
+2025-07-31,LATAM Brasil,Doméstico,752,28,724,114,100,36,3407.0
+2025-07-31,LATAM Brasil,Internacional,66,0,66,13,10,5,393.0
+2025-08-01,Azul,Doméstico,794,1,793,52,48,25,2152.0
+2025-08-01,Azul,Internacional,29,0,29,6,7,4,405.0
+2025-08-01,Demais companhias,Doméstico,87,6,81,22,20,16,3528.0
+2025-08-01,Demais companhias,Internacional,359,29,328,125,131,85,12759.0
+2025-08-01,GOL,Doméstico,677,9,668,55,30,17,1939.0
+2025-08-01,GOL,Internacional,47,1,46,5,8,4,362.0
+2025-08-01,LATAM Brasil,Doméstico,781,6,775,132,115,47,3861.0
+2025-08-01,LATAM Brasil,Internacional,64,1,63,17,16,7,549.0
+2025-08-02,Azul,Doméstico,699,0,699,54,52,21,1943.0
+2025-08-02,Azul,Internacional,31,0,31,5,7,3,312.0
+2025-08-02,Demais companhias,Doméstico,59,6,53,15,11,9,821.0
+2025-08-02,Demais companhias,Internacional,366,25,339,130,125,78,10725.0
+2025-08-02,GOL,Doméstico,522,4,518,39,33,7,1208.0
+2025-08-02,GOL,Internacional,71,1,70,8,10,4,397.0
+2025-08-02,LATAM Brasil,Doméstico,707,2,705,71,67,26,3203.0
+2025-08-02,LATAM Brasil,Internacional,65,0,65,20,21,10,668.0
+2025-08-03,Azul,Doméstico,716,5,711,65,66,36,2808.0
+2025-08-03,Azul,Internacional,34,0,34,11,12,5,480.0
+2025-08-03,Demais companhias,Doméstico,47,4,43,5,3,2,521.0
+2025-08-03,Demais companhias,Internacional,361,28,330,102,97,62,10919.0
+2025-08-03,GOL,Doméstico,600,2,598,56,53,25,2842.0
+2025-08-03,GOL,Internacional,54,0,54,5,6,2,169.0
+2025-08-03,LATAM Brasil,Doméstico,745,7,738,129,110,36,3351.0
+2025-08-03,LATAM Brasil,Internacional,64,0,64,15,18,10,629.0
+2025-08-04,Azul,Doméstico,784,4,780,48,44,19,1722.0
+2025-08-04,Azul,Internacional,19,1,18,9,9,6,607.0
+2025-08-04,Demais companhias,Doméstico,74,8,64,6,6,6,551.0
+2025-08-04,Demais companhias,Internacional,358,23,331,91,85,47,7998.0
+2025-08-04,GOL,Doméstico,633,7,626,53,45,22,2460.0
+2025-08-04,GOL,Internacional,45,0,45,5,8,2,239.0
+2025-08-04,LATAM Brasil,Doméstico,770,17,753,94,83,25,2430.0
+2025-08-04,LATAM Brasil,Internacional,63,2,61,13,9,2,226.0
+2025-08-05,Azul,Doméstico,783,2,781,76,68,28,3009.0
+2025-08-05,Azul,Internacional,22,0,22,6,9,5,437.0
+2025-08-05,Demais companhias,Doméstico,81,5,76,5,9,3,366.0
+2025-08-05,Demais companhias,Internacional,337,25,311,102,96,66,9748.0
+2025-08-05,GOL,Doméstico,619,2,617,41,37,15,3386.0
+2025-08-05,GOL,Internacional,47,0,47,9,7,2,272.0
+2025-08-05,LATAM Brasil,Doméstico,782,2,780,92,88,26,3068.0
+2025-08-05,LATAM Brasil,Internacional,58,1,57,8,12,4,502.0
+2025-08-06,Azul,Doméstico,781,5,776,70,60,33,2287.0
+2025-08-06,Azul,Internacional,25,0,25,5,7,4,222.0
+2025-08-06,Demais companhias,Doméstico,81,10,71,7,13,5,765.0
+2025-08-06,Demais companhias,Internacional,341,22,313,100,110,77,11241.0
+2025-08-06,GOL,Doméstico,644,4,640,89,91,41,3109.0
+2025-08-06,GOL,Internacional,53,0,53,13,12,7,417.0
+2025-08-06,LATAM Brasil,Doméstico,781,11,770,156,145,61,4813.0
+2025-08-06,LATAM Brasil,Internacional,64,0,64,17,14,7,463.0
+2025-08-07,Azul,Doméstico,778,4,774,64,58,22,2668.0
+2025-08-07,Azul,Internacional,26,0,26,5,5,4,226.0
+2025-08-07,Demais companhias,Doméstico,88,5,83,29,31,21,3170.0
+2025-08-07,Demais companhias,Internacional,356,27,323,114,97,72,13372.0
+2025-08-07,GOL,Doméstico,631,0,631,31,43,15,1533.0
+2025-08-07,GOL,Internacional,49,0,49,4,4,0,104.0
+2025-08-07,LATAM Brasil,Doméstico,770,5,765,127,127,52,4380.0
+2025-08-07,LATAM Brasil,Internacional,64,0,64,17,17,7,651.0
+2025-08-08,Azul,Doméstico,790,5,785,79,86,47,4461.0
+2025-08-08,Azul,Internacional,24,0,24,3,4,0,83.0
+2025-08-08,Demais companhias,Doméstico,88,22,65,22,24,18,2932.0
+2025-08-08,Demais companhias,Internacional,352,32,318,103,97,62,11625.0
+2025-08-08,GOL,Doméstico,659,8,651,101,108,41,4840.0
+2025-08-08,GOL,Internacional,46,0,46,6,8,2,208.0
+2025-08-08,LATAM Brasil,Doméstico,782,17,765,207,230,112,8150.0
+2025-08-08,LATAM Brasil,Internacional,64,0,64,16,19,8,785.0
+2025-08-09,Azul,Doméstico,681,8,673,66,65,32,3332.0
+2025-08-09,Azul,Internacional,24,1,23,7,8,6,348.0
+2025-08-09,Demais companhias,Doméstico,50,14,36,8,9,4,704.0
+2025-08-09,Demais companhias,Internacional,357,27,328,93,81,52,10035.0
+2025-08-09,GOL,Doméstico,460,5,455,35,27,9,1428.0
+2025-08-09,GOL,Internacional,66,0,66,6,4,1,109.0
+2025-08-09,LATAM Brasil,Doméstico,707,3,704,117,102,44,3457.0
+2025-08-09,LATAM Brasil,Internacional,65,0,65,18,15,9,808.0
+2025-08-10,Azul,Doméstico,716,3,713,49,47,30,2209.0
+2025-08-10,Azul,Internacional,28,0,28,7,5,4,236.0
+2025-08-10,Demais companhias,Doméstico,48,11,37,9,8,5,570.0
+2025-08-10,Demais companhias,Internacional,360,24,326,108,98,66,10066.0
+2025-08-10,GOL,Doméstico,577,4,573,55,45,21,1742.0
+2025-08-10,GOL,Internacional,55,0,55,4,4,1,102.0
+2025-08-10,LATAM Brasil,Doméstico,744,2,742,105,88,27,2700.0
+2025-08-10,LATAM Brasil,Internacional,64,0,64,17,15,7,533.0
+2025-08-11,Azul,Doméstico,780,3,777,37,39,18,2296.0
+2025-08-11,Azul,Internacional,17,1,16,4,6,3,312.0
+2025-08-11,Demais companhias,Doméstico,69,13,54,11,13,11,904.0
+2025-08-11,Demais companhias,Internacional,356,20,330,91,79,50,7835.0
+2025-08-11,GOL,Doméstico,646,2,644,78,65,23,2661.0
+2025-08-11,GOL,Internacional,44,0,44,2,3,1,96.0
+2025-08-11,LATAM Brasil,Doméstico,751,7,744,92,86,36,2999.0
+2025-08-11,LATAM Brasil,Internacional,63,1,62,10,9,2,262.0
+2025-08-12,Azul,Doméstico,774,2,772,66,67,24,2697.0
+2025-08-12,Azul,Internacional,22,0,22,6,7,5,398.0
+2025-08-12,Demais companhias,Doméstico,81,11,70,19,19,14,1769.0
+2025-08-12,Demais companhias,Internacional,333,28,300,89,73,40,5457.0
+2025-08-12,GOL,Doméstico,634,4,630,71,69,34,3113.0
+2025-08-12,GOL,Internacional,44,0,44,2,1,0,21.0
+2025-08-12,LATAM Brasil,Doméstico,758,7,751,134,120,44,3697.0
+2025-08-12,LATAM Brasil,Internacional,56,1,55,9,5,1,116.0
+2025-08-13,Azul,Doméstico,781,1,780,60,63,36,3122.0
+2025-08-13,Azul,Internacional,21,0,21,4,4,1,139.0
+2025-08-13,Demais companhias,Doméstico,79,17,62,10,11,9,502.0
+2025-08-13,Demais companhias,Internacional,345,23,317,109,103,74,12713.0
+2025-08-13,GOL,Doméstico,649,0,649,120,116,75,5556.0
+2025-08-13,GOL,Internacional,51,0,51,11,12,7,460.0
+2025-08-13,LATAM Brasil,Doméstico,757,12,745,211,216,125,9029.0
+2025-08-13,LATAM Brasil,Internacional,63,0,63,18,22,10,866.0
+2025-08-14,Azul,Doméstico,777,3,774,78,74,39,3109.0
+2025-08-14,Azul,Internacional,22,0,22,0,2,1,57.0
+2025-08-14,Demais companhias,Doméstico,82,2,80,13,15,10,777.0
+2025-08-14,Demais companhias,Internacional,361,29,332,102,89,59,9828.0
+2025-08-14,GOL,Doméstico,637,4,633,106,92,32,3204.0
+2025-08-14,GOL,Internacional,50,0,50,6,5,2,137.0
+2025-08-14,LATAM Brasil,Doméstico,746,2,744,141,124,53,4653.0
+2025-08-14,LATAM Brasil,Internacional,63,0,63,10,9,3,245.0
+2025-08-15,Azul,Doméstico,789,6,783,68,66,24,2223.0
+2025-08-15,Azul,Internacional,20,0,20,4,3,0,64.0
+2025-08-15,Demais companhias,Doméstico,88,12,76,11,16,7,1537.0
+2025-08-15,Demais companhias,Internacional,350,34,313,74,72,44,7397.0
+2025-08-15,GOL,Doméstico,665,4,661,86,73,27,2761.0
+2025-08-15,GOL,Internacional,44,0,44,6,5,2,154.0
+2025-08-15,LATAM Brasil,Doméstico,756,7,749,124,108,40,4199.0
+2025-08-15,LATAM Brasil,Internacional,64,0,64,12,11,6,418.0
+2025-08-16,Azul,Doméstico,684,4,680,27,25,4,1016.0
+2025-08-16,Azul,Internacional,22,0,22,6,5,3,176.0
+2025-08-16,Demais companhias,Doméstico,61,12,49,15,14,11,1095.0
+2025-08-16,Demais companhias,Internacional,363,31,331,62,56,35,6081.0
+2025-08-16,GOL,Doméstico,467,0,467,14,8,4,558.0
+2025-08-16,GOL,Internacional,64,0,64,8,9,6,513.0
+2025-08-16,LATAM Brasil,Doméstico,673,5,668,42,31,10,988.0
+2025-08-16,LATAM Brasil,Internacional,65,0,65,11,13,6,598.0
+2025-08-17,Azul,Doméstico,716,1,715,34,38,16,1431.0
+2025-08-17,Azul,Internacional,26,0,26,4,8,5,490.0
+2025-08-17,Demais companhias,Doméstico,48,2,46,6,7,3,306.0
+2025-08-17,Demais companhias,Internacional,360,19,335,65,72,50,5234.0
+2025-08-17,GOL,Doméstico,592,5,587,30,21,7,644.0
+2025-08-17,GOL,Internacional,53,0,53,7,9,5,559.0
+2025-08-17,LATAM Brasil,Doméstico,720,10,710,102,77,37,3146.0
+2025-08-17,LATAM Brasil,Internacional,64,0,64,10,15,4,442.0
+2025-08-18,Azul,Doméstico,783,3,780,108,100,66,5326.0
+2025-08-18,Azul,Internacional,17,0,17,7,7,4,1078.0
+2025-08-18,Demais companhias,Doméstico,74,15,58,16,13,8,647.0
+2025-08-18,Demais companhias,Internacional,348,28,317,81,79,47,7310.0
+2025-08-18,GOL,Doméstico,656,22,634,189,178,111,11393.0
+2025-08-18,GOL,Internacional,43,1,42,8,8,5,499.0
+2025-08-18,LATAM Brasil,Doméstico,749,17,732,162,142,70,6716.0
+2025-08-18,LATAM Brasil,Internacional,62,0,62,17,17,9,690.0
+2025-08-19,Azul,Doméstico,774,8,766,37,35,19,1773.0
+2025-08-19,Azul,Internacional,22,1,21,4,8,6,1082.0
+2025-08-19,Demais companhias,Doméstico,85,9,76,12,11,10,1290.0
+2025-08-19,Demais companhias,Internacional,328,28,298,83,83,58,10872.0
+2025-08-19,GOL,Doméstico,637,5,632,43,29,10,936.0
+2025-08-19,GOL,Internacional,44,0,44,2,9,5,387.0
+2025-08-19,LATAM Brasil,Doméstico,760,11,749,95,80,39,2999.0
+2025-08-19,LATAM Brasil,Internacional,55,0,55,8,13,8,538.0
+2025-08-20,Azul,Doméstico,786,3,783,36,38,10,1081.0
+2025-08-20,Azul,Internacional,21,0,21,5,4,1,216.0
+2025-08-20,Demais companhias,Doméstico,83,10,73,16,18,11,1267.0
+2025-08-20,Demais companhias,Internacional,347,31,316,81,88,57,7931.0
+2025-08-20,GOL,Doméstico,666,3,663,44,46,13,1623.0
+2025-08-20,GOL,Internacional,48,0,48,8,7,1,196.0
+2025-08-20,LATAM Brasil,Doméstico,759,10,749,168,157,80,6365.0
+2025-08-20,LATAM Brasil,Internacional,63,0,63,17,20,7,885.0
+2025-08-21,Azul,Doméstico,779,2,777,61,56,24,2424.0
+2025-08-21,Azul,Internacional,22,0,22,4,4,1,484.0
+2025-08-21,Demais companhias,Doméstico,84,2,82,12,14,10,2819.0
+2025-08-21,Demais companhias,Internacional,348,36,310,90,83,45,6235.0
+2025-08-21,GOL,Doméstico,662,1,661,61,42,19,1808.0
+2025-08-21,GOL,Internacional,44,0,44,6,7,2,230.0
+2025-08-21,LATAM Brasil,Doméstico,747,16,731,159,138,62,5714.0
+2025-08-21,LATAM Brasil,Internacional,63,0,63,18,13,7,653.0
+2025-08-22,Azul,Doméstico,790,17,773,68,64,33,3067.0
+2025-08-22,Azul,Internacional,20,0,20,5,6,3,370.0
+2025-08-22,Demais companhias,Doméstico,90,11,79,10,10,7,847.0
+2025-08-22,Demais companhias,Internacional,354,30,323,93,99,69,8451.0
+2025-08-22,GOL,Doméstico,680,5,675,119,100,48,4853.0
+2025-08-22,GOL,Internacional,44,4,40,11,15,14,1492.0
+2025-08-22,LATAM Brasil,Doméstico,758,22,736,245,215,104,9122.0
+2025-08-22,LATAM Brasil,Internacional,64,2,62,16,25,14,1270.0
+2025-08-23,Azul,Doméstico,684,20,664,66,60,38,4529.0
+2025-08-23,Azul,Internacional,20,0,20,2,2,2,97.0
+2025-08-23,Demais companhias,Doméstico,59,0,59,14,13,8,910.0
+2025-08-23,Demais companhias,Internacional,347,26,319,80,78,50,9970.0
+2025-08-23,GOL,Doméstico,466,14,452,47,39,21,3179.0
+2025-08-23,GOL,Internacional,61,0,61,5,4,0,91.0
+2025-08-23,LATAM Brasil,Doméstico,674,40,634,111,91,49,3496.0
+2025-08-23,LATAM Brasil,Internacional,65,1,64,20,14,7,614.0
+2025-08-24,Azul,Doméstico,717,3,714,44,36,21,2038.0
+2025-08-24,Azul,Internacional,26,2,24,4,2,1,67.0
+2025-08-24,Demais companhias,Doméstico,49,7,42,7,7,5,1127.0
+2025-08-24,Demais companhias,Internacional,352,27,320,86,82,53,9664.0
+2025-08-24,GOL,Doméstico,588,4,584,36,28,12,1739.0
+2025-08-24,GOL,Internacional,54,0,54,13,13,7,1151.0
+2025-08-24,LATAM Brasil,Doméstico,720,15,705,150,133,71,4986.0
+2025-08-24,LATAM Brasil,Internacional,64,5,59,18,14,8,556.0
+2025-08-25,Azul,Doméstico,785,4,781,52,52,26,2211.0
+2025-08-25,Azul,Internacional,15,0,15,2,3,0,64.0
+2025-08-25,Demais companhias,Doméstico,70,8,62,16,11,11,1051.0
+2025-08-25,Demais companhias,Internacional,351,25,326,74,76,45,5667.0
+2025-08-25,GOL,Doméstico,659,2,657,46,38,17,1907.0
+2025-08-25,GOL,Internacional,40,0,40,0,1,0,20.0
+2025-08-25,LATAM Brasil,Doméstico,749,13,736,74,64,24,2466.0
+2025-08-25,LATAM Brasil,Internacional,63,1,62,19,14,7,603.0
+2025-08-26,Azul,Doméstico,785,11,774,68,65,36,2799.0
+2025-08-26,Azul,Internacional,18,0,18,3,2,0,49.0
+2025-08-26,Demais companhias,Doméstico,82,21,61,12,13,10,1742.0
+2025-08-26,Demais companhias,Internacional,325,28,297,82,67,47,13304.0
+2025-08-26,GOL,Doméstico,635,3,632,51,50,19,2469.0
+2025-08-26,GOL,Internacional,43,0,43,7,5,5,602.0
+2025-08-26,LATAM Brasil,Doméstico,760,6,754,81,88,31,3019.0
+2025-08-26,LATAM Brasil,Internacional,57,1,56,15,10,5,542.0
+2025-08-27,Azul,Doméstico,782,4,778,38,38,21,1564.0
+2025-08-27,Azul,Internacional,24,0,24,5,5,3,248.0
+2025-08-27,Demais companhias,Doméstico,85,11,74,15,17,9,743.0
+2025-08-27,Demais companhias,Internacional,336,29,303,69,67,48,8713.0
+2025-08-27,GOL,Doméstico,654,2,652,37,29,19,1471.0
+2025-08-27,GOL,Internacional,54,0,54,2,2,1,68.0
+2025-08-27,LATAM Brasil,Doméstico,759,19,740,121,80,33,2828.0
+2025-08-27,LATAM Brasil,Internacional,63,1,62,11,10,5,506.0
+2025-08-28,Azul,Doméstico,784,7,777,43,43,19,2111.0
+2025-08-28,Azul,Internacional,18,2,16,2,4,1,108.0
+2025-08-28,Demais companhias,Doméstico,80,9,71,13,12,9,2430.0
+2025-08-28,Demais companhias,Internacional,355,32,316,93,74,46,6103.0
+2025-08-28,GOL,Doméstico,654,9,645,49,44,22,2420.0
+2025-08-28,GOL,Internacional,43,2,41,6,7,3,201.0
+2025-08-28,LATAM Brasil,Doméstico,747,2,745,115,107,37,3350.0
+2025-08-28,LATAM Brasil,Internacional,62,1,61,15,19,12,901.0
+2025-08-29,Azul,Doméstico,803,3,800,35,28,11,1340.0
+2025-08-29,Azul,Internacional,16,0,16,3,4,2,209.0
+2025-08-29,Demais companhias,Doméstico,82,22,59,15,15,9,697.0
+2025-08-29,Demais companhias,Internacional,352,31,320,64,59,34,7308.0
+2025-08-29,GOL,Doméstico,681,17,664,93,69,36,3529.0
+2025-08-29,GOL,Internacional,44,0,44,8,4,3,200.0
+2025-08-29,LATAM Brasil,Doméstico,753,6,747,82,62,18,1831.0
+2025-08-29,LATAM Brasil,Internacional,65,0,65,11,7,2,201.0
+2025-08-30,Azul,Doméstico,681,4,677,30,26,14,1116.0
+2025-08-30,Azul,Internacional,20,0,20,4,3,2,141.0
+2025-08-30,Demais companhias,Doméstico,53,4,49,5,5,3,301.0
+2025-08-30,Demais companhias,Internacional,359,29,329,90,67,44,6569.0
+2025-08-30,GOL,Doméstico,473,6,467,33,28,16,1590.0
+2025-08-30,GOL,Internacional,61,0,61,3,1,0,19.0
+2025-08-30,LATAM Brasil,Doméstico,674,3,669,50,34,16,1466.0
+2025-08-30,LATAM Brasil,Internacional,65,0,65,10,8,2,196.0
+2025-08-31,Azul,Doméstico,725,9,716,55,49,26,3604.0
+2025-08-31,Azul,Internacional,22,0,22,2,1,0,18.0
+2025-08-31,Demais companhias,Doméstico,45,5,39,2,1,1,34.0
+2025-08-31,Demais companhias,Internacional,357,27,324,78,88,52,7487.0
+2025-08-31,GOL,Doméstico,586,1,585,26,24,6,718.0
+2025-08-31,GOL,Internacional,54,0,54,4,5,1,183.0
+2025-08-31,LATAM Brasil,Doméstico,720,1,719,82,60,19,1976.0
+2025-08-31,LATAM Brasil,Internacional,64,1,63,12,12,4,347.0
+2025-09-01,Azul,Doméstico,780,3,777,55,45,27,1947.0
+2025-09-01,Azul,Internacional,16,1,15,3,3,1,85.0
+2025-09-01,Demais companhias,Doméstico,64,7,57,10,7,3,339.0
+2025-09-01,Demais companhias,Internacional,342,22,318,96,94,53,9476.0
+2025-09-01,GOL,Doméstico,657,2,655,38,23,8,682.0
+2025-09-01,GOL,Internacional,41,1,40,1,7,2,192.0
+2025-09-01,LATAM Brasil,Doméstico,762,3,759,100,92,32,3573.0
+2025-09-01,LATAM Brasil,Internacional,60,0,60,23,21,11,831.0
+2025-09-02,Azul,Doméstico,783,5,778,81,71,35,3459.0
+2025-09-02,Azul,Internacional,17,0,17,4,1,0,28.0
+2025-09-02,Demais companhias,Doméstico,70,5,65,10,11,6,1018.0
+2025-09-02,Demais companhias,Internacional,310,28,281,69,60,33,5886.0
+2025-09-02,GOL,Doméstico,657,4,653,37,33,16,2574.0
+2025-09-02,GOL,Internacional,40,0,40,1,3,1,144.0
+2025-09-02,LATAM Brasil,Doméstico,773,0,773,85,74,24,2700.0
+2025-09-02,LATAM Brasil,Internacional,54,2,52,11,5,3,166.0
+2025-09-03,Azul,Doméstico,786,7,779,71,66,34,3650.0
+2025-09-03,Azul,Internacional,18,0,18,3,1,1,40.0
+2025-09-03,Demais companhias,Doméstico,72,9,63,6,7,4,300.0
+2025-09-03,Demais companhias,Internacional,340,27,311,73,90,58,10375.0
+2025-09-03,GOL,Doméstico,656,3,653,32,35,12,2693.0
+2025-09-03,GOL,Internacional,44,0,44,3,4,2,248.0
+2025-09-03,LATAM Brasil,Doméstico,776,2,774,98,89,28,2670.0
+2025-09-03,LATAM Brasil,Internacional,60,0,60,21,19,10,812.0
+2025-09-04,Azul,Doméstico,775,3,772,84,80,44,4105.0
+2025-09-04,Azul,Internacional,17,0,17,1,1,0,17.0
+2025-09-04,Demais companhias,Doméstico,73,12,61,11,12,9,1334.0
+2025-09-04,Demais companhias,Internacional,334,25,306,75,68,42,7393.0
+2025-09-04,GOL,Doméstico,659,6,653,65,63,24,2032.0
+2025-09-04,GOL,Internacional,48,0,48,6,6,3,287.0
+2025-09-04,LATAM Brasil,Doméstico,764,14,750,180,176,76,5917.0
+2025-09-04,LATAM Brasil,Internacional,61,0,61,24,22,12,994.0
+2025-09-05,Azul,Doméstico,790,14,776,181,173,100,7879.0
+2025-09-05,Azul,Internacional,16,0,16,3,4,3,164.0
+2025-09-05,Demais companhias,Doméstico,65,7,58,14,11,9,443.0
+2025-09-05,Demais companhias,Internacional,336,27,308,64,66,28,3887.0
+2025-09-05,GOL,Doméstico,693,8,685,82,69,35,3100.0
+2025-09-05,GOL,Internacional,42,0,42,7,8,2,228.0
+2025-09-05,LATAM Brasil,Doméstico,771,11,760,138,123,47,3784.0
+2025-09-05,LATAM Brasil,Internacional,60,0,60,18,16,8,688.0
+2025-09-06,Azul,Doméstico,679,1,678,54,48,29,2661.0
+2025-09-06,Azul,Internacional,20,0,20,4,4,0,91.0
+2025-09-06,Demais companhias,Doméstico,48,9,39,9,10,8,564.0
+2025-09-06,Demais companhias,Internacional,354,26,323,81,74,50,11625.0
+2025-09-06,GOL,Doméstico,480,2,478,24,17,12,1349.0
+2025-09-06,GOL,Internacional,60,0,60,1,4,0,81.0
+2025-09-06,LATAM Brasil,Doméstico,684,4,680,38,27,8,766.0
+2025-09-06,LATAM Brasil,Internacional,68,0,68,12,16,4,505.0
+2025-09-07,Azul,Doméstico,719,1,718,36,29,15,1788.0
+2025-09-07,Azul,Internacional,22,1,21,3,3,1,157.0
+2025-09-07,Demais companhias,Doméstico,38,9,29,4,5,3,726.0
+2025-09-07,Demais companhias,Internacional,349,26,318,58,58,37,7242.0
+2025-09-07,GOL,Doméstico,590,5,585,37,28,14,2717.0
+2025-09-07,GOL,Internacional,53,0,53,2,1,0,17.0
+2025-09-07,LATAM Brasil,Doméstico,733,14,719,72,46,11,1458.0
+2025-09-07,LATAM Brasil,Internacional,60,0,60,8,6,3,198.0
+2025-09-08,Azul,Doméstico,787,4,783,65,61,35,4116.0
+2025-09-08,Azul,Internacional,14,0,14,1,2,0,48.0
+2025-09-08,Demais companhias,Doméstico,63,12,51,7,7,4,446.0
+2025-09-08,Demais companhias,Internacional,343,25,318,93,86,57,11489.0
+2025-09-08,GOL,Doméstico,665,9,656,64,45,23,2191.0
+2025-09-08,GOL,Internacional,39,1,38,2,3,0,55.0
+2025-09-08,LATAM Brasil,Doméstico,767,24,743,110,83,35,3320.0
+2025-09-08,LATAM Brasil,Internacional,62,1,61,18,15,9,618.0
+2025-09-09,Azul,Doméstico,785,4,781,69,73,31,3426.0
+2025-09-09,Azul,Internacional,18,0,18,4,8,4,284.0
+2025-09-09,Demais companhias,Doméstico,73,9,64,18,19,15,1127.0
+2025-09-09,Demais companhias,Internacional,303,23,276,80,81,54,10619.0
+2025-09-09,GOL,Doméstico,652,3,649,54,57,20,2785.0
+2025-09-09,GOL,Internacional,43,0,43,2,3,0,56.0
+2025-09-09,LATAM Brasil,Doméstico,773,13,760,134,160,60,5503.0
+2025-09-09,LATAM Brasil,Internacional,57,0,57,11,16,6,565.0
+2025-09-10,Azul,Doméstico,777,9,768,71,65,40,3903.0
+2025-09-10,Azul,Internacional,22,0,22,1,0,0,0.0
+2025-09-10,Demais companhias,Doméstico,75,5,70,6,7,3,594.0
+2025-09-10,Demais companhias,Internacional,340,28,308,84,70,49,12670.0
+2025-09-10,GOL,Doméstico,652,1,651,36,32,7,1184.0
+2025-09-10,GOL,Internacional,49,0,49,3,2,0,40.0
+2025-09-10,LATAM Brasil,Doméstico,776,9,767,83,62,26,2177.0
+2025-09-10,LATAM Brasil,Internacional,61,0,61,20,15,8,691.0
+2025-09-11,Azul,Doméstico,776,6,770,95,71,28,3475.0
+2025-09-11,Azul,Internacional,17,0,17,2,4,1,182.0
+2025-09-11,Demais companhias,Doméstico,77,2,75,10,12,6,1045.0
+2025-09-11,Demais companhias,Internacional,345,22,319,72,55,33,7733.0
+2025-09-11,GOL,Doméstico,660,7,653,38,41,19,1574.0
+2025-09-11,GOL,Internacional,46,0,46,10,10,7,452.0
+2025-09-11,LATAM Brasil,Doméstico,766,3,763,92,102,33,3395.0
+2025-09-11,LATAM Brasil,Internacional,62,0,62,19,18,10,650.0
+2025-09-12,Azul,Doméstico,793,1,792,52,44,19,1973.0
+2025-09-12,Azul,Internacional,16,0,16,4,3,2,121.0
+2025-09-12,Demais companhias,Doméstico,75,4,71,10,13,6,940.0
+2025-09-12,Demais companhias,Internacional,335,27,308,55,54,24,3122.0
+2025-09-12,GOL,Doméstico,691,2,689,53,39,12,2520.0
+2025-09-12,GOL,Internacional,40,0,40,1,0,0,0.0
+2025-09-12,LATAM Brasil,Doméstico,771,8,763,103,75,30,2416.0
+2025-09-12,LATAM Brasil,Internacional,60,0,60,8,9,3,294.0
+2025-09-13,Azul,Doméstico,692,2,690,50,49,25,2681.0
+2025-09-13,Azul,Internacional,20,0,20,1,3,1,98.0
+2025-09-13,Demais companhias,Doméstico,48,2,46,3,4,3,175.0
+2025-09-13,Demais companhias,Internacional,338,18,319,64,50,37,6416.0
+2025-09-13,GOL,Doméstico,482,2,480,19,17,7,900.0
+2025-09-13,GOL,Internacional,59,0,59,1,2,0,37.0
+2025-09-13,LATAM Brasil,Doméstico,689,1,688,45,25,6,715.0
+2025-09-13,LATAM Brasil,Internacional,68,1,67,9,6,5,334.0
+2025-09-14,Azul,Doméstico,723,5,718,57,50,30,2702.0
+2025-09-14,Azul,Internacional,22,0,22,3,2,1,78.0
+2025-09-14,Demais companhias,Doméstico,40,2,38,6,6,5,444.0
+2025-09-14,Demais companhias,Internacional,343,21,320,79,74,48,6298.0
+2025-09-14,GOL,Doméstico,588,0,588,45,24,12,1426.0
+2025-09-14,GOL,Internacional,54,0,54,4,3,1,95.0
+2025-09-14,LATAM Brasil,Doméstico,731,0,731,53,38,10,1076.0
+2025-09-14,LATAM Brasil,Internacional,60,1,59,8,8,5,685.0
+2025-09-15,Azul,Doméstico,787,3,784,65,62,33,4230.0
+2025-09-15,Azul,Internacional,16,0,16,0,0,0,0.0
+2025-09-15,Demais companhias,Doméstico,62,7,55,4,4,4,554.0
+2025-09-15,Demais companhias,Internacional,340,17,320,76,67,29,3463.0
+2025-09-15,GOL,Doméstico,671,10,661,62,36,21,3440.0
+2025-09-15,GOL,Internacional,40,0,40,1,0,0,0.0
+2025-09-15,LATAM Brasil,Doméstico,767,4,763,64,46,17,1657.0
+2025-09-15,LATAM Brasil,Internacional,63,1,62,13,13,6,570.0
+2025-09-16,Azul,Doméstico,785,4,781,80,72,43,3404.0
+2025-09-16,Azul,Internacional,19,0,19,4,4,1,251.0
+2025-09-16,Demais companhias,Doméstico,71,7,64,7,10,7,1932.0
+2025-09-16,Demais companhias,Internacional,303,34,266,54,54,25,3449.0
+2025-09-16,GOL,Doméstico,673,6,667,55,50,21,2153.0
+2025-09-16,GOL,Internacional,45,0,45,2,2,0,49.0
+2025-09-16,LATAM Brasil,Doméstico,774,5,769,91,89,33,3170.0
+2025-09-16,LATAM Brasil,Internacional,57,0,57,9,7,4,280.0
+2025-09-17,Azul,Doméstico,780,2,778,54,50,28,2137.0
+2025-09-17,Azul,Internacional,23,0,23,4,3,2,204.0
+2025-09-17,Demais companhias,Doméstico,75,8,67,21,19,13,1509.0
+2025-09-17,Demais companhias,Internacional,340,26,314,82,85,48,7505.0
+2025-09-17,GOL,Doméstico,662,2,660,52,41,17,1606.0
+2025-09-17,GOL,Internacional,50,0,50,5,2,1,72.0
+2025-09-17,LATAM Brasil,Doméstico,776,12,764,126,110,54,4429.0
+2025-09-17,LATAM Brasil,Internacional,61,0,61,17,13,7,448.0
+2025-09-18,Azul,Doméstico,781,2,779,49,43,20,1987.0
+2025-09-18,Azul,Internacional,18,0,18,3,4,2,111.0
+2025-09-18,Demais companhias,Doméstico,75,6,69,8,8,6,352.0
+2025-09-18,Demais companhias,Internacional,340,22,315,84,79,38,6897.0
+2025-09-18,GOL,Doméstico,663,2,661,47,30,7,1273.0
+2025-09-18,GOL,Internacional,46,0,46,3,3,0,61.0
+2025-09-18,LATAM Brasil,Doméstico,766,0,766,94,86,25,2543.0
+2025-09-18,LATAM Brasil,Internacional,62,0,62,20,13,4,371.0
+2025-09-19,Azul,Doméstico,790,3,787,82,78,40,3754.0
+2025-09-19,Azul,Internacional,14,0,14,2,2,2,88.0
+2025-09-19,Demais companhias,Doméstico,69,7,62,4,6,4,311.0
+2025-09-19,Demais companhias,Internacional,344,30,313,98,104,61,8729.0
+2025-09-19,GOL,Doméstico,684,1,683,74,62,19,1844.0
+2025-09-19,GOL,Internacional,40,0,40,6,6,3,205.0
+2025-09-19,LATAM Brasil,Doméstico,773,4,769,146,129,42,3703.0
+2025-09-19,LATAM Brasil,Internacional,60,1,59,18,18,8,821.0
+2025-09-20,Azul,Doméstico,691,9,682,41,43,23,2975.0
+2025-09-20,Azul,Internacional,20,0,20,1,0,0,0.0
+2025-09-20,Demais companhias,Doméstico,48,6,42,4,1,0,25.0
+2025-09-20,Demais companhias,Internacional,335,20,314,75,75,40,7339.0
+2025-09-20,GOL,Doméstico,483,1,482,38,42,17,1573.0
+2025-09-20,GOL,Internacional,63,1,62,11,14,8,938.0
+2025-09-20,LATAM Brasil,Doméstico,688,20,668,134,120,54,5240.0
+2025-09-20,LATAM Brasil,Internacional,68,1,67,21,16,8,671.0
+2025-09-21,Azul,Doméstico,722,5,717,94,97,40,4312.0
+2025-09-21,Azul,Internacional,22,0,22,5,3,2,103.0
+2025-09-21,Demais companhias,Doméstico,40,1,39,2,3,1,248.0
+2025-09-21,Demais companhias,Internacional,335,23,307,87,91,58,7377.0
+2025-09-21,GOL,Doméstico,585,1,584,81,76,32,3351.0
+2025-09-21,GOL,Internacional,53,0,53,15,18,12,739.0
+2025-09-21,LATAM Brasil,Doméstico,733,19,714,202,199,108,9447.0
+2025-09-21,LATAM Brasil,Internacional,60,1,59,28,23,16,1008.0
+2025-09-22,Azul,Doméstico,791,44,747,308,326,233,22360.0
+2025-09-22,Azul,Internacional,16,0,16,2,3,2,90.0
+2025-09-22,Demais companhias,Doméstico,62,26,36,16,18,14,2029.0
+2025-09-22,Demais companhias,Internacional,325,18,306,103,114,64,11812.0
+2025-09-22,GOL,Doméstico,662,27,635,312,327,244,22307.0
+2025-09-22,GOL,Internacional,39,0,39,18,24,14,1398.0
+2025-09-22,LATAM Brasil,Doméstico,767,87,680,381,415,310,27149.0
+2025-09-22,LATAM Brasil,Internacional,61,0,61,29,35,25,1895.0
+2025-09-23,Azul,Doméstico,785,5,780,139,125,75,5586.0
+2025-09-23,Azul,Internacional,19,1,18,4,5,2,187.0
+2025-09-23,Demais companhias,Doméstico,75,7,68,18,22,16,1705.0
+2025-09-23,Demais companhias,Internacional,306,30,273,64,60,32,6697.0
+2025-09-23,GOL,Doméstico,662,7,655,60,48,14,1606.0
+2025-09-23,GOL,Internacional,45,0,45,3,4,1,115.0
+2025-09-23,LATAM Brasil,Doméstico,767,21,746,244,208,86,7138.0
+2025-09-23,LATAM Brasil,Internacional,56,0,56,13,9,5,446.0
+2025-09-24,Azul,Doméstico,784,16,768,76,76,50,5689.0
+2025-09-24,Azul,Internacional,23,1,22,1,2,0,48.0
+2025-09-24,Demais companhias,Doméstico,73,10,63,10,10,8,529.0
+2025-09-24,Demais companhias,Internacional,340,28,312,74,79,49,7181.0
+2025-09-24,GOL,Doméstico,665,9,656,73,82,24,3225.0
+2025-09-24,GOL,Internacional,48,0,48,2,3,2,167.0
+2025-09-24,LATAM Brasil,Doméstico,776,2,774,131,121,64,4333.0
+2025-09-24,LATAM Brasil,Internacional,61,1,60,14,16,5,554.0
+2025-09-25,Azul,Doméstico,781,8,773,106,98,55,4271.0
+2025-09-25,Azul,Internacional,18,1,17,4,5,4,339.0
+2025-09-25,Demais companhias,Doméstico,78,13,65,16,15,13,1266.0
+2025-09-25,Demais companhias,Internacional,338,24,313,89,78,46,7313.0
+2025-09-25,GOL,Doméstico,669,18,651,126,119,63,6691.0
+2025-09-25,GOL,Internacional,46,0,46,8,8,5,310.0
+2025-09-25,LATAM Brasil,Doméstico,766,6,760,161,156,67,5447.0
+2025-09-25,LATAM Brasil,Internacional,62,1,61,17,15,9,547.0
+2025-09-26,Azul,Doméstico,788,8,780,93,82,43,4879.0
+2025-09-26,Azul,Internacional,16,1,15,5,6,5,401.0
+2025-09-26,Demais companhias,Doméstico,72,6,66,7,7,7,641.0
+2025-09-26,Demais companhias,Internacional,335,29,306,82,70,36,5663.0
+2025-09-26,GOL,Doméstico,685,13,672,133,104,36,4389.0
+2025-09-26,GOL,Internacional,41,0,41,6,6,2,1196.0
+2025-09-26,LATAM Brasil,Doméstico,773,10,763,140,112,30,3319.0
+2025-09-26,LATAM Brasil,Internacional,60,0,60,12,11,5,364.0
+2025-09-27,Azul,Doméstico,684,9,675,77,68,49,3903.0
+2025-09-27,Azul,Internacional,20,0,20,5,6,5,528.0
+2025-09-27,Demais companhias,Doméstico,45,4,41,5,4,3,209.0
+2025-09-27,Demais companhias,Internacional,331,20,311,68,56,38,5352.0
+2025-09-27,GOL,Doméstico,484,5,479,20,14,8,1869.0
+2025-09-27,GOL,Internacional,63,0,63,6,5,3,1174.0
+2025-09-27,LATAM Brasil,Doméstico,688,0,688,47,32,9,980.0
+2025-09-27,LATAM Brasil,Internacional,68,0,68,19,18,7,657.0
+2025-09-28,Azul,Doméstico,721,4,717,67,71,38,3715.0
+2025-09-28,Azul,Internacional,22,0,22,10,10,7,561.0
+2025-09-28,Demais companhias,Doméstico,37,1,36,1,1,1,526.0
+2025-09-28,Demais companhias,Internacional,337,25,310,68,58,37,9513.0
+2025-09-28,GOL,Doméstico,587,3,584,52,40,16,1591.0
+2025-09-28,GOL,Internacional,54,0,54,2,2,0,44.0
+2025-09-28,LATAM Brasil,Doméstico,732,2,730,60,52,16,1366.0
+2025-09-28,LATAM Brasil,Internacional,60,0,60,15,14,7,515.0
+2025-09-29,Azul,Doméstico,782,9,773,37,39,18,1539.0
+2025-09-29,Azul,Internacional,16,0,16,8,4,4,194.0
+2025-09-29,Demais companhias,Doméstico,60,5,54,6,6,3,497.0
+2025-09-29,Demais companhias,Internacional,334,26,305,75,60,38,5523.0
+2025-09-29,GOL,Doméstico,664,4,660,42,34,17,1665.0
+2025-09-29,GOL,Internacional,39,1,38,3,0,0,0.0
+2025-09-29,LATAM Brasil,Doméstico,767,4,763,92,75,28,2355.0
+2025-09-29,LATAM Brasil,Internacional,62,0,62,15,12,4,377.0
+2025-09-30,Azul,Doméstico,791,65,726,89,84,46,6175.0
+2025-09-30,Azul,Internacional,19,0,19,7,6,3,338.0
+2025-09-30,Demais companhias,Doméstico,71,5,66,15,17,12,1130.0
+2025-09-30,Demais companhias,Internacional,302,31,266,67,75,41,7772.0
+2025-09-30,GOL,Doméstico,667,67,600,51,47,19,1789.0
+2025-09-30,GOL,Internacional,44,0,44,1,1,1,98.0
+2025-09-30,LATAM Brasil,Doméstico,773,70,703,121,103,44,3489.0
+2025-09-30,LATAM Brasil,Internacional,57,0,57,17,16,9,927.0
+2025-10-01,Azul,Doméstico,772,0,772,68,54,22,2336.0
+2025-10-01,Azul,Internacional,22,0,22,5,5,3,284.0
+2025-10-01,Demais companhias,Doméstico,68,5,63,12,12,7,921.0
+2025-10-01,Demais companhias,Internacional,334,33,299,80,69,44,6500.0
+2025-10-01,GOL,Doméstico,681,11,670,42,34,15,1659.0
+2025-10-01,GOL,Internacional,46,0,46,6,2,2,76.0
+2025-10-01,LATAM Brasil,Doméstico,773,7,766,98,83,34,3337.0
+2025-10-01,LATAM Brasil,Internacional,58,0,58,9,9,7,429.0
+2025-10-02,Azul,Doméstico,757,2,755,59,54,33,2726.0
+2025-10-02,Azul,Internacional,17,0,17,4,3,2,131.0
+2025-10-02,Demais companhias,Doméstico,79,13,66,9,11,8,706.0
+2025-10-02,Demais companhias,Internacional,343,40,300,75,60,37,4831.0
+2025-10-02,GOL,Doméstico,686,7,679,55,51,24,2269.0
+2025-10-02,GOL,Internacional,44,0,44,1,3,0,69.0
+2025-10-02,LATAM Brasil,Doméstico,765,6,759,92,85,33,3286.0
+2025-10-02,LATAM Brasil,Internacional,60,1,59,10,12,4,367.0
+2025-10-03,Azul,Doméstico,774,3,771,68,69,31,2831.0
+2025-10-03,Azul,Internacional,16,0,16,4,3,2,106.0
+2025-10-03,Demais companhias,Doméstico,68,8,60,7,3,1,138.0
+2025-10-03,Demais companhias,Internacional,331,32,299,62,54,26,5488.0
+2025-10-03,GOL,Doméstico,700,2,698,78,76,29,3250.0
+2025-10-03,GOL,Internacional,38,0,38,1,1,0,20.0
+2025-10-03,LATAM Brasil,Doméstico,773,3,770,120,112,42,3605.0
+2025-10-03,LATAM Brasil,Internacional,59,2,57,11,8,4,304.0
+2025-10-04,Azul,Doméstico,677,8,669,54,48,28,2471.0
+2025-10-04,Azul,Internacional,17,0,17,2,2,0,48.0
+2025-10-04,Demais companhias,Doméstico,46,5,41,3,3,2,163.0
+2025-10-04,Demais companhias,Internacional,320,25,295,68,58,31,4381.0
+2025-10-04,GOL,Doméstico,501,1,500,17,8,1,188.0
+2025-10-04,GOL,Internacional,60,1,59,3,2,0,48.0
+2025-10-04,LATAM Brasil,Doméstico,689,4,685,66,56,22,2188.0
+2025-10-04,LATAM Brasil,Internacional,64,1,63,11,11,4,313.0
+2025-10-05,Azul,Doméstico,705,4,701,38,37,24,1988.0
+2025-10-05,Azul,Internacional,23,1,22,2,2,2,106.0
+2025-10-05,Demais companhias,Doméstico,31,1,30,5,6,6,533.0
+2025-10-05,Demais companhias,Internacional,328,23,304,95,96,56,8035.0
+2025-10-05,GOL,Doméstico,602,0,602,41,41,16,1836.0
+2025-10-05,GOL,Internacional,53,0,53,2,5,2,497.0
+2025-10-05,LATAM Brasil,Doméstico,732,13,719,111,90,33,3176.0
+2025-10-05,LATAM Brasil,Internacional,56,0,56,16,10,4,460.0
+2025-10-06,Azul,Doméstico,821,8,812,40,45,20,1769.0
+2025-10-06,Azul,Internacional,13,0,13,3,2,2,77.0
+2025-10-06,Demais companhias,Doméstico,57,2,55,12,12,7,802.0
+2025-10-06,Demais companhias,Internacional,309,26,280,71,60,39,6199.0
+2025-10-06,GOL,Doméstico,681,2,679,70,61,18,2359.0
+2025-10-06,GOL,Internacional,39,0,39,1,0,0,0.0
+2025-10-06,LATAM Brasil,Doméstico,736,2,734,119,99,32,3012.0
+2025-10-06,LATAM Brasil,Internacional,52,0,52,12,7,1,151.0
+2025-10-07,Azul,Doméstico,779,10,769,74,74,32,3386.0
+2025-10-07,Azul,Internacional,18,0,18,5,6,4,248.0
+2025-10-07,Demais companhias,Doméstico,65,10,55,11,12,7,735.0
+2025-10-07,Demais companhias,Internacional,291,45,240,66,63,38,5197.0
+2025-10-07,GOL,Doméstico,684,2,682,60,54,13,4194.0
+2025-10-07,GOL,Internacional,42,0,42,0,1,0,22.0
+2025-10-07,LATAM Brasil,Doméstico,533,0,533,52,46,16,1357.0
+2025-10-07,LATAM Brasil,Internacional,37,0,37,10,10,4,436.0
+2025-10-08,Azul,Doméstico,775,10,764,111,114,68,6327.0
+2025-10-08,Azul,Internacional,22,0,22,2,2,1,51.0
+2025-10-08,Demais companhias,Doméstico,65,23,42,13,14,9,846.0
+2025-10-08,Demais companhias,Internacional,331,29,297,87,78,39,8837.0
+2025-10-08,GOL,Doméstico,688,4,684,67,72,29,2761.0
+2025-10-08,GOL,Internacional,46,0,46,1,0,0,0.0
+2025-10-08,LATAM Brasil,Doméstico,776,9,767,86,91,35,2825.0
+2025-10-08,LATAM Brasil,Internacional,57,0,57,14,18,9,719.0
+2025-10-09,Azul,Doméstico,775,11,764,67,75,33,3495.0
+2025-10-09,Azul,Internacional,17,0,17,3,5,2,249.0
+2025-10-09,Demais companhias,Doméstico,74,12,62,10,11,5,670.0
+2025-10-09,Demais companhias,Internacional,343,41,298,80,61,41,4955.0
+2025-10-09,GOL,Doméstico,684,14,670,89,83,44,10893.0
+2025-10-09,GOL,Internacional,46,0,46,2,7,1,174.0
+2025-10-09,LATAM Brasil,Doméstico,766,20,746,172,164,53,5351.0
+2025-10-09,LATAM Brasil,Internacional,61,0,61,14,17,12,736.0
+2025-10-10,Azul,Doméstico,787,2,785,103,101,50,4452.0
+2025-10-10,Azul,Internacional,16,0,16,3,1,1,103.0
+2025-10-10,Demais companhias,Doméstico,63,8,55,15,15,13,1445.0
+2025-10-10,Demais companhias,Internacional,333,30,302,84,84,50,9229.0
+2025-10-10,GOL,Doméstico,709,2,707,167,151,65,5420.0
+2025-10-10,GOL,Internacional,40,0,40,14,12,4,449.0
+2025-10-10,LATAM Brasil,Doméstico,776,22,754,263,261,147,11369.0
+2025-10-10,LATAM Brasil,Internacional,57,0,57,20,21,15,860.0
+2025-10-11,Azul,Doméstico,688,0,688,59,53,25,2747.0
+2025-10-11,Azul,Internacional,17,1,16,2,1,1,173.0
+2025-10-11,Demais companhias,Doméstico,41,7,34,8,8,5,981.0
+2025-10-11,Demais companhias,Internacional,317,26,290,56,60,37,5523.0
+2025-10-11,GOL,Doméstico,512,0,512,62,52,27,2441.0
+2025-10-11,GOL,Internacional,61,0,61,8,8,4,359.0
+2025-10-11,LATAM Brasil,Doméstico,690,6,684,121,117,50,4005.0
+2025-10-11,LATAM Brasil,Internacional,64,0,64,13,16,11,662.0
+2025-10-12,Azul,Doméstico,705,7,698,93,89,51,4712.0
+2025-10-12,Azul,Internacional,23,0,23,5,5,3,492.0
+2025-10-12,Demais companhias,Doméstico,30,1,29,5,4,3,550.0
+2025-10-12,Demais companhias,Internacional,332,26,303,74,78,47,6559.0
+2025-10-12,GOL,Doméstico,608,4,604,72,67,23,3273.0
+2025-10-12,GOL,Internacional,54,0,54,2,2,0,41.0
+2025-10-12,LATAM Brasil,Doméstico,735,4,731,142,141,62,4642.0
+2025-10-12,LATAM Brasil,Internacional,56,1,55,14,10,2,280.0
+2025-10-13,Azul,Doméstico,821,7,814,80,97,44,4165.0
+2025-10-13,Azul,Internacional,13,0,13,4,5,3,278.0
+2025-10-13,Demais companhias,Doméstico,61,15,46,9,9,7,911.0
+2025-10-13,Demais companhias,Internacional,322,23,297,83,83,44,8577.0
+2025-10-13,GOL,Doméstico,686,6,680,109,110,41,4550.0
+2025-10-13,GOL,Internacional,39,0,39,5,6,2,163.0
+2025-10-13,LATAM Brasil,Doméstico,770,14,756,156,173,61,5808.0
+2025-10-13,LATAM Brasil,Internacional,58,1,57,9,11,5,352.0
+2025-10-14,Azul,Doméstico,779,6,773,114,109,63,6254.0
+2025-10-14,Azul,Internacional,18,0,18,7,7,4,445.0
+2025-10-14,Demais companhias,Doméstico,72,5,67,19,20,16,1309.0
+2025-10-14,Demais companhias,Internacional,304,32,271,63,58,34,9529.0
+2025-10-14,GOL,Doméstico,685,3,682,65,63,22,1848.0
+2025-10-14,GOL,Internacional,40,0,40,3,2,1,50.0
+2025-10-14,LATAM Brasil,Doméstico,772,8,764,121,118,50,5030.0
+2025-10-14,LATAM Brasil,Internacional,56,0,56,10,9,5,356.0
+2025-10-15,Azul,Doméstico,782,5,777,80,65,33,4878.0
+2025-10-15,Azul,Internacional,22,0,22,4,6,5,282.0
+2025-10-15,Demais companhias,Doméstico,71,7,64,21,19,14,899.0
+2025-10-15,Demais companhias,Internacional,333,35,295,79,75,47,7726.0
+2025-10-15,GOL,Doméstico,688,9,679,49,37,11,1101.0
+2025-10-15,GOL,Internacional,45,0,45,11,7,3,701.0
+2025-10-15,LATAM Brasil,Doméstico,776,0,776,76,59,23,1939.0
+2025-10-15,LATAM Brasil,Internacional,57,1,56,11,15,5,517.0
+2025-10-16,Azul,Doméstico,770,4,766,63,62,29,2585.0
+2025-10-16,Azul,Internacional,17,1,16,5,4,2,126.0
+2025-10-16,Demais companhias,Doméstico,90,5,85,24,19,16,2154.0
+2025-10-16,Demais companhias,Internacional,342,34,305,86,78,48,6737.0
+2025-10-16,GOL,Doméstico,686,2,684,88,81,32,3111.0
+2025-10-16,GOL,Internacional,45,0,45,6,4,1,88.0
+2025-10-16,LATAM Brasil,Doméstico,767,4,763,111,106,50,3984.0
+2025-10-16,LATAM Brasil,Internacional,61,0,61,18,19,10,617.0
+2025-10-17,Azul,Doméstico,777,7,770,79,80,45,4511.0
+2025-10-17,Azul,Internacional,16,0,16,3,7,2,207.0
+2025-10-17,Demais companhias,Doméstico,74,13,61,13,12,9,573.0
+2025-10-17,Demais companhias,Internacional,335,33,300,76,78,43,6429.0
+2025-10-17,GOL,Doméstico,706,10,696,122,115,61,6075.0
+2025-10-17,GOL,Internacional,40,0,40,3,2,1,246.0
+2025-10-17,LATAM Brasil,Doméstico,775,15,760,166,161,81,6016.0
+2025-10-17,LATAM Brasil,Internacional,57,0,57,14,12,4,632.0
+2025-10-18,Azul,Doméstico,690,8,682,106,113,73,7887.0
+2025-10-18,Azul,Internacional,17,0,17,1,4,1,103.0
+2025-10-18,Demais companhias,Doméstico,52,7,45,11,11,11,681.0
+2025-10-18,Demais companhias,Internacional,313,30,279,61,61,32,3744.0
+2025-10-18,GOL,Doméstico,508,9,499,74,79,40,4083.0
+2025-10-18,GOL,Internacional,60,0,60,5,2,1,83.0
+2025-10-18,LATAM Brasil,Doméstico,690,7,683,126,109,38,3413.0
+2025-10-18,LATAM Brasil,Internacional,64,0,64,14,18,4,700.0
+2025-10-19,Azul,Doméstico,702,6,696,34,35,14,1496.0
+2025-10-19,Azul,Internacional,23,0,23,3,2,1,170.0
+2025-10-19,Demais companhias,Doméstico,36,12,24,1,2,1,498.0
+2025-10-19,Demais companhias,Internacional,327,24,298,73,65,47,5161.0
+2025-10-19,GOL,Doméstico,608,11,597,86,81,42,4201.0
+2025-10-19,GOL,Internacional,53,0,53,4,7,2,576.0
+2025-10-19,LATAM Brasil,Doméstico,731,20,711,152,140,64,5380.0
+2025-10-19,LATAM Brasil,Internacional,57,0,57,16,11,7,574.0
+2025-10-20,Azul,Doméstico,816,14,802,83,81,39,3693.0
+2025-10-20,Azul,Internacional,14,0,14,3,4,3,363.0
+2025-10-20,Demais companhias,Doméstico,70,12,58,6,5,3,524.0
+2025-10-20,Demais companhias,Internacional,319,27,290,71,57,33,4399.0
+2025-10-20,GOL,Doméstico,684,3,681,140,123,47,4104.0
+2025-10-20,GOL,Internacional,39,0,39,1,1,0,18.0
+2025-10-20,LATAM Brasil,Doméstico,769,30,739,156,126,40,3935.0
+2025-10-20,LATAM Brasil,Internacional,58,0,58,9,12,4,547.0
+2025-10-21,Azul,Doméstico,767,15,752,95,94,54,5382.0
+2025-10-21,Azul,Internacional,19,1,18,5,5,4,296.0
+2025-10-21,Demais companhias,Doméstico,76,7,69,15,18,12,2012.0
+2025-10-21,Demais companhias,Internacional,311,28,281,61,56,35,6004.0
+2025-10-21,GOL,Doméstico,684,30,654,106,94,44,3862.0
+2025-10-21,GOL,Internacional,42,0,42,3,2,2,102.0
+2025-10-21,LATAM Brasil,Doméstico,774,2,772,155,135,49,5018.0
+2025-10-21,LATAM Brasil,Internacional,55,0,55,12,12,6,579.0
+2025-10-22,Azul,Doméstico,770,9,761,87,80,48,5292.0
+2025-10-22,Azul,Internacional,22,0,22,6,7,2,241.0
+2025-10-22,Demais companhias,Doméstico,76,5,71,13,16,8,1381.0
+2025-10-22,Demais companhias,Internacional,334,28,304,77,75,46,7040.0
+2025-10-22,GOL,Doméstico,686,9,677,116,110,55,4423.0
+2025-10-22,GOL,Internacional,44,0,44,0,0,0,0.0
+2025-10-22,LATAM Brasil,Doméstico,773,11,762,149,127,49,4591.0
+2025-10-22,LATAM Brasil,Internacional,57,1,56,8,4,2,128.0
+2025-10-23,Azul,Doméstico,763,13,750,103,99,63,6814.0
+2025-10-23,Azul,Internacional,17,1,16,4,2,2,119.0
+2025-10-23,Demais companhias,Doméstico,81,11,70,13,15,9,780.0
+2025-10-23,Demais companhias,Internacional,342,37,302,86,80,51,8473.0
+2025-10-23,GOL,Doméstico,685,8,677,121,120,53,4595.0
+2025-10-23,GOL,Internacional,44,0,44,1,1,0,18.0
+2025-10-23,LATAM Brasil,Doméstico,767,3,764,171,151,58,5013.0
+2025-10-23,LATAM Brasil,Internacional,61,0,61,11,12,6,440.0
+2025-10-24,Azul,Doméstico,774,13,761,65,64,22,2623.0
+2025-10-24,Azul,Internacional,16,1,13,3,4,1,136.0
+2025-10-24,Demais companhias,Doméstico,74,0,74,16,15,10,1855.0
+2025-10-24,Demais companhias,Internacional,329,30,298,106,93,63,8725.0
+2025-10-24,GOL,Doméstico,709,4,705,106,67,21,3336.0
+2025-10-24,GOL,Internacional,40,0,40,3,1,0,22.0
+2025-10-24,LATAM Brasil,Doméstico,775,14,761,163,132,66,4964.0
+2025-10-24,LATAM Brasil,Internacional,57,0,57,7,9,4,507.0
+2025-10-25,Azul,Doméstico,682,6,676,78,77,41,3745.0
+2025-10-25,Azul,Internacional,16,0,16,7,7,3,225.0
+2025-10-25,Demais companhias,Doméstico,61,2,59,13,12,8,649.0
+2025-10-25,Demais companhias,Internacional,318,25,288,89,96,68,9551.0
+2025-10-25,GOL,Doméstico,501,0,501,34,31,14,1378.0
+2025-10-25,GOL,Internacional,58,0,58,3,3,0,56.0
+2025-10-25,LATAM Brasil,Doméstico,692,7,685,107,77,29,3089.0
+2025-10-25,LATAM Brasil,Internacional,64,0,64,13,11,6,964.0
+2025-10-26,Azul,Doméstico,701,5,696,65,64,34,3300.0
+2025-10-26,Azul,Internacional,20,0,20,3,2,2,87.0
+2025-10-26,Demais companhias,Doméstico,35,0,35,5,5,4,807.0
+2025-10-26,Demais companhias,Internacional,348,35,313,86,83,54,6377.0
+2025-10-26,GOL,Doméstico,607,5,602,67,46,14,1351.0
+2025-10-26,GOL,Internacional,49,0,49,3,4,2,269.0
+2025-10-26,LATAM Brasil,Doméstico,740,7,733,99,77,29,2660.0
+2025-10-26,LATAM Brasil,Internacional,53,0,53,9,17,7,651.0
+2025-10-27,Azul,Doméstico,821,5,816,56,49,28,2959.0
+2025-10-27,Azul,Internacional,13,1,12,4,5,4,322.0
+2025-10-27,Demais companhias,Doméstico,71,16,55,18,20,13,1567.0
+2025-10-27,Demais companhias,Internacional,340,35,304,91,93,60,9127.0
+2025-10-27,GOL,Doméstico,604,0,604,38,28,12,935.0
+2025-10-27,GOL,Internacional,32,0,32,0,0,0,0.0
+2025-10-27,LATAM Brasil,Doméstico,777,7,770,104,93,45,4072.0
+2025-10-27,LATAM Brasil,Internacional,54,0,54,9,15,7,575.0
+2025-10-28,Azul,Doméstico,773,2,771,99,108,54,4861.0
+2025-10-28,Azul,Internacional,15,0,15,2,3,2,111.0
+2025-10-28,Demais companhias,Doméstico,82,10,71,21,23,13,978.0
+2025-10-28,Demais companhias,Internacional,326,32,292,87,90,59,6560.0
+2025-10-28,GOL,Doméstico,626,6,620,127,122,67,4971.0
+2025-10-28,GOL,Internacional,33,0,33,2,2,1,53.0
+2025-10-28,LATAM Brasil,Doméstico,783,19,764,222,210,116,8294.0
+2025-10-28,LATAM Brasil,Internacional,52,0,52,5,15,6,498.0
+2025-10-29,Azul,Doméstico,780,10,770,148,162,86,8149.0
+2025-10-29,Azul,Internacional,18,2,16,2,5,2,153.0
+2025-10-29,Demais companhias,Doméstico,81,10,71,19,19,10,977.0
+2025-10-29,Demais companhias,Internacional,350,38,308,97,97,60,10761.0
+2025-10-29,GOL,Doméstico,622,22,600,162,174,89,9117.0
+2025-10-29,GOL,Internacional,33,0,33,3,5,2,155.0
+2025-10-29,LATAM Brasil,Doméstico,778,59,719,366,396,229,17717.0
+2025-10-29,LATAM Brasil,Internacional,58,0,58,28,27,18,1631.0
+2025-10-30,Azul,Doméstico,775,14,761,127,134,83,8289.0
+2025-10-30,Azul,Internacional,15,0,15,4,4,4,303.0
+2025-10-30,Demais companhias,Doméstico,82,18,64,14,19,15,991.0
+2025-10-30,Demais companhias,Internacional,342,30,312,93,105,65,9127.0
+2025-10-30,GOL,Doméstico,621,2,619,88,74,25,4780.0
+2025-10-30,GOL,Internacional,37,0,37,9,8,3,242.0
+2025-10-30,LATAM Brasil,Doméstico,787,12,775,238,232,117,8827.0
+2025-10-30,LATAM Brasil,Internacional,54,0,54,28,27,19,1089.0
+2025-10-31,Azul,Doméstico,793,7,786,192,198,99,9941.0
+2025-10-31,Azul,Internacional,13,0,13,3,3,3,224.0
+2025-10-31,Demais companhias,Doméstico,82,35,46,9,9,8,1228.0
+2025-10-31,Demais companhias,Internacional,335,37,294,89,96,58,9521.0
+2025-10-31,GOL,Doméstico,623,7,615,124,111,51,4710.0
+2025-10-31,GOL,Internacional,33,0,33,5,6,2,171.0
+2025-10-31,LATAM Brasil,Doméstico,779,13,766,291,282,148,11028.0
+2025-10-31,LATAM Brasil,Internacional,61,0,61,22,23,11,819.0
+2025-11-01,Azul,Doméstico,692,7,685,68,57,24,1993.0
+2025-11-01,Azul,Internacional,17,0,17,6,7,5,324.0
+2025-11-01,Demais companhias,Doméstico,58,4,54,17,16,9,1078.0
+2025-11-01,Demais companhias,Internacional,317,39,278,85,88,66,9619.0
+2025-11-01,GOL,Doméstico,587,5,582,48,37,21,2169.0
+2025-11-01,GOL,Internacional,55,3,52,7,8,4,408.0
+2025-11-01,LATAM Brasil,Doméstico,707,2,705,99,83,38,2830.0
+2025-11-01,LATAM Brasil,Internacional,72,0,72,13,20,8,924.0
+2025-11-02,Azul,Doméstico,709,19,690,78,91,36,3749.0
+2025-11-02,Azul,Internacional,22,0,22,4,2,2,233.0
+2025-11-02,Demais companhias,Doméstico,38,13,25,6,5,4,237.0
+2025-11-02,Demais companhias,Internacional,326,26,298,95,84,61,9545.0
+2025-11-02,GOL,Doméstico,634,5,629,110,97,36,4565.0
+2025-11-02,GOL,Internacional,52,1,51,13,9,3,426.0
+2025-11-02,LATAM Brasil,Doméstico,734,3,731,137,134,53,4140.0
+2025-11-02,LATAM Brasil,Internacional,70,0,70,16,14,7,398.0
+2025-11-03,Azul,Doméstico,810,6,804,113,129,59,5630.0
+2025-11-03,Azul,Internacional,16,0,16,2,3,2,338.0
+2025-11-03,Demais companhias,Doméstico,71,13,58,14,15,13,2181.0
+2025-11-03,Demais companhias,Internacional,321,33,287,73,81,57,9670.0
+2025-11-03,GOL,Doméstico,616,8,608,72,62,33,4958.0
+2025-11-03,GOL,Internacional,34,0,34,4,5,2,238.0
+2025-11-03,LATAM Brasil,Doméstico,763,3,760,127,136,46,4082.0
+2025-11-03,LATAM Brasil,Internacional,72,0,72,16,21,12,840.0
+2025-11-04,Azul,Doméstico,765,2,763,143,141,75,7401.0
+2025-11-04,Azul,Internacional,17,0,17,3,2,1,218.0
+2025-11-04,Demais companhias,Doméstico,85,13,72,18,15,11,1135.0
+2025-11-04,Demais companhias,Internacional,294,31,263,66,72,35,4863.0
+2025-11-04,GOL,Doméstico,628,3,625,72,60,22,4120.0
+2025-11-04,GOL,Internacional,30,0,30,0,1,0,20.0
+2025-11-04,LATAM Brasil,Doméstico,776,5,771,145,131,48,4009.0
+2025-11-04,LATAM Brasil,Internacional,73,0,73,15,22,10,886.0
+2025-11-05,Azul,Doméstico,765,9,756,174,180,97,8665.0
+2025-11-05,Azul,Internacional,21,0,21,6,9,5,487.0
+2025-11-05,Demais companhias,Doméstico,75,13,62,32,34,25,2481.0
+2025-11-05,Demais companhias,Internacional,318,23,293,77,103,58,8330.0
+2025-11-05,GOL,Doméstico,622,3,619,75,79,39,5449.0
+2025-11-05,GOL,Internacional,34,0,34,4,9,3,287.0
+2025-11-05,LATAM Brasil,Doméstico,773,2,771,228,236,105,8084.0
+2025-11-05,LATAM Brasil,Internacional,78,0,78,20,28,15,1082.0
+2025-11-06,Azul,Doméstico,762,3,759,108,115,51,4909.0
+2025-11-06,Azul,Internacional,18,0,18,6,6,5,550.0
+2025-11-06,Demais companhias,Doméstico,77,6,71,19,21,19,1155.0
+2025-11-06,Demais companhias,Internacional,342,26,316,103,107,74,11152.0
+2025-11-06,GOL,Doméstico,627,13,614,322,306,210,18014.0
+2025-11-06,GOL,Internacional,35,0,35,14,20,11,904.0
+2025-11-06,LATAM Brasil,Doméstico,780,9,771,259,236,107,8601.0
+2025-11-06,LATAM Brasil,Internacional,74,0,74,23,28,18,1051.0
+2025-11-07,Azul,Doméstico,787,22,765,140,140,80,8514.0
+2025-11-07,Azul,Internacional,15,0,15,3,4,2,389.0
+2025-11-07,Demais companhias,Doméstico,79,14,63,22,25,15,1920.0
+2025-11-07,Demais companhias,Internacional,317,29,286,94,102,72,9287.0
+2025-11-07,GOL,Doméstico,624,3,620,114,81,30,2868.0
+2025-11-07,GOL,Internacional,27,0,27,7,5,3,416.0
+2025-11-07,LATAM Brasil,Doméstico,771,17,754,201,183,82,6940.0
+2025-11-07,LATAM Brasil,Internacional,80,0,80,25,31,18,1223.0
+2025-11-08,Azul,Doméstico,695,15,680,212,228,115,10409.0
+2025-11-08,Azul,Internacional,18,0,18,2,3,0,65.0
+2025-11-08,Demais companhias,Doméstico,60,17,42,17,22,15,1908.0
+2025-11-08,Demais companhias,Internacional,318,35,282,75,82,50,6096.0
+2025-11-08,GOL,Doméstico,585,6,579,119,108,48,4853.0
+2025-11-08,GOL,Internacional,56,1,55,11,13,5,379.0
+2025-11-08,LATAM Brasil,Doméstico,709,31,678,218,226,134,9636.0
+2025-11-08,LATAM Brasil,Internacional,72,0,72,20,27,11,923.0
+2025-11-09,Azul,Doméstico,711,13,698,39,30,10,1033.0
+2025-11-09,Azul,Internacional,23,0,23,8,7,5,390.0
+2025-11-09,Demais companhias,Doméstico,35,8,27,11,12,7,1484.0
+2025-11-09,Demais companhias,Internacional,330,26,303,88,98,61,11939.0
+2025-11-09,GOL,Doméstico,636,1,635,68,44,16,1632.0
+2025-11-09,GOL,Internacional,52,1,51,9,4,4,188.0
+2025-11-09,LATAM Brasil,Doméstico,733,4,729,117,86,37,3151.0
+2025-11-09,LATAM Brasil,Internacional,70,0,70,20,21,6,680.0
+2025-11-10,Azul,Doméstico,812,15,797,54,46,15,1661.0
+2025-11-10,Azul,Internacional,16,0,16,1,3,0,76.0
+2025-11-10,Demais companhias,Doméstico,62,12,50,11,10,8,955.0
+2025-11-10,Demais companhias,Internacional,345,26,317,104,105,70,14504.0
+2025-11-10,GOL,Doméstico,620,2,618,72,38,9,1494.0
+2025-11-10,GOL,Internacional,34,0,34,1,2,1,75.0
+2025-11-10,LATAM Brasil,Doméstico,765,7,758,147,101,38,3512.0
+2025-11-10,LATAM Brasil,Internacional,71,0,71,19,17,7,620.0
+2025-11-11,Azul,Doméstico,773,19,754,117,103,59,7086.0
+2025-11-11,Azul,Internacional,17,1,16,5,5,1,163.0
+2025-11-11,Demais companhias,Doméstico,83,11,72,27,25,17,2049.0
+2025-11-11,Demais companhias,Internacional,307,34,271,75,81,50,6255.0
+2025-11-11,GOL,Doméstico,614,6,608,61,41,18,1822.0
+2025-11-11,GOL,Internacional,32,1,31,7,6,4,679.0
+2025-11-11,LATAM Brasil,Doméstico,776,4,772,92,66,15,1957.0
+2025-11-11,LATAM Brasil,Internacional,71,0,71,15,16,4,444.0
+2025-11-12,Azul,Doméstico,773,9,764,129,121,68,6773.0
+2025-11-12,Azul,Internacional,20,0,20,4,7,5,309.0
+2025-11-12,Demais companhias,Doméstico,69,2,67,18,18,15,2181.0
+2025-11-12,Demais companhias,Internacional,325,29,292,97,99,63,7752.0
+2025-11-12,GOL,Doméstico,623,1,621,73,45,14,1541.0
+2025-11-12,GOL,Internacional,34,0,34,4,4,1,103.0
+2025-11-12,LATAM Brasil,Doméstico,775,9,766,131,94,30,3368.0
+2025-11-12,LATAM Brasil,Internacional,76,0,76,17,20,9,703.0
+2025-11-13,Azul,Doméstico,771,9,762,91,90,38,3455.0
+2025-11-13,Azul,Internacional,16,0,16,3,4,2,150.0
+2025-11-13,Demais companhias,Doméstico,82,12,70,12,11,7,859.0
+2025-11-13,Demais companhias,Internacional,321,24,296,100,100,76,9758.0
+2025-11-13,GOL,Doméstico,621,1,620,71,48,14,3880.0
+2025-11-13,GOL,Internacional,33,0,33,4,6,1,148.0
+2025-11-13,LATAM Brasil,Doméstico,776,1,775,89,71,28,2501.0
+2025-11-13,LATAM Brasil,Internacional,71,0,71,23,24,13,872.0
+2025-11-14,Azul,Doméstico,794,2,792,76,69,30,2974.0
+2025-11-14,Azul,Internacional,15,0,15,1,2,0,37.0
+2025-11-14,Demais companhias,Doméstico,75,10,64,13,12,9,923.0
+2025-11-14,Demais companhias,Internacional,316,32,282,80,78,54,6352.0
+2025-11-14,GOL,Doméstico,626,6,619,58,31,14,1482.0
+2025-11-14,GOL,Internacional,34,0,34,4,2,0,43.0
+2025-11-14,LATAM Brasil,Doméstico,752,4,748,83,57,17,1960.0
+2025-11-14,LATAM Brasil,Internacional,78,0,78,12,16,9,555.0
+2025-11-15,Azul,Doméstico,693,0,693,36,33,12,1162.0
+2025-11-15,Azul,Internacional,18,0,18,4,5,1,167.0
+2025-11-15,Demais companhias,Doméstico,54,14,40,11,10,6,625.0
+2025-11-15,Demais companhias,Internacional,314,25,287,89,90,63,6887.0
+2025-11-15,GOL,Doméstico,585,4,581,46,35,18,1740.0
+2025-11-15,GOL,Internacional,59,2,57,3,2,1,628.0
+2025-11-15,LATAM Brasil,Doméstico,676,0,676,42,25,10,821.0
+2025-11-15,LATAM Brasil,Internacional,70,0,70,14,12,6,423.0
+2025-11-16,Azul,Doméstico,708,12,696,91,99,64,5459.0
+2025-11-16,Azul,Internacional,23,0,23,5,6,4,213.0
+2025-11-16,Demais companhias,Doméstico,30,2,28,10,7,4,391.0
+2025-11-16,Demais companhias,Internacional,328,27,299,105,104,67,8446.0
+2025-11-16,GOL,Doméstico,630,7,623,72,58,26,3042.0
+2025-11-16,GOL,Internacional,53,1,52,16,16,7,1917.0
+2025-11-16,LATAM Brasil,Doméstico,718,10,708,105,89,47,3925.0
+2025-11-16,LATAM Brasil,Internacional,67,1,66,20,25,14,897.0
+2025-11-17,Azul,Doméstico,817,14,803,124,128,76,8700.0
+2025-11-17,Azul,Internacional,16,0,16,4,3,1,81.0
+2025-11-17,Demais companhias,Doméstico,67,15,52,18,18,12,798.0
+2025-11-17,Demais companhias,Internacional,319,32,286,80,67,37,5783.0
+2025-11-17,GOL,Doméstico,621,5,616,124,104,46,4907.0
+2025-11-17,GOL,Internacional,34,0,34,3,3,2,94.0
+2025-11-17,LATAM Brasil,Doméstico,743,10,733,162,155,64,4871.0
+2025-11-17,LATAM Brasil,Internacional,69,0,69,14,15,5,487.0
+2025-11-18,Azul,Doméstico,771,7,764,124,147,64,6800.0
+2025-11-18,Azul,Internacional,18,1,17,5,4,2,163.0
+2025-11-18,Demais companhias,Doméstico,83,13,70,18,19,13,1124.0
+2025-11-18,Demais companhias,Internacional,297,33,263,67,69,48,5469.0
+2025-11-18,GOL,Doméstico,616,6,610,72,81,29,2625.0
+2025-11-18,GOL,Internacional,33,0,33,3,5,2,160.0
+2025-11-18,LATAM Brasil,Doméstico,755,8,747,192,227,120,9053.0
+2025-11-18,LATAM Brasil,Internacional,71,0,71,13,18,8,619.0
+2025-11-19,Azul,Doméstico,766,9,757,125,123,70,5923.0
+2025-11-19,Azul,Internacional,20,1,19,2,4,4,296.0
+2025-11-19,Demais companhias,Doméstico,70,9,61,23,23,14,1434.0
+2025-11-19,Demais companhias,Internacional,324,24,298,88,101,64,10149.0
+2025-11-19,GOL,Doméstico,621,4,617,86,78,29,4397.0
+2025-11-19,GOL,Internacional,34,0,34,5,5,0,106.0
+2025-11-19,LATAM Brasil,Doméstico,679,4,675,94,95,34,2710.0
+2025-11-19,LATAM Brasil,Internacional,76,0,76,14,15,8,547.0
+2025-11-20,Azul,Doméstico,729,5,724,94,82,42,4410.0
+2025-11-20,Azul,Internacional,17,0,17,4,4,2,810.0
+2025-11-20,Demais companhias,Doméstico,59,17,42,11,13,9,1053.0
+2025-11-20,Demais companhias,Internacional,333,25,307,103,99,73,9691.0
+2025-11-20,GOL,Doméstico,595,4,591,68,55,28,4942.0
+2025-11-20,GOL,Internacional,48,1,47,7,6,4,347.0
+2025-11-20,LATAM Brasil,Doméstico,661,10,651,87,74,27,2723.0
+2025-11-20,LATAM Brasil,Internacional,71,1,70,10,13,3,446.0
+2025-11-21,Azul,Doméstico,555,0,555,30,33,16,1430.0
+2025-11-21,Azul,Internacional,18,0,18,6,6,2,141.0
+2025-11-21,Demais companhias,Doméstico,44,12,27,6,8,5,669.0
+2025-11-21,Demais companhias,Internacional,314,24,287,97,84,49,6301.0
+2025-11-21,GOL,Doméstico,528,2,526,20,18,6,660.0
+2025-11-21,GOL,Internacional,42,0,42,6,5,2,157.0
+2025-11-21,LATAM Brasil,Doméstico,716,5,711,72,56,21,1829.0
+2025-11-21,LATAM Brasil,Internacional,78,0,78,8,5,1,136.0
+2025-11-22,Azul,Doméstico,536,3,533,33,37,18,1789.0
+2025-11-22,Azul,Internacional,18,0,18,2,3,2,92.0
+2025-11-22,Demais companhias,Doméstico,37,7,27,3,2,2,189.0
+2025-11-22,Demais companhias,Internacional,315,29,283,71,66,39,3915.0
+2025-11-22,GOL,Doméstico,465,1,464,15,12,5,695.0
+2025-11-22,GOL,Internacional,63,1,62,7,7,2,287.0
+2025-11-22,LATAM Brasil,Doméstico,671,0,671,45,39,12,1151.0
+2025-11-22,LATAM Brasil,Internacional,70,0,70,9,8,3,361.0
+2025-11-23,Azul,Doméstico,706,16,690,137,138,91,8563.0
+2025-11-23,Azul,Internacional,25,2,23,9,8,7,914.0
+2025-11-23,Demais companhias,Doméstico,34,7,26,5,6,2,684.0
+2025-11-23,Demais companhias,Internacional,334,28,304,119,103,74,11005.0
+2025-11-23,GOL,Doméstico,630,2,628,65,57,27,2468.0
+2025-11-23,GOL,Internacional,57,2,55,7,3,3,1009.0
+2025-11-23,LATAM Brasil,Doméstico,717,2,715,68,73,30,2611.0
+2025-11-23,LATAM Brasil,Internacional,65,0,65,4,13,4,503.0
+2025-11-24,Azul,Doméstico,815,13,802,160,157,92,10569.0
+2025-11-24,Azul,Internacional,17,0,17,5,6,3,377.0
+2025-11-24,Demais companhias,Doméstico,69,13,56,15,15,10,909.0
+2025-11-24,Demais companhias,Internacional,324,29,292,97,92,57,9131.0
+2025-11-24,GOL,Doméstico,613,2,611,144,130,63,4996.0
+2025-11-24,GOL,Internacional,34,1,33,6,6,4,250.0
+2025-11-24,LATAM Brasil,Doméstico,762,7,755,234,232,117,8783.0
+2025-11-24,LATAM Brasil,Internacional,67,0,67,11,16,6,529.0
+2025-11-25,Azul,Doméstico,780,13,767,126,124,72,7730.0
+2025-11-25,Azul,Internacional,16,2,14,3,2,2,97.0
+2025-11-25,Demais companhias,Doméstico,84,11,72,25,26,17,1783.0
+2025-11-25,Demais companhias,Internacional,297,28,269,73,72,39,4776.0
+2025-11-25,GOL,Doméstico,632,12,620,123,105,42,5764.0
+2025-11-25,GOL,Internacional,32,1,31,3,2,2,122.0
+2025-11-25,LATAM Brasil,Doméstico,780,2,778,140,142,53,5334.0
+2025-11-25,LATAM Brasil,Internacional,69,0,69,20,24,13,994.0
+2025-11-26,Azul,Doméstico,783,14,769,165,154,75,8953.0
+2025-11-26,Azul,Internacional,21,0,21,2,3,1,79.0
+2025-11-26,Demais companhias,Doméstico,76,3,73,30,29,20,2074.0
+2025-11-26,Demais companhias,Internacional,327,31,294,73,81,53,9532.0
+2025-11-26,GOL,Doméstico,625,7,618,89,73,32,4918.0
+2025-11-26,GOL,Internacional,38,1,37,6,9,2,237.0
+2025-11-26,LATAM Brasil,Doméstico,775,19,756,139,116,27,3640.0
+2025-11-26,LATAM Brasil,Internacional,74,0,74,20,22,8,798.0
+2025-11-27,Azul,Doméstico,771,9,762,119,103,48,4445.0
+2025-11-27,Azul,Internacional,18,0,18,1,3,1,116.0
+2025-11-27,Demais companhias,Doméstico,90,4,86,17,19,10,812.0
+2025-11-27,Demais companhias,Internacional,330,28,300,98,84,49,5502.0
+2025-11-27,GOL,Doméstico,625,7,617,99,74,40,4754.0
+2025-11-27,GOL,Internacional,31,1,30,2,3,1,138.0
+2025-11-27,LATAM Brasil,Doméstico,777,21,756,151,113,55,4267.0
+2025-11-27,LATAM Brasil,Internacional,71,0,71,13,16,7,600.0
+2025-11-28,Azul,Doméstico,777,3,774,122,141,68,7106.0
+2025-11-28,Azul,Internacional,20,0,20,5,9,5,375.0
+2025-11-28,Demais companhias,Doméstico,84,11,70,24,24,19,2021.0
+2025-11-28,Demais companhias,Internacional,321,32,289,110,108,57,6468.0
+2025-11-28,GOL,Doméstico,622,2,619,92,79,25,2298.0
+2025-11-28,GOL,Internacional,36,1,35,5,7,1,141.0
+2025-11-28,LATAM Brasil,Doméstico,773,9,764,221,186,89,7685.0
+2025-11-28,LATAM Brasil,Internacional,79,1,78,24,20,11,764.0
+2025-11-29,Azul,Doméstico,709,6,703,70,63,32,3115.0
+2025-11-29,Azul,Internacional,19,1,18,3,5,3,161.0
+2025-11-29,Demais companhias,Doméstico,60,3,52,15,16,10,1258.0
+2025-11-29,Demais companhias,Internacional,325,32,292,87,84,48,9301.0
+2025-11-29,GOL,Doméstico,583,2,581,92,62,26,2276.0
+2025-11-29,GOL,Internacional,59,3,56,7,6,4,272.0
+2025-11-29,LATAM Brasil,Doméstico,710,9,701,155,110,56,5145.0
+2025-11-29,LATAM Brasil,Internacional,70,0,70,18,15,7,855.0
+2025-11-30,Azul,Doméstico,701,8,693,90,88,45,4723.0
+2025-11-30,Azul,Internacional,28,0,28,11,11,3,350.0
+2025-11-30,Demais companhias,Doméstico,37,4,33,9,9,6,969.0
+2025-11-30,Demais companhias,Internacional,353,46,304,90,86,52,7168.0
+2025-11-30,GOL,Doméstico,631,6,625,88,66,38,4735.0
+2025-11-30,GOL,Internacional,65,2,63,14,15,9,686.0
+2025-11-30,LATAM Brasil,Doméstico,731,4,727,138,104,39,3764.0
+2025-11-30,LATAM Brasil,Internacional,68,0,68,21,14,7,742.0
+2025-12-01,Azul,Doméstico,811,9,802,188,194,108,9784.0
+2025-12-01,Azul,Internacional,17,1,16,6,7,1,181.0
+2025-12-01,Demais companhias,Doméstico,72,12,60,9,9,9,851.0
+2025-12-01,Demais companhias,Internacional,365,37,327,119,116,70,7977.0
+2025-12-01,GOL,Doméstico,634,9,625,115,80,28,4369.0
+2025-12-01,GOL,Internacional,34,1,33,5,3,0,52.0
+2025-12-01,LATAM Brasil,Doméstico,781,13,768,213,183,100,7201.0
+2025-12-01,LATAM Brasil,Internacional,65,0,65,21,21,12,926.0
+2025-12-02,Azul,Doméstico,784,13,771,232,241,143,11103.0
+2025-12-02,Azul,Internacional,19,1,18,8,9,5,355.0
+2025-12-02,Demais companhias,Doméstico,88,11,76,25,26,22,3088.0
+2025-12-02,Demais companhias,Internacional,333,44,288,92,110,69,6462.0
+2025-12-02,GOL,Doméstico,652,2,650,166,167,85,6370.0
+2025-12-02,GOL,Internacional,32,3,29,8,8,3,255.0
+2025-12-02,LATAM Brasil,Doméstico,783,25,758,299,300,177,12670.0
+2025-12-02,LATAM Brasil,Internacional,65,0,65,25,20,12,794.0
+2025-12-03,Azul,Doméstico,786,27,759,300,299,203,17416.0
+2025-12-03,Azul,Internacional,21,2,19,7,8,6,675.0
+2025-12-03,Demais companhias,Doméstico,82,5,77,23,26,20,2995.0
+2025-12-03,Demais companhias,Internacional,347,36,306,102,116,76,12468.0
+2025-12-03,GOL,Doméstico,643,7,635,82,76,19,2436.0
+2025-12-03,GOL,Internacional,40,2,38,5,8,1,220.0
+2025-12-03,LATAM Brasil,Doméstico,785,19,766,238,235,102,7960.0
+2025-12-03,LATAM Brasil,Internacional,70,0,70,25,30,13,925.0
+2025-12-04,Azul,Doméstico,779,29,750,183,163,82,6920.0
+2025-12-04,Azul,Internacional,18,1,17,7,7,2,229.0
+2025-12-04,Demais companhias,Doméstico,94,8,86,30,29,24,3672.0
+2025-12-04,Demais companhias,Internacional,362,43,317,93,91,58,9447.0
+2025-12-04,GOL,Doméstico,722,9,712,162,124,60,6009.0
+2025-12-04,GOL,Internacional,42,0,42,3,0,0,0.0
+2025-12-04,LATAM Brasil,Doméstico,789,12,777,246,200,99,7847.0
+2025-12-04,LATAM Brasil,Internacional,67,0,67,10,14,7,735.0
+2025-12-05,Azul,Doméstico,776,7,769,137,132,62,7509.0
+2025-12-05,Azul,Internacional,18,0,18,6,9,7,326.0
+2025-12-05,Demais companhias,Doméstico,81,11,70,20,17,11,1838.0
+2025-12-05,Demais companhias,Internacional,340,30,310,125,102,70,10646.0
+2025-12-05,GOL,Doméstico,737,3,734,151,122,53,4424.0
+2025-12-05,GOL,Internacional,38,1,37,7,3,1,93.0
+2025-12-05,LATAM Brasil,Doméstico,784,9,775,246,204,94,7451.0
+2025-12-05,LATAM Brasil,Internacional,73,0,73,18,12,5,438.0
+2025-12-06,Azul,Doméstico,712,7,705,147,122,77,6835.0
+2025-12-06,Azul,Internacional,18,0,18,8,9,4,279.0
+2025-12-06,Demais companhias,Doméstico,61,7,54,16,17,15,2136.0
+2025-12-06,Demais companhias,Internacional,356,38,315,89,86,55,10428.0
+2025-12-06,GOL,Doméstico,609,9,600,133,117,64,7128.0
+2025-12-06,GOL,Internacional,60,0,60,10,8,6,557.0
+2025-12-06,LATAM Brasil,Doméstico,717,5,712,168,128,61,4882.0
+2025-12-06,LATAM Brasil,Internacional,63,2,61,7,7,2,183.0
+2025-12-07,Azul,Doméstico,713,26,687,190,190,139,17041.0
+2025-12-07,Azul,Internacional,22,3,19,4,7,3,218.0
+2025-12-07,Demais companhias,Doméstico,40,2,37,12,12,5,1089.0
+2025-12-07,Demais companhias,Internacional,368,38,330,113,104,71,13625.0
+2025-12-07,GOL,Doméstico,665,18,647,166,169,114,11710.0
+2025-12-07,GOL,Internacional,55,0,55,7,10,2,257.0
+2025-12-07,LATAM Brasil,Doméstico,743,16,727,189,195,124,9768.0
+2025-12-07,LATAM Brasil,Internacional,64,0,64,16,11,7,420.0
+2025-12-08,Azul,Doméstico,824,34,788,253,244,164,12959.0
+2025-12-08,Azul,Internacional,24,3,20,8,9,6,1776.0
+2025-12-08,Demais companhias,Doméstico,63,7,56,16,19,8,1129.0
+2025-12-08,Demais companhias,Internacional,362,35,326,113,101,67,13228.0
+2025-12-08,GOL,Doméstico,714,31,683,260,247,166,15998.0
+2025-12-08,GOL,Internacional,39,1,38,9,8,6,346.0
+2025-12-08,LATAM Brasil,Doméstico,781,29,752,272,257,164,12398.0
+2025-12-08,LATAM Brasil,Internacional,66,0,66,22,21,9,826.0
+2025-12-09,Azul,Doméstico,785,44,740,358,389,307,26808.0
+2025-12-09,Azul,Internacional,20,1,19,8,10,7,533.0
+2025-12-09,Demais companhias,Doméstico,76,20,55,23,24,19,2747.0
+2025-12-09,Demais companhias,Internacional,335,43,289,99,123,84,9927.0
+2025-12-09,GOL,Doméstico,727,13,714,241,243,135,12316.0
+2025-12-09,GOL,Internacional,40,0,40,6,7,3,247.0
+2025-12-09,LATAM Brasil,Doméstico,782,59,723,338,358,212,16991.0
+2025-12-09,LATAM Brasil,Internacional,65,0,65,28,28,20,1427.0
+2025-12-10,Azul,Doméstico,779,119,660,363,374,286,29737.0
+2025-12-10,Azul,Internacional,24,2,22,6,7,6,421.0
+2025-12-10,Demais companhias,Doméstico,67,8,59,27,33,24,2826.0
+2025-12-10,Demais companhias,Internacional,350,40,307,121,128,86,11672.0
+2025-12-10,GOL,Doméstico,730,129,601,382,403,327,41379.0
+2025-12-10,GOL,Internacional,43,1,42,12,21,11,820.0
+2025-12-10,LATAM Brasil,Doméstico,785,206,579,387,415,331,35000.0
+2025-12-10,LATAM Brasil,Internacional,68,3,65,34,39,30,2655.0
+2025-12-11,Azul,Doméstico,782,95,687,389,397,290,26781.0
+2025-12-11,Azul,Internacional,17,3,14,7,10,6,397.0
+2025-12-11,Demais companhias,Doméstico,73,8,65,17,20,11,936.0
+2025-12-11,Demais companhias,Internacional,359,58,300,96,101,60,7355.0
+2025-12-11,GOL,Doméstico,725,55,670,494,473,382,44218.0
+2025-12-11,GOL,Internacional,39,0,39,27,25,16,1291.0
+2025-12-11,LATAM Brasil,Doméstico,789,185,604,417,408,300,23289.0
+2025-12-11,LATAM Brasil,Internacional,63,0,63,27,24,16,1096.0
+2025-12-12,Azul,Doméstico,795,41,754,344,351,226,20740.0
+2025-12-12,Azul,Internacional,19,2,17,9,11,9,750.0
+2025-12-12,Demais companhias,Doméstico,72,14,58,13,14,7,495.0
+2025-12-12,Demais companhias,Internacional,341,36,305,97,88,47,4872.0
+2025-12-12,GOL,Doméstico,720,21,699,321,289,185,14498.0
+2025-12-12,GOL,Internacional,43,2,41,8,9,4,289.0
+2025-12-12,LATAM Brasil,Doméstico,785,15,770,413,396,233,16760.0
+2025-12-12,LATAM Brasil,Internacional,73,0,73,21,22,12,738.0
+2025-12-13,Azul,Doméstico,722,32,690,299,283,202,18996.0
+2025-12-13,Azul,Internacional,18,0,18,9,10,7,575.0
+2025-12-13,Demais companhias,Doméstico,55,12,43,18,18,9,1395.0
+2025-12-13,Demais companhias,Internacional,356,36,318,101,94,59,8874.0
+2025-12-13,GOL,Doméstico,618,7,611,235,203,110,11316.0
+2025-12-13,GOL,Internacional,65,3,62,15,21,11,1302.0
+2025-12-13,LATAM Brasil,Doméstico,718,12,706,355,330,209,20052.0
+2025-12-13,LATAM Brasil,Internacional,65,0,65,17,24,14,1108.0
+2025-12-14,Azul,Doméstico,714,17,697,101,119,38,3904.0
+2025-12-14,Azul,Internacional,22,0,22,7,8,4,313.0
+2025-12-14,Demais companhias,Doméstico,20,2,18,9,9,8,1905.0
+2025-12-14,Demais companhias,Internacional,367,37,328,116,100,69,14180.0
+2025-12-14,GOL,Doméstico,669,13,656,159,134,53,5066.0
+2025-12-14,GOL,Internacional,57,1,56,9,7,3,390.0
+2025-12-14,LATAM Brasil,Doméstico,744,15,729,295,275,149,11321.0
+2025-12-14,LATAM Brasil,Internacional,64,1,63,18,19,11,676.0
+2025-12-15,Azul,Doméstico,802,16,786,196,208,108,8479.0
+2025-12-15,Azul,Internacional,21,0,21,10,10,6,511.0
+2025-12-15,Demais companhias,Doméstico,58,14,44,15,17,12,863.0
+2025-12-15,Demais companhias,Internacional,367,30,337,121,113,62,9077.0
+2025-12-15,GOL,Doméstico,723,11,712,210,157,82,8681.0
+2025-12-15,GOL,Internacional,43,0,43,8,5,0,115.0
+2025-12-15,LATAM Brasil,Doméstico,787,25,762,206,174,79,6870.0
+2025-12-15,LATAM Brasil,Internacional,64,1,63,19,25,12,1321.0
+2025-12-16,Azul,Doméstico,771,12,759,234,241,126,13861.0
+2025-12-16,Azul,Internacional,20,0,20,10,11,10,568.0
+2025-12-16,Demais companhias,Doméstico,72,7,65,17,19,15,1859.0
+2025-12-16,Demais companhias,Internacional,349,38,311,101,106,74,10755.0
+2025-12-16,GOL,Doméstico,730,2,728,216,201,112,9324.0
+2025-12-16,GOL,Internacional,41,0,41,8,5,0,108.0
+2025-12-16,LATAM Brasil,Doméstico,796,41,755,344,334,218,18591.0
+2025-12-16,LATAM Brasil,Internacional,57,0,57,27,28,23,2886.0
+2025-12-17,Azul,Doméstico,776,9,767,209,190,83,6974.0
+2025-12-17,Azul,Internacional,24,0,24,7,8,7,340.0
+2025-12-17,Demais companhias,Doméstico,63,9,54,28,29,23,2272.0
+2025-12-17,Demais companhias,Internacional,366,36,327,109,96,57,9274.0
+2025-12-17,GOL,Doméstico,727,1,726,189,157,66,5615.0
+2025-12-17,GOL,Internacional,51,0,51,10,9,3,612.0
+2025-12-17,LATAM Brasil,Doméstico,796,56,740,434,385,235,18261.0
+2025-12-17,LATAM Brasil,Internacional,62,1,61,28,28,14,1368.0
+2025-12-18,Azul,Doméstico,759,4,755,97,94,40,3104.0
+2025-12-18,Azul,Internacional,17,0,17,7,8,5,303.0
+2025-12-18,Demais companhias,Doméstico,70,9,61,15,15,11,698.0
+2025-12-18,Demais companhias,Internacional,374,36,336,127,124,85,14181.0
+2025-12-18,GOL,Doméstico,734,2,732,127,90,39,3078.0
+2025-12-18,GOL,Internacional,49,0,49,9,8,4,355.0
+2025-12-18,LATAM Brasil,Doméstico,798,14,784,254,206,104,8153.0
+2025-12-18,LATAM Brasil,Internacional,58,2,56,18,22,11,1004.0
+2025-12-19,Azul,Doméstico,766,19,747,124,124,62,6128.0
+2025-12-19,Azul,Internacional,18,0,18,5,9,3,428.0
+2025-12-19,Demais companhias,Doméstico,71,12,59,14,14,13,1446.0
+2025-12-19,Demais companhias,Internacional,366,32,334,117,111,67,9663.0
+2025-12-19,GOL,Doméstico,749,12,737,233,175,61,6035.0
+2025-12-19,GOL,Internacional,44,3,41,8,6,1,161.0
+2025-12-19,LATAM Brasil,Doméstico,790,3,787,248,218,89,7114.0
+2025-12-19,LATAM Brasil,Internacional,65,1,64,21,19,9,595.0
+2025-12-20,Azul,Doméstico,711,6,705,119,109,62,6009.0
+2025-12-20,Azul,Internacional,19,0,19,2,4,2,138.0
+2025-12-20,Demais companhias,Doméstico,53,4,49,19,20,16,1701.0
+2025-12-20,Demais companhias,Internacional,379,30,348,124,124,73,12525.0
+2025-12-20,GOL,Doméstico,638,1,637,133,69,29,3352.0
+2025-12-20,GOL,Internacional,69,0,69,11,9,4,274.0
+2025-12-20,LATAM Brasil,Doméstico,728,0,728,125,83,32,2979.0
+2025-12-20,LATAM Brasil,Internacional,58,0,58,14,17,8,648.0
+2025-12-21,Azul,Doméstico,707,12,695,78,75,40,3261.0
+2025-12-21,Azul,Internacional,23,0,23,6,11,4,766.0
+2025-12-21,Demais companhias,Doméstico,27,5,22,5,5,4,474.0
+2025-12-21,Demais companhias,Internacional,394,34,357,103,93,65,7971.0
+2025-12-21,GOL,Doméstico,687,2,685,148,111,42,5317.0
+2025-12-21,GOL,Internacional,61,0,61,14,14,0,297.0
+2025-12-21,LATAM Brasil,Doméstico,752,6,746,121,100,43,3468.0
+2025-12-21,LATAM Brasil,Internacional,57,0,57,10,13,5,446.0
+2025-12-22,Azul,Doméstico,791,6,785,146,151,79,7392.0
+2025-12-22,Azul,Internacional,22,2,20,6,6,3,186.0
+2025-12-22,Demais companhias,Doméstico,55,6,49,8,6,4,283.0
+2025-12-22,Demais companhias,Internacional,402,43,358,136,124,73,9762.0
+2025-12-22,GOL,Doméstico,736,7,729,144,104,51,3538.0
+2025-12-22,GOL,Internacional,44,0,44,9,8,7,995.0
+2025-12-22,LATAM Brasil,Doméstico,780,6,774,174,137,69,6155.0
+2025-12-22,LATAM Brasil,Internacional,58,1,57,12,13,7,527.0
+2025-12-23,Azul,Doméstico,757,10,747,154,161,69,6830.0
+2025-12-23,Azul,Internacional,23,0,23,6,8,4,1139.0
+2025-12-23,Demais companhias,Doméstico,70,6,62,30,32,19,1369.0
+2025-12-23,Demais companhias,Internacional,355,34,317,83,72,44,7326.0
+2025-12-23,GOL,Doméstico,749,7,742,147,126,41,4935.0
+2025-12-23,GOL,Internacional,44,0,44,10,9,6,1070.0
+2025-12-23,LATAM Brasil,Doméstico,776,2,774,220,177,85,6400.0
+2025-12-23,LATAM Brasil,Internacional,57,1,56,9,9,4,453.0
+2025-12-24,Azul,Doméstico,596,4,592,78,65,34,2858.0
+2025-12-24,Azul,Internacional,17,0,17,6,5,5,277.0
+2025-12-24,Demais companhias,Doméstico,61,13,48,16,17,12,1032.0
+2025-12-24,Demais companhias,Internacional,355,29,326,84,64,47,7767.0
+2025-12-24,GOL,Doméstico,593,5,588,49,38,15,1614.0
+2025-12-24,GOL,Internacional,43,0,43,3,2,2,82.0
+2025-12-24,LATAM Brasil,Doméstico,694,1,693,51,44,11,1782.0
+2025-12-24,LATAM Brasil,Internacional,62,1,61,9,3,0,70.0
+2025-12-25,Azul,Doméstico,549,8,541,58,52,30,2413.0
+2025-12-25,Azul,Internacional,16,0,16,2,4,1,162.0
+2025-12-25,Demais companhias,Doméstico,55,19,34,7,6,4,673.0
+2025-12-25,Demais companhias,Internacional,367,35,329,66,57,33,4656.0
+2025-12-25,GOL,Doméstico,556,1,555,68,57,24,2466.0
+2025-12-25,GOL,Internacional,51,1,50,4,5,1,152.0
+2025-12-25,LATAM Brasil,Doméstico,699,1,698,71,58,19,1969.0
+2025-12-25,LATAM Brasil,Internacional,57,1,56,12,13,8,822.0
+2025-12-26,Azul,Doméstico,768,11,757,128,132,84,7103.0
+2025-12-26,Azul,Internacional,20,0,20,3,7,2,279.0
+2025-12-26,Demais companhias,Doméstico,66,17,49,12,11,5,441.0
+2025-12-26,Demais companhias,Internacional,390,39,349,89,79,44,4234.0
+2025-12-26,GOL,Doméstico,731,7,724,201,182,114,12138.0
+2025-12-26,GOL,Internacional,46,0,46,13,15,8,567.0
+2025-12-26,LATAM Brasil,Doméstico,772,12,760,217,204,122,8510.0
+2025-12-26,LATAM Brasil,Internacional,64,2,62,15,16,9,719.0
+2025-12-27,Azul,Doméstico,719,5,714,103,114,64,5218.0
+2025-12-27,Azul,Internacional,19,1,18,1,3,0,70.0
+2025-12-27,Demais companhias,Doméstico,61,7,52,0,0,0,0.0
+2025-12-27,Demais companhias,Internacional,386,52,333,90,91,61,8823.0
+2025-12-27,GOL,Doméstico,667,5,662,146,140,75,5300.0
+2025-12-27,GOL,Internacional,72,1,71,18,27,16,1662.0
+2025-12-27,LATAM Brasil,Doméstico,727,16,711,166,174,109,7903.0
+2025-12-27,LATAM Brasil,Internacional,58,3,55,17,18,9,939.0
+2025-12-28,Azul,Doméstico,705,9,696,106,116,76,6662.0
+2025-12-28,Azul,Internacional,23,1,22,5,4,1,106.0
+2025-12-28,Demais companhias,Doméstico,38,5,33,9,9,7,691.0
+2025-12-28,Demais companhias,Internacional,406,43,361,105,94,69,7759.0
+2025-12-28,GOL,Doméstico,711,2,709,153,132,63,4914.0
+2025-12-28,GOL,Internacional,64,0,64,12,13,8,631.0
+2025-12-28,LATAM Brasil,Doméstico,726,5,721,105,96,43,3294.0
+2025-12-28,LATAM Brasil,Internacional,57,3,54,12,11,6,494.0
+2025-12-29,Azul,Doméstico,796,8,788,147,155,77,8067.0
+2025-12-29,Azul,Internacional,22,0,22,2,4,1,87.0
+2025-12-29,Demais companhias,Doméstico,66,7,59,10,8,2,233.0
+2025-12-29,Demais companhias,Internacional,402,43,358,94,85,50,7771.0
+2025-12-29,GOL,Doméstico,744,11,733,113,93,44,4045.0
+2025-12-29,GOL,Internacional,47,0,47,5,5,1,132.0
+2025-12-29,LATAM Brasil,Doméstico,773,8,765,147,140,63,5041.0
+2025-12-29,LATAM Brasil,Internacional,58,3,55,6,7,0,155.0
+2025-12-30,Azul,Doméstico,760,9,751,118,127,53,5646.0
+2025-12-30,Azul,Internacional,25,0,25,9,10,9,675.0
+2025-12-30,Demais companhias,Doméstico,76,5,71,9,9,4,415.0
+2025-12-30,Demais companhias,Internacional,363,36,327,115,116,84,10406.0
+2025-12-30,GOL,Doméstico,760,15,744,132,114,55,6315.0
+2025-12-30,GOL,Internacional,50,0,50,6,4,0,80.0
+2025-12-30,LATAM Brasil,Doméstico,772,4,768,126,122,48,3995.0
+2025-12-30,LATAM Brasil,Internacional,59,0,59,11,9,5,447.0
+2025-12-31,Azul,Doméstico,591,5,586,52,52,30,2744.0
+2025-12-31,Azul,Internacional,16,0,16,4,5,4,578.0
+2025-12-31,Demais companhias,Doméstico,61,13,48,6,5,4,365.0
+2025-12-31,Demais companhias,Internacional,371,35,335,81,75,50,5869.0
+2025-12-31,GOL,Doméstico,593,1,592,28,24,5,2355.0
+2025-12-31,GOL,Internacional,51,1,50,3,5,1,121.0
+2025-12-31,LATAM Brasil,Doméstico,677,2,675,47,43,18,1691.0
+2025-12-31,LATAM Brasil,Internacional,61,0,61,8,9,5,323.0
